@@ -1,3 +1,2 @@
-
-def main(): ...
-  print('hola')
+def main():
+    print("hola :)")
