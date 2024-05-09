@@ -7,11 +7,37 @@ import os
 import re
 
 # TODO:
-# -decidir si canviar la llista "pages" a un scrape dels menu-items de la soup
 # -error handling -> si response.status_code és diferent a 200 OK tenim un problema. Podem fer if response i ja ens diu si hi ha hagut success o no
-#
+# BUSCAR MILLOR NOM PER EXTENSIONS AND CLASSES!
 # - volem localització del monument amb el nom o no? Sí
-#petit va dir que era millor descarregar tots els monuments
+# petit va dir que era millor descarregar tots els monuments
+
+# llista de tuples (extensions d'url, llista de les classes d'html que voldrem trobar en aquests urls)
+url_extensions_and_classes = [
+    (
+        "edificacions-de-caracter-militar",
+        ["castell", "epoca-carlina", "muralles", "torre"],
+    ),
+    (
+        "edificacions-de-caracter-civil",
+        ["casa-forta", "palau", "pont", "torre-colomer"],
+    ),
+    (
+        "edificacions-de-caracter-religios",
+        [
+            "basilica",
+            "catedral",
+            "ermita",
+            "esglesia",
+            "esglesia-fortificada",
+            "monestir",
+        ],
+    ),
+    ("altres-llocs-dinteres", ["altres-llocs-dinteres"]),
+]
+
+
+# monument_classes = ["castell", "epoca-carlina", "muralles", "torre", "casa-forta", ""]
 
 
 @dataclass
@@ -28,30 +54,29 @@ class Monument:
 
 Monuments: TypeAlias = list[Monument]
 
-classes_monuments = ...
-
 
 def download_monuments(filename: str) -> None:
     """
     Download monuments from Catalunya Medieval.
     """
     with open(filename, "w") as file:
-        monuments = find_monuments(comarca)
-        for monument in monuments:
-            name = get_monument_name(monument)
-            lat, lon = get_monument_coords(monument)
-            file.write(f"{name}-{lat}-{lon}\n")
+        for i in range(len(url_extensions_and_classes)):
+            monuments = find_monuments(
+                url_extensions_and_classes[i][0], url_extensions_and_classes[i][1]
+            )
+            for monument in monuments:
+                name = get_monument_name(monument)
+                lat, lon = get_monument_coords(monument)
+                file.write(f"{name}-{lat}-{lon}\n")
 
 
-def comarques_in(zone: Zone) -> list[str]: ...
-
-
-def find_monuments(comarca: str) -> ResultSet[Tag]:
+def find_monuments(extension: str, classes: list[str]) -> ResultSet[Tag]:
     """..."""
-    url = f"https://www.catalunyamedieval.es/{comarca}/"
+
+    url = f"https://www.catalunyamedieval.es/{extension}/"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
-    monuments = soup.find_all("li", class_=...)
+    monuments = soup.find_all("li", class_=classes)
     print(monuments)
     return monuments
 
@@ -81,6 +106,8 @@ def get_monument_coords(monument: Tag) -> tuple[float, float]:
         tag
         for tag in a_tags
         if re.match(r"N \d+ \d+ \d+\.\d+ E \d+ \d+ \d+\.\d+", tag.text)
+        # aquí filtrem per buscar expressions tiups :  N 41 42 58.4 E 02 55 57.6
+        # només n'hi hauria d'haver una per pàgina que visitem
     )
     assert coordinates_a_tag
     # Extract the text content of the <a> tag
