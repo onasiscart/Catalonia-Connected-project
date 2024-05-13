@@ -25,3 +25,16 @@ def make_graph(segments: Segments, clusters: int) -> nx.Graph:
 
 def simplify_graph(graph: nx.Graph, epsilon: float) -> nx.Graph:
     """Simplify the graph."""
+
+
+
+
+def get_graph(segments: Segments, clusters: int, epsilon: float) -> nx.Graph:
+    G = make_graph(segments, clusters)
+    simplified = simplify_graph(G, epsilon)
+    weighted_G = add_weights(simplified)
+    return weighted_G
+    
+
+
+
