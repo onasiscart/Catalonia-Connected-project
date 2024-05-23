@@ -2,20 +2,15 @@ import networkx as nx
 from typing import TypeAlias
 from numpy import ndarray
 import numpy as np
-from dataclasses import dataclass
 from sklearn.cluster import KMeans
 from segments import *
-import matplotlib.pyplot as plt
-from haversine import haversine, Unit
+from haversine import haversine
+from math import acos
+from geographical import Point
 
 
-@dataclass
-class Point:
-    lat: float
-    lon: float
+# TO DO:
 
-
-# TODO:
 # solucionar el import numpy que no funciona i no sé per què
 # afegir distàncies en afegir les arestes
 # nombre mínim de segments per posar una aresta
@@ -39,8 +34,8 @@ def distance_between_nodes(coord1: Point, coord2: Point) -> float:
     point1, point2 = (coord1.lat, coord1.lon), (
         coord2.lat,
         coord2.lon,
-    )  # format per les dobles assignacions????
-    return haversine(point1, point2, unit=Unit.KILOMETERS)
+    )  
+    return haversine(point1, point2)
 
 
 def add_nodes(graph: nx.Graph, centroid_coords: ndarray) -> None:
@@ -76,15 +71,40 @@ def make_graph(segments: Segments, clusters: int) -> nx.Graph:  # type:ignore
     centroid_coords = kmeans.cluster_centers_
     point_labels = kmeans.labels_
     add_nodes(graph, centroid_coords)
-    add_edges(graph, point_labels, centroid_coords)
+    add_edges(graph, point_labels)
     return graph
+
+
+
+def _angle_between_points(p1: Point, p2: Point, p3: Point) -> float:
+    """
+    returns the angle in degrees between three points p1 p2 and p3.
+    """
+    v1 = np.array([p2.lat - p1.lat, p2.lon - p1.lon])
+    v2 = np.array([p2.lat - p3.lat, p2.lon - p3.lon])
+    angle_rad = acos(np.dot(v1, v2) / (np.linalg.norm(v1) * np.linalg.norm(v2)))
+    return np.degrees(angle_rad)
+
+
+def _update_segments(graph: nx.Graph, n1: int, n2: int, n3: int) -> None:
+    """
+    updates the segments of the graph, that is, deletes the mid-point from (n1 n2 n3)
+    and updates their distance.
+    """
+    graph.remove_node(n2)
+    graph.add_edge(n1, n3, weight = distance_between_nodes(graph.nodes[n1]["coord"], graph.nodes[n3]["coord"]))
 
 
 def simplify_graph(graph: nx.Graph, epsilon: float) -> nx.Graph:
     """Simplify the graph."""
+    for node in list(graph.nodes()):
+        if graph.degree(node) == 2:
+            neighbors = list(graph.neighbors(node))
+            u, v = neighbors[0], neighbors[1]
+            if _angle_between_points(graph.nodes[u]["coord"], graph.nodes[node]["coord"], graph.nodes[v]["coord"]) > epsilon:
+                _update_segments(graph, u, node, v)
+    return graph
 
 
-def get_graph(segments: Segments, clusters: int, epsilon: float) -> nx.Graph:
-    G = make_graph(segments, clusters)
-    simplified = simplify_graph(G, epsilon)
-    return simplified
+def get_graph(segments: Segments, clusters: Optional[int], epsilon: Optional[float]) -> nx.Graph:
+    return simplify_graph(make_graph(segments, clusters), epsilon)
