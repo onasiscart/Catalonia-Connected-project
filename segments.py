@@ -2,14 +2,13 @@ import requests
 import os
 import gpxpy
 import staticmap
-import subprocess
-import platform
 from haversine import haversine
 from dataclasses import dataclass
 from typing import TypeAlias
 from datetime import datetime
 from typing import Optional
 from geographical import Point, Zone
+from viewer import display_map
 
 
 @dataclass
@@ -24,7 +23,7 @@ MAX_TIME = 100  # maximum time difference acceptable between two points red like
 MAX_DIST = 0.1  # maximum distance in Km acceptable between two points
 
 
-def _distance_between_segments(start: Point, end: Point) -> float:
+def _distance_between_points(start: Point, end: Point) -> float:
     """
     Returns the distance between two geographical points 'start' and 'end' in Km
     """
@@ -41,23 +40,22 @@ def _format_date_and_time(time: Optional[datetime],) -> Optional[tuple[int, int]
     return None
 
 
-def _is_segment_valid(
-    p1: Point, p2: Point, p1_time: datetime, p2_time: datetime
-) -> bool:
+def _is_segment_valid(p1: Point, p2: Point, p1_time: datetime, p2_time: datetime) -> bool:
     """
     Returns a bool based on whether the segment 's' is valid for use or not.
     """
-    p1_time, p2_time = _format_date_and_time(p1_time), _format_date_and_time(p2_time)
-
-    if p1_time[1] > p2_time[1]:
-        return False
-    elif (p2_time[1] - p1_time[1]) > MAX_TIME:
-        return False
-    elif p1_time[0] != p2_time[0]:
-        return False
-    elif _distance_between_segments(p1, p2) > MAX_DIST:
-        return False
-    return True
+    time1, time2 = _format_date_and_time(time1), _format_date_and_time(time2)
+    if time1 and time2:
+        if time1[1] > time2[1]:
+            return False
+        elif (time2[1] - time1[1]) > MAX_TIME:
+            return False
+        elif time1[0] != time2[0]:
+            return False
+        elif _distance_between_points(p1, p2) > MAX_DIST:
+            return False
+        return True
+    return False
 
 
 def _download_segments(zone: Zone, filename: str) -> None:
@@ -85,9 +83,8 @@ def _download_segments(zone: Zone, filename: str) -> None:
                         segment.points.sort(key=lambda p: p.time)
                         for i in range(len(segment.points) - 1):
                             p1, p2 = segment.points[i], segment.points[i + 1]
-                            point1, point2 = Point(
-                                float(p1.latitude), float(p1.longitude)
-                            ), Point(float(p2.latitude), float(p2.longitude))
+                            point1 = Point(float(p1.latitude), float(p1.longitude))
+                            point2 = Point(float(p2.latitude), float(p2.longitude))
                             if _is_segment_valid(point1, point2, p1.time, p2.time):
                                 file.write(
                                     f"{p1.latitude}, {p1.longitude} - {p2.latitude}, {p2.longitude}\n"
@@ -129,18 +126,6 @@ def get_segments(zone: Zone, filename: str) -> Segments:
     return _load_segments(filename)
 
 
-def _display_map(filename: str) -> None:
-    """
-    Automatically opens the PNG file 'filename' containing the map of segments
-    """
-    if platform.system() == "Windows":
-        os.startfile(filename)
-    elif platform.system() == "Darwin":  # macOS
-        subprocess.run(["open", filename])
-    else:  # Linux and other Unix-like systems
-        subprocess.run(["xdg-open", filename])
-
-
 def show_segments(segments: Segments, filename: str) -> None:
     """
     Show all segments in a PNG file using staticmap.
@@ -159,8 +144,7 @@ def show_segments(segments: Segments, filename: str) -> None:
     static_map.render().save(
         filename, format="png"
     )  # no serveix de res poasr el fromat aquí, cal indicar-ho al cridar la funció amb
-    _display_map(filename)  # un nom filename.png
-
+    display_map(filename)  # un nom filename.png
 
 
 if __name__ == '__main__':
