@@ -43,17 +43,16 @@ def add_nodes(graph: nx.Graph, centroid_coords: ndarray) -> None:
     for cluster, coords in enumerate(centroid_coords):
         # nodes tenen el nombre de centroide com a nom i el Point amb les seves coordenades com a atribut
         graph.add_node(cluster, coord=Point(float(coords[0]), float(coords[1])), monuments=[])
+        print('el cluster conte la info: ', graph[cluster])
 
 
 def add_edges(graph: nx.Graph, point_labels: ndarray) -> None:
     """
     Adds edges to the graph.
     """
-    # segments_between_nodes: dict[tuple[int, int], int] = {}
     for i in range(0, len(point_labels), 2):
         p1cluster, p2cluster = point_labels[i], point_labels[i + 1]
         if p1cluster != p2cluster:
-            # if segments_between_nodes[(cluster1, cluster2)] > MIN_SEGMENTS:
             graph.add_edge(
                 p1cluster,
                 p2cluster,
@@ -77,7 +76,6 @@ def make_graph(segments: Segments, clusters: int) -> nx.Graph:  # type:ignore
     add_nodes(graph, centroid_coords)
     add_edges(graph, point_labels)
     return graph
-
 
 
 def _angle_between_points(p1: Point, p2: Point, p3: Point) -> float:
@@ -116,3 +114,7 @@ def get_graph(segments: Segments, clusters: Optional[int], epsilon: Optional[flo
     if not clusters or not epsilon:
         clusters, epsilon = 100, 30
     return simplify_graph(make_graph(segments, clusters), epsilon)
+
+
+# def get_not_simplified(segments: Segments, clusters: Optional[int], epsilon: Optional[float]) -> nx.Graph:
+#     return make_graph(segments, clusters)
