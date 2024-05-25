@@ -40,7 +40,7 @@ def download_monuments(filename: str) -> None:
             for name, coord in zip(names, coord_strings):
                 # el següent ...
                 monument_name = bytes(name, "utf-8").decode("unicode_escape")
-                file.write(f"{monument_name},{float(coord[0])},{float(coord[1])}\n")
+                file.write(f"{monument_name}:{float(coord[0])},{float(coord[1])}\n")
     file.close()
 
 
@@ -64,7 +64,8 @@ def load_monuments(box: Zone, filename: str) -> Monuments:
         monuments: list[Monument] = []
         for line in file:
             # cada línia del fitxer serà "nom, latitud, longitud"
-            name, lat, lon = line.strip().split(",")
+            name, coord_str = line.split(":")
+            lat, lon = coord_str.split(",")
             coord = Point(float(lat), float(lon))  # lat i lon eren strings
             if in_zone(box, coord):
                 monuments.append(Monument(name, coord))
@@ -92,7 +93,8 @@ def get_monuments(box: Zone, filename: str) -> Monuments:
 
 
 def main() -> None:
-    download_monuments("monuments.dat")
+    BOX_EBRE = Zone(Point(0.5739316671, 40.5363713), Point(0.9021482, 40.79886535))
+    get_monuments(BOX_EBRE, "monuments1.dat")
 
 
 if __name__ == "__main__":
