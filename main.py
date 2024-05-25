@@ -5,6 +5,8 @@ from yogi import *
 from graphmaker import *
 from dataclasses import dataclass
 import webbrowser
+from routes import *
+from monuments import *
 
 
 @dataclass
@@ -13,15 +15,14 @@ class Input:
     requested_maps: str
     clusters: Optional[int]
     epsilon: Optional[float]
-    start_point: Optional[float]
+    start_point: Optional[Point]
     files: dict[
         str, str
-    ]  # indicators for the filenames: data, segments, graphPNG, graphKML, routesPNG, routesKML
+    ]  # indicators for the filenames: segment_data, segments, graphPNG, graphKML, routesPNG, routesKML, monument_data
 
 
 def read_zone() -> Zone:
     print("Introduce the geographical coordinates of wour zone separated by spaces: \n")
-    # make zone ????
     p1, p2 = Point(read(float), read(float)), Point(read(float), read(float))
     return Zone(p1, p2)
 
@@ -33,23 +34,22 @@ def read_requested_maps() -> str:
         "   2. General map including routes and locations of medieval monuments in your zone.\n"
         "   0. All of them.\n"
     )
-
     request = read(str)
     while request not in "012":
         print("Not a valid option, try again")
         request = read(str)
-    if "1" in request:
-        return "segments"
-    elif "2" in request:
-        return "graph"
-    elif "0" in request:
-        return "all"
+    if '1' in request:
+        return 'segments'
+    elif '2' in request:
+        return 'graph'
+    elif '0' in request:
+        return 'all'
 
 
-def read_quality() -> tuple[int, float]:
+def read_quality() -> tuple[Optional[int], Optional[float]]:
     print(
-        f"\nPress 1 to select the level of detail you request in your maps.\n"
-        "Press 0 and the quality will be automatically generated.\n"
+        f"\nPress 1 to adjust the level of detail you want in your maps.\n"
+        "Press 0 and the quality will be set with default values.\n"
     )
     quality = read(str)
     while quality not in "01":
@@ -61,15 +61,13 @@ def read_quality() -> tuple[int, float]:
         n_clusters = read(int)
         print(f"\nSelect the minimum angle between segments in the graph: ", end="")
         epsilon = read(float)
-    
+        return (n_clusters, epsilon)
     else: 
-        n_clusters = epsilon = None
-
-    return (n_clusters, epsilon)
+        return (None, None)
 
 
 def read_start_point() -> Point:
-    print("\nIntroduce the coordinates where you request to start the route: ", end="")
+    print("\nIntroduce the coordinates where you will start the route: ", end="")
     return Point(read(float), read(float))
 
 
@@ -85,14 +83,17 @@ def read_filenames(requested_maps: str) -> dict[str, str]:
         "internet connection during the download.\n"
     )
 
-    print(f"\nData file: ", end="")
-    files["data"] = read(str) + ".txt"
+    print(f"\nSegments data file: ", end="")
+    files['segment_data'] = read(str) + ".txt"
 
-    if requested_maps == "segments" or requested_maps == "all":
+    if requested_maps == 'segments' or requested_maps == 'all':
         print(f"\nDetailed map: ", end="")
         files["segments"] = read(str) + ".png"
 
     if requested_maps == "graph" or requested_maps == "all":
+        print(f"\nMonuments data file: ", end="")
+        files['monument_data'] = read(str) + '.txt'
+
         print(f"\nGeneral 2D map: ", end="")
         files["graphPNG"] = read(str) + ".png"
 
@@ -121,9 +122,7 @@ def read_parameters() -> Input:
     else:
         clusters = epsilon = start_point = None
 
-    files = read_filenames(requested_maps)
-
-    return Input(map_zone, requested_maps, clusters, epsilon, start_point, files)
+    return Input(map_zone, requested_maps, clusters, epsilon, start_point, read_filenames(requested_maps))
 
 
 def print_welcome_message() -> None:
@@ -136,10 +135,7 @@ def print_welcome_message() -> None:
 
 def open_google_earth(url):
     """
-    Open a URL in the default web browser.
-
-    Parameters:
-    url (str): The URL to be opened.
+    Opens the URL 'url' in the default web browser.
     """
     try:
         webbrowser.open(url)
@@ -155,22 +151,24 @@ def main() -> None:
 
     if settings.requested_maps == "all" or settings.requested_maps == "segments":
         show_segments(
-            get_segments(settings.map_zone, settings.files["data"]),
+            get_segments(settings.map_zone, settings.files["segment_data"]),
             settings.files["segments"],
         )
 
     if settings.requested_maps == "all" or settings.requested_maps == "graph":
-        graph = get_graph(get_segments(settings.map_zone, settings.files['data']), settings.clusters, settings.epsilon)
-        #graph = get_graph_2(get_segments(settings.map_zone, settings.files['data']), settings.clusters, settings.epsilon)
+        graph = get_graph(get_segments(settings.map_zone, settings.files['segment_data']), settings.clusters, settings.epsilon)
+        routes = find_routes(graph, settings.start_point, get_monuments(settings.map_zone, settings.files['monument_data']))
+        #graph_not_simp = get_not_simplified(get_segments(settings.map_zone, settings.files['data']), settings.clusters, settings.epsilon)
+        print(routes)
+        #export_graph_PNG(graph, settings.files['graphPNG'])
+        #export_PNG(graph_not_simp, 'graf_EBRE_NOSIMP.png')
+        export_routes_PNG(routes, settings.files['routesPNG'])
 
-        export_PNG(graph, settings.files['graphPNG'])
-        # routes.export_PNG(routes, settings.files['routesPNG'])
+        # export_graph_KML(graph, settings.files['graphKML'])
+        # export_routes_KML(routes, settings.files['routesKML'])
 
-        export_KML(graph, settings.files['graphKML'])
-        # routes.export_KML(routes, settings.files['routesKML'])
-
-    # print_end_message()
-    open_google_earth('https://www.google.es/intl/es/earth/index.html')
+    #print_end_message()
+    #open_google_earth('https://www.google.es/intl/es/earth/index.html')
 
 
 
@@ -179,6 +177,7 @@ if __name__ == "__main__":
 
 
 # 0.5739316671 40.5363713 0.9021482 40.79886535 ebre
+# 0.651148 40.692481 ruta
 
 # 2.074469 41.523897 2.513922 41.807045 valles oriental
 
