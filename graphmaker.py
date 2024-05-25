@@ -10,10 +10,10 @@ from geographical import Point
 
 
 # TO DO:
-
-# solucionar el import numpy que no funciona i no sé per què
-# afegir distàncies en afegir les arestes
 # nombre mínim de segments per posar una aresta
+
+MIN_SEGMENTS = 0 # minimum number of segments that must connect two nodes in order to create an edge between them
+
 
 Edge: TypeAlias = tuple[int, int]  # edges will be between centroids
 
@@ -46,10 +46,14 @@ def add_nodes(graph: nx.Graph, centroid_coords: ndarray) -> None:
 
 
 def add_edges(graph: nx.Graph, point_labels: ndarray) -> None:
-    """"""
+    """
+    Adds edges to the graph.
+    """
+    # segments_between_nodes: dict[tuple[int, int], int] = {}
     for i in range(0, len(point_labels), 2):
         p1cluster, p2cluster = point_labels[i], point_labels[i + 1]
         if p1cluster != p2cluster:
+            # if segments_between_nodes[(cluster1, cluster2)] > MIN_SEGMENTS:
             graph.add_edge(
                 p1cluster,
                 p2cluster,
@@ -96,7 +100,9 @@ def _update_segments(graph: nx.Graph, n1: int, n2: int, n3: int) -> None:
 
 
 def simplify_graph(graph: nx.Graph, epsilon: float) -> nx.Graph:
-    """Simplify the graph."""
+    """
+    Simplifies the graph.
+    """
     for node in list(graph.nodes()):
         if graph.degree(node) == 2:
             neighbors = list(graph.neighbors(node))
@@ -107,4 +113,6 @@ def simplify_graph(graph: nx.Graph, epsilon: float) -> nx.Graph:
 
 
 def get_graph(segments: Segments, clusters: Optional[int], epsilon: Optional[float]) -> nx.Graph:
+    if not clusters or not epsilon:
+        clusters, epsilon = 100, 30
     return simplify_graph(make_graph(segments, clusters), epsilon)
