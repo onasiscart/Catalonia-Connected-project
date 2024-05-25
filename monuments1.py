@@ -64,8 +64,6 @@ def load_monuments(box: Zone, filename: str) -> Monuments:
         monuments: list[Monument] = []
         for line in file:
             # cada línia del fitxer serà "nom, latitud, longitud"
-            print(line)
-            print(line.split(":"))
             name, coord_str = line.split(":")
             lat, lon = coord_str.split(",")
             coord = Point(float(lat), float(lon))  # lat i lon eren strings
