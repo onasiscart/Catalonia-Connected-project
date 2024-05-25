@@ -1,0 +1,23 @@
+def add_edges(graph: nx.Graph, point_labels: ndarray) -> None:
+    """
+    Adds edges to the graph.
+    """
+    segments_between_nodes: dict[tuple[int, int], int] = {}
+    for i in range(0, len(point_labels), 2):
+        p1_label, p2_label = point_labels[i], point_labels[i + 1]
+        if p1_label != p2_label:
+            if p1_label > p2_label:
+                p1_label, p2_label = p2_label, p1_label
+            if (p1_label, p2_label) in segments_between_nodes:
+                if segments_between_nodes[(p1_label, p2_label)] > MIN_SEGMENTS:
+                    graph.add_edge(
+                        p1_label,
+                        p2_label,
+                        weight=distance_between_nodes(
+                            graph.nodes[p1_label]["coord"], graph.nodes[p2_label]["coord"]
+                        ),
+                    )
+                else:
+                    segments_between_nodes[(p1_label, p2_label)] += 1
+            else:
+                segments_between_nodes[(p1_label, p2_label)] = 1
