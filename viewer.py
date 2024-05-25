@@ -5,7 +5,7 @@ import platform
 import subprocess
 import os
 
-def _display_map(filename: str) -> None:
+def display_map(filename: str) -> None:
     """
     Automatically opens the PNG file 'filename' containing the map of segments
     """
@@ -17,7 +17,7 @@ def _display_map(filename: str) -> None:
         subprocess.run(["xdg-open", filename])
 
 
-def export_PNG(graph: nx.Graph, filename: str) -> None:
+def export_graph_PNG(graph: nx.Graph, filename: str) -> None:
     """Export the graph to a PNG file using staticmap."""
     # Create a StaticMap object
     static_map = StaticMap(width=800, height=600)
@@ -38,20 +38,13 @@ def export_PNG(graph: nx.Graph, filename: str) -> None:
 
     # Save the map as an image
     static_map.render().save(filename)
-    _display_map(filename)
+    display_map(filename)
 
 
-def export_KML(graph: nx.Graph, filename: str) -> None:
+def export_graph_KML(graph: nx.Graph, filename: str) -> None:
     """Export the graph to a KML file."""
     kml = simplekml.Kml()
 
-    # Add nodes to the KML
-    # for node in graph.nodes():
-    #     lon = graph.nodes[node]["coord"].lat
-    #     lat = graph.nodes[node]["coord"].lon
-    #     kml.newpoint(name=str(node), coords=[(lat, lon)])
-
-    # Add edges to the KML
     for u, v in graph.edges():
         u_lon, u_lat = graph.nodes[u]["coord"].lat, graph.nodes[u]["coord"].lon
         v_lon, v_lat = graph.nodes[v]["coord"].lat, graph.nodes[v]["coord"].lon
@@ -62,5 +55,5 @@ def export_KML(graph: nx.Graph, filename: str) -> None:
             simplekml.Color.blue
         )  # Change the edge color if needed
 
-    # Save the KML to a file
     kml.save(filename)
+    
