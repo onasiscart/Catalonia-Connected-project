@@ -19,7 +19,6 @@ def display_map(filename: str) -> None:
 
 def export_graph_PNG(graph: nx.Graph, filename: str) -> None:
     """Export the graph to a PNG file using staticmap."""
-    # Create a StaticMap object
     static_map = StaticMap(width=800, height=600)
 
     # Iterate over nodes and add them to the map
@@ -56,4 +55,3 @@ def export_graph_KML(graph: nx.Graph, filename: str) -> None:
         )  # Change the edge color if needed
 
     kml.save(filename)
-    
