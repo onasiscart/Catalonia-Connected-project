@@ -1,13 +1,13 @@
-import requests
 import os
 import gpxpy
+import requests
 import staticmap
-from haversine import haversine
-from dataclasses import dataclass
 from typing import TypeAlias
 from datetime import datetime
 from typing import Optional
 from geographical import Point, Zone
+from haversine import haversine
+from dataclasses import dataclass
 from viewer import display_map
 
 
@@ -44,7 +44,7 @@ def _is_segment_valid(p1: Point, p2: Point, p1_time: datetime, p2_time: datetime
     """
     Returns a bool based on whether the segment 's' is valid for use or not.
     """
-    time1, time2 = _format_date_and_time(time1), _format_date_and_time(time2)
+    time1, time2 = _format_date_and_time(p1_time), _format_date_and_time(p2_time)
     if time1 and time2:
         if time1[1] > time2[1]:
             return False
@@ -63,7 +63,8 @@ def _download_segments(zone: Zone, filename: str) -> None:
     Download all segments in thezone and save them to the file 'filename'.
     """
     p1, p2 = zone.bottom_left, zone.top_right
-    zone_string = "{},{}, {},{}".format(p1.lat, p1.lon, p2.lat, p2.lon)
+
+    zone_string = "{},{}, {},{}".format(p1.lon, p1.lat, p2.lon, p2.lat)
 
     page = 0
     with open(filename, "w") as file:
@@ -100,10 +101,9 @@ def _load_segments(filename: str) -> Segments:
     with open(filename, "r") as file:
         for line in file:
             points_data = line.strip().split(" - ")
-            point1_data, point2_data = points_data[0].split(", "), points_data[1].split(
-                ", "
-            )
-
+            point1_data = points_data[0].split(", ")
+            point2_data = points_data[1].split(", ")
+            
             point1 = Point(
                 float(point1_data[0]),
                 float(point1_data[1]),
