@@ -43,7 +43,6 @@ def add_nodes(graph: nx.Graph, centroid_coords: ndarray) -> None:
     for cluster, coords in enumerate(centroid_coords):
         # nodes tenen el nombre de centroide com a nom i el Point amb les seves coordenades com a atribut
         graph.add_node(cluster, coord=Point(float(coords[0]), float(coords[1])), monuments=[])
-        print('el cluster conte la info: ', graph[cluster])
 
 
 def add_edges(graph: nx.Graph, point_labels: ndarray) -> None:
@@ -114,6 +113,10 @@ def get_graph(segments: Segments, clusters: Optional[int], epsilon: Optional[flo
     if not clusters or not epsilon:
         clusters, epsilon = 100, 30
     return simplify_graph(make_graph(segments, clusters), epsilon)
+
+
+# def get_not_simplified(segments: Segments, clusters: Optional[int], epsilon: Optional[float]) -> nx.Graph:
+#     return make_graph(segments, clusters)
 
 
 # def get_not_simplified(segments: Segments, clusters: Optional[int], epsilon: Optional[float]) -> nx.Graph:
