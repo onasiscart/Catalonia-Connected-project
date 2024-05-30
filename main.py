@@ -157,15 +157,14 @@ def main() -> None:
 
     if settings.requested_maps == "all" or settings.requested_maps == "graph":
         graph = get_graph(get_segments(settings.map_zone, settings.files['segment_data']), settings.clusters, settings.epsilon)
-        routes = find_routes(graph, settings.start_point, get_monuments(settings.map_zone, settings.files['monument_data']))
-        #graph_not_simp = get_not_simplified(get_segments(settings.map_zone, settings.files['data']), settings.clusters, settings.epsilon)
-        print(routes)
-        #export_graph_PNG(graph, settings.files['graphPNG'])
-        #export_PNG(graph_not_simp, 'graf_EBRE_NOSIMP.png')
+        monuments: Monuments = get_monuments(settings.map_zone, settings.files['monument_data'])
+        routes = find_routes(graph, settings.start_point, monuments)
+
+        export_graph_PNG(graph, settings.files['graphPNG'])
         export_routes_PNG(routes, settings.files['routesPNG'])
 
-        # export_graph_KML(graph, settings.files['graphKML'])
-        # export_routes_KML(routes, settings.files['routesKML'])
+        export_graph_KML(graph, settings.files['graphKML'])
+        export_routes_KML(routes, settings.files['routesKML'])
 
     #print_end_message()
     #open_google_earth('https://www.google.es/intl/es/earth/index.html')
@@ -176,11 +175,34 @@ if __name__ == "__main__":
     main()
 
 
-# 0.5739316671 40.5363713 0.9021482 40.79886535 ebre
-# 0.651148 40.692481 ruta
+#          0.5739316671 40.5363713 0.9021482 40.79886535             ebre
 
-# 2.074469 41.523897 2.513922 41.807045 valles oriental
+#          40.5363713 0.5739316671 40.79886535 0.9021482            ebre
 
-# 3.144315 42.258556  3.310615 42.345739 cap de creus
+#          40.692481   0.651148           ruta
+
+#                     ruta
+
+
+# 41.523897 2.074469  41.807045 2.513922  valles oriental
+
+#   41.548676 2.246927 casa meva
+
+# 41.542625  2.263915 casa abril
+
+
+# 41.597703   1.949020   41.681057  2.168082   Matadepera
+
+#  41.630280  2.007482   casa Ona
+
+
+
+# 42.258556 3.144315  42.345739 3.310615 cap de creus
+
+#  42.289634  3.210129
 
 # 0.699934 42.653002  1.021971 42.782149 vall d'aran
+
+#
+
+#graph_not_simp = get_not_simplified(get_segments(settings.map_zone, settings.files['data']), settings.clusters, settings.epsilon)
