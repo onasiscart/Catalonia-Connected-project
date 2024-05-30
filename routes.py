@@ -15,6 +15,7 @@ class Route:
     end: Point      # punt del node on acaba la ruta, contindrà un monument
     path: list[Point] # llista de nodes per on passem
 
+
 Routes = list[Route]
 
 
@@ -85,7 +86,7 @@ def find_shortest_routes(graph: nx.Graph, location: int) -> Routes:  # no entenc
             routes.append(Route(_compute_total_lenght(graph, path), start_point, endpoint, point_path))
 
         except nx.NetworkXNoPath:
-            print(f"No path between {location} and {target}")
+            print(f"There's no path between your starting point and {graph.nodes[target]['monuments'][0].name}")
 
     return routes
 
@@ -122,24 +123,16 @@ def export_routes_PNG(routes: Routes, filename: str) -> None:
 
 def export_routes_KML(routes: Routes, filename: str) -> None:
     """
-    Export the graph to a KML file. 
+    Export the routes to a KML file.
     """
     kml = simplekml.Kml()
-    for route in routes:
-        # Create a LineString representing the route path
-        linestring = kml.newlinestring(
-            name=f"Route: {route.start} to {route.end}",
-            description=f"Total distance: {route.total_dist}",
-            coords=[(point.lon, point.lat) for point in route.path],
-        )
 
-        # Add location and end points as placemarks
-        kml.newpoint(
-            name=f"Start: {route.start}",
-            coords=[(route.start.lon, route.start.lat)],
-        )
-        kml.newpoint(
-            name=f"End: {route.end}", coords=[(route.end.lon, route.end.lat)]
-        )
-    # Save the KML to a file
+    for route in routes:
+        linestring = kml.newlinestring()
+        linestring.coords = [(point.lon, point.lat) for point in route.path]
+        linestring.style.linestyle.color = simplekml.Color.red
+        linestring.style.linestyle.width = 3
+        linestring.name = f"Route from ({route.start.lat}, {route.start.lon}) to ({route.end.lat}, {route.end.lon})"
+        linestring.description = f"Total Distance: {route.total_dist} km"
+
     kml.save(filename)
