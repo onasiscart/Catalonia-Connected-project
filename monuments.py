@@ -60,15 +60,16 @@ def find_monuments() -> Tag | None:
 
 def load_monuments(box: Zone, filename: str) -> Monuments:
     """Load monuments from a file."""
-    with open(filename, "r") as file:
-        monuments: list[Monument] = []
-        for line in file:
-            # cada línia del fitxer serà "nom, latitud, longitud"
-            name, coord_str = line.split(":")
-            lat, lon = coord_str.split(",")
-            coord = Point(float(lat), float(lon))  # lat i lon eren strings
-            if in_zone(box, coord):
-                monuments.append(Monument(name, coord))
+    file = open(filename, "r")
+    monuments: list[Monument] = []
+    for line in file:
+        # cada línia del fitxer serà "nom, latitud, longitud"
+        name, coord_str = line.split(":")
+        lat, lon = coord_str.split(",")
+        coord = Point(float(lat), float(lon))  # lat i lon eren strings
+        if in_zone(box, coord):
+            monuments.append(Monument(name, coord))
+    file.close()
     return monuments
 
 
@@ -92,10 +93,5 @@ def get_monuments(box: Zone, filename: str) -> Monuments:
     return load_monuments(box, filename)
 
 
-def main() -> None:
-    BOX_EBRE = Zone(Point(0.5739316671, 40.5363713), Point(0.9021482, 40.79886535))
-    get_monuments(BOX_EBRE, "monuments1.dat")
-
-
 if __name__ == "__main__":
-    main()
+    pass
