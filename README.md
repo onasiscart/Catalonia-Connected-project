@@ -128,9 +128,9 @@ The problem is that, in this case, we had to do a clustering to a set of points 
 #### Simplifying
 The objective of showing the graph in a map is to give the user a general view of of the region and to complement the routes map. For a detailed view of the routes you can check the segments map. That is the reason why, similarly to what we have done with the data, the graph is cleaned and simplified after being built. We have seen that some edges can be removed without losing too much information. Without going into details, an node can be removed if it has less than three edges connected to it and if the edges form an angle smaller than a constant. This constant is set by default at 30 degrees, but it can be modified by the user through the input. After simplifying, the distances have to be updated. This is a comparison between the not-simplified graph, and the cleaned one:
 
-![](not_simplified_EBRE.png)
+![](not_simplified_ebre.png)
 
-![](graph_EBRE.png)
+![](graph_ebre.png)
 
 
 ### Finding the routes
