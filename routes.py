@@ -13,7 +13,7 @@ class Route:
     start: Point
     end: Point  # coordinates of the endpoint of the routes (corresponds to "coord" attribute of a node in the graph)
     path: list[Point]  # list of points (nodes in the graph) visited
-
+      
 
 Routes = list[Route]
 
@@ -41,7 +41,7 @@ def assign_monuments(graph: nx.Graph, endpoints: Monuments) -> None:
     for monument in endpoints:
         closest_node = search_for_closest_node(graph, monument.location)
         graph.nodes[closest_node]["monuments"].append(monument)
-
+        
 
 def compute_total_distance(graph: nx.Graph, path: list[int]) -> float:
     """
@@ -79,7 +79,7 @@ def find_shortest_routes(graph: nx.Graph, start: int) -> Routes:
     return routes
 
 
-def find_routes(graph: nx.Graph, start: Point, endpoints: Monuments) -> Routes:
+def find_routes(graph: nx.Graph, location: Point, endpoints: Monuments) -> Routes:
     """
     Find the shortest routes between the starting point "start" and all the endpoints.
     """

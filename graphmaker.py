@@ -5,8 +5,7 @@ import numpy as np
 from sklearn.cluster import KMeans
 from segments import *
 from math import acos
-from geographical import Point
-from viewer import *
+from geographical import Point, distance_between_points
 
 
 MIN_SEGMENTS = 0  # minimum number of segments that must connect two nodes in order to create an edge between them
@@ -28,7 +27,7 @@ def modify_for_kmeans(segments: Segments) -> ndarray:  # type:ignore
     )
     return points
 
-
+  
 def add_nodes(graph: nx.Graph, centroid_coords: ndarray) -> None:
     """
     given a graph and a list of coordinates, adds nodes to the graph. Nodes will have the centroid number
@@ -39,8 +38,8 @@ def add_nodes(graph: nx.Graph, centroid_coords: ndarray) -> None:
         graph.add_node(
             centroid, coord=Point(float(coords[0]), float(coords[1])), monuments=[]
         )
-
-
+        
+        
 def add_edges(graph: nx.Graph, point_labels: ndarray) -> None:
     """
     Adds edges to the graph, using point-labels (a list containing the cluster each point was assigned to)
@@ -87,8 +86,8 @@ def make_graph(segments: Segments, numclusters: int) -> nx.Graph:  # type:ignore
     add_nodes(graph, centroid_coords)
     add_edges(graph, point_labels)
     return graph
-
-
+  
+  
 def angle_between_points(p1: Point, p2: Point, p3: Point) -> float:
     """
     Returns the angle in degrees between three points p1 p2 and p3.
@@ -98,7 +97,7 @@ def angle_between_points(p1: Point, p2: Point, p3: Point) -> float:
     angle_rad = acos(np.dot(v1, v2) / (np.linalg.norm(v1) * np.linalg.norm(v2)))
     return np.degrees(angle_rad)
 
-
+  
 def simplify_edge(graph: nx.Graph, n1: int, n2: int, n3: int) -> None:
     """
     Given a graph and three adjacent nodes n1, n2, n3, deletes the midpoint n2 and adds an edge

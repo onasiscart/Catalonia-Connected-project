@@ -12,6 +12,7 @@ from monuments import *
 @dataclass
 class Input:
     map_zone: Zone
+
     requested_maps: str  # this will either be "graph", "segments", "routes" or "all"
     clusters: Optional[int]
     epsilon: Optional[float]
@@ -114,7 +115,6 @@ def read_quality() -> tuple[Optional[int], Optional[float]]:
         "Press 0 and the quality will be set with default values.\n"
     )
     quality = read(str)
-    # error handling
     while quality not in "01":
         print("Not a valid option, select 0 or 1.\n")
         quality = read(str)
@@ -225,6 +225,7 @@ def main() -> None:
     settings = read_input()
     print(f"\nGenarating your maps. This might take a while...")
     generate_requested_maps(settings)
+ 
 
 
 if __name__ == "__main__":
@@ -250,7 +251,6 @@ if __name__ == "__main__":
 # 41.597703   1.949020   41.681057  2.168082   Matadepera
 
 #  41.630280  2.007482   casa Ona
-
 
 # 42.258556 3.144315  42.345739 3.310615 cap de creus
 

@@ -18,6 +18,7 @@ class Segment:
 
 Segments: TypeAlias = list[Segment]
 
+
 MAX_TIME = 100  # maximum time difference acceptable between two points read like xx : xx (min, sec)
 MAX_DIST = 0.1  # maximum distance in Km acceptable between two points
 
@@ -53,6 +54,7 @@ def is_segment_valid(
             return False
         return True
     return False
+
 
 
 def download_segments(zone: Zone, filename: str) -> None:
@@ -104,7 +106,6 @@ def load_segments(filename: str) -> Segments:
             points_data = line.strip().split(" - ")
             point1_data = points_data[0].split(", ")
             point2_data = points_data[1].split(", ")
-
             point1 = Point(
                 float(point1_data[0]),
                 float(point1_data[1]),
