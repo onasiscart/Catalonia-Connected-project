@@ -124,6 +124,7 @@ The graph is built using a clustering algorithm from the points obtained from th
 The objective of showing the graph in a map is to give the user a general view of of the region and to complement the routes map. For a detailed view of the routes you can check the segments map. That is the reason why, similarly to what we have done with the data, the graph is cleaned and simplified after being built. We have seen that some edges can be removed without losing too much information. Without going into details, an node can be removed if it has less than three edges connected to it and if the edges form an angle smaller than a constant. This constant is set by default at 30 degrees, but it can be modified by the user through the input. Also, we have set a standard of minimum GPS tracks that must connect two points from the graph to prevent them from being connected only by a single segment that crossed through a single not-accessible path. This is a comparison between the not-simplified graph, and the cleaned one:
 
 ![](not_simplified_EBRE.png)
+
 ![](graph_EBRE.png)
 
 
