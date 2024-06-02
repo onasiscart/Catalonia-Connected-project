@@ -1,0 +1,3552 @@
+Ajuntament d’Arnes :40.909915,0.260738
+Antiga presó d’Horta:40.953871,0.316882
+Ca La Pruna:41.970474,3.144429
+Ca l’Amar de la Torre:41.600727,2.54599
+Cal Ferrer de les Torres:42.165833,2.748056
+Cal Llossaire:42.25481,2.888873
+Cal Marquès:42.315613,3.116603
+Cal Ribalta de la Fortesa:41.747008,1.537831
+Can Bofí de la Torre:42.172361,2.784028
+Can Cabanyes:41.56496,2.411024
+Can Draper:41.662028,2.264639
+Can Fàbrega:41.975311,3.000365
+Can Figa:41.959408,3.125044
+Can Frigola:41.887901,2.873931
+Can Mallol de la Torre:41.60627,2.542222
+Can Mas Grau:41.89822,2.80468
+Can Milans Perejordi:41.572224,2.526389
+Can Puig de la Bellacasa:42.122778,2.779444
+Can Saló de Casavells:42.00003,3.032056
+Can Savall de Planils:41.997769,2.993183
+Can Savalls:41.86198,3.073471
+Can Vinyals:42.054626,2.964018
+Casa Caramany:42.18866,3.082242
+Casa de Santa Anna de Merola:41.631919,2.669189
+Casa del Delme:42.148975,3.026894
+Casa del Marquès de Camps:41.973665,2.776117
+Casa del Senyor:41.440102,1.865782
+Casa del Senyor del Mal Ús:41.863468,3.074483
+Casa dels Templers:41.943459,2.786598
+Casa forta de la Campanera :41.367766,1.473814
+Casa Forta de la Santa Creu:42.006879,1.142262
+Casa forta de Miravet:42.108574,0.840451
+Casa forta de Torreferrada:41.911842,2.174797
+Casa forta del Mas Pontons:41.43536,1.536426
+Casa Gòtica:41.553864,2.400558
+Casa Pairal del Noguer de Segueró:42.242313,2.747365
+Casa Periques:41.977138,1.885189
+Casa Pol:41.500361,2.321917
+Casa Portolà:42.700672,0.872541
+Casa Tristany:41.87065,1.540239
+Casal de Bellpuig:41.920376,2.321852
+Casal de Blancafort:41.699814,2.283507
+Casal de Mont-ral:41.952003,2.243831
+Casal de Mont-rodon:41.864944,2.266684
+Casal de Portavella:42.136467,2.137093
+Casal de Rosanes:41.663063,2.281562
+Casal del Puig de la Balma:41.694167,1.961944
+Casal del Villar:41.681576,2.170028
+Casal d’Espinzella:41.854733,2.338403
+Castell de Castellnou de la Plana:41.802586,2.103294
+Castell-palau dels Montpalau:42.21376,2.64182
+Castellet de Guanta:41.640259,2.114042
+Cooperativa:41.646164,2.741392
+Doldellops:41.285948,1.220721
+El Casalot:41.797573,1.634313
+El Castellot de Marcovau:41.868127,1.033297
+El Farell:41.680556,1.918667
+El Saiol Comtal:41.806889,2.096216
+Els Castellots:41.483849,1.559879
+Força de Bellpuig:42.241894,2.617112
+La Casa Murada:41.273705,1.528242
+La Cortada dels Llucs:42.008037,1.979072
+La Guaita de Pregones:41.970546,1.946183
+La Marineta:41.580292,2.24666
+La Sala:41.818272,1.72922
+La Sala:42.338482,2.30184
+La Sala:41.804333,2.28475
+La Sala:41.840639,2.359222
+La Torre:41.959911,2.738425
+La Torreta:42.010083,1.565306
+Les Romagueres:41.95773,2.56171
+Mas Alrà:41.878853,2.755068
+Mas Bellver:42.08733,2.91727
+Mas Bru:41.988276,2.798918
+Mas Calbó :41.109526,1.124553
+Mas de la Closa:41.825908,1.785804
+Mas de la Muga:41.223885,1.565898
+Mas de la Torre d’en Rosés:41.984662,2.845154
+Mas de Nuix:41.623671,1.285767
+Mas de Palaudàries:41.607941,2.200055
+Mas els Felius:41.980353,2.240835
+Mas Reixach:41.828333,2.985833
+Mas Serra de Degotalls:41.989483,1.988893
+Mas Soler:41.18802,1.407317
+Mas Torretes:41.831194,3.0835
+Masia Casanova:42.002641,1.457106
+Masia de Cal Cisteller:41.959419,1.0428
+Masia de les Feixes de Coaner:41.841664,1.688214
+Masia de Mas Moles:41.505657,2.343073
+Masia fortificada de Can Biel:41.960417,2.654083
+Masia fortificada de Can Planes:41.952694,2.651667
+Masia Les Torres:41.792167,1.927917
+Masmunter:41.107903,0.953069
+Nucli de Mas de Bondia:41.605299,1.191984
+Presó o Casa de la Castellania:41.052953,0.436608
+Torre de Foix:42.209507,1.858666
+Torre de la Llebre:41.47609,2.034594
+Torre de Seva:41.62731,2.29685
+Torre de Taialà:41.996811,2.808488
+Torre del Pla:41.62165,2.23936
+Torre Ferrana:41.96455,2.761531
+Torre Llupiana:41.891552,2.83002
+Torre Negra:41.465164,2.100737
+Torre Sampsona:41.952788,2.804503
+Torres Altes de Foix:41.411015,1.543643
+Torreta de Vallflor:41.342234,1.486323
+Ajuntament de Vilafranca:41.346507,1.698001
+Cal Gomà:41.347501,1.695827
+Cal Macià:41.346402,1.697937
+Can Nató:42.021179,3.010849
+Casa Canals:41.118111,1.260056
+Casa de la Vila:41.701667,1.052944
+Casa Gran:41.82425,1.895472
+Casa Ramon Balle:42.049885,2.953667
+Casa Salieti:41.983554,2.825082
+Casa-Palau dels Gibert:41.913958,1.679703
+Casal dels Josa:41.377115,1.161753
+Casal Palau dels Marquesos d’Aitona –Serós :41.463045,0.409152
+La Fontana d’or:41.98458,2.82562
+La Paeria:41.614686,0.626802
+Obra de Fluvià:41.788731,1.299402
+Palau Abacial del Pont de Suert :42.407204,0.739657
+Palau Alenyà:41.377028,1.162833
+Palau Baltà:41.3472,1.697061
+Palau Comtal:42.258064,3.074073
+Palau de l&#8217;Abadia:42.232441,2.285607
+Palau de l&#8217;Abat:42.281555,2.97943
+Palau de la Cambreria:41.118833,1.257583
+Palau de Marianao:41.352611,2.022722
+Palau del Castlà:41.375782,1.162547
+Palau del marqués de Llió:41.453657,1.703682
+Palau dels Cabrera:41.675945,2.792704
+Palau dels Comtes de Centelles :41.797523,2.219434
+Palau dels Margarit:42.154942,3.06974
+Palau dels Marquesos de la Floresta:41.64758,1.14019
+Palau dels Oliver de Boteller:40.813333,0.521306
+Palau Despuig:40.813306,0.522028
+Palau Episcopal:41.986844,2.82605
+Palau Episcopal:41.993994,1.519117
+Palau Episcopal:40.813998,0.521413
+Palau Llobera:41.995567,1.51927
+Palau Novella:41.29177,1.85256
+Palau Oriol:40.813194,0.521917
+Palau Reial:42.043274,3.125921
+Palau Reial:41.375961,1.161021
+Palau Reial:41.346682,1.696839
+Palau Solterra:42.041675,3.126168
+Torre de Santa Llúcia :41.482706,1.926975
+Torre-ramona:41.421286,1.819867
+El Pontarró:41.871339,2.115152
+Passera de Sobrànigues:42.059724,2.959797
+Passera entre Sant Gregori i Bescanó:41.969914,2.745667
+Pont de Beget:42.3207,2.480731
+Pont de Biosca:41.842049,1.35835
+Pont de Buida-sacs:41.931724,1.64104
+Pont de Cabrianes:41.772381,1.904694
+Pont de Camarasa:41.87928,0.877018
+Pont de Can Coca:41.747111,2.402194
+Pont de Can Prat:42.13861,2.679167
+Pont de Can Vernet:41.477716,2.076533
+Pont de Can Vidal:41.94535,2.55699
+Pont de Castellbò:42.373722,1.357528
+Pont de Castelló de Farfanya:41.820684,0.729013
+Pont de Cavaloca :41.231583,0.74175
+Pont de Conangle:41.834722,1.874389
+Pont de Cossei:42.194489,2.544461
+Pont de Gerri de la Sal:42.323645,1.065994
+Pont de Gualta :42.031433,3.103052
+Pont de la cabreta:42.249538,2.164629
+Pont de la Cabreta:41.953722,2.257278
+Pont de la cantina:41.9125,2.3895
+Pont de La Coromina :41.9102,1.690167
+Pont de la Creu:41.881589,3.12485
+Pont de la Farga Vella:42.278667,2.00475
+Pont de la Farga:42.0039,1.57183
+Pont de la Font del Bisbe:41.988583,2.831333
+Pont de la Gorga:42.036222,2.372389
+Pont de La Lleura:41.924389,1.67454
+Pont de la Noguerola:41.853472,2.355278
+Pont de la Petita:42.244194,1.975472
+Pont de la Riera:42.076611,2.304778
+Pont de la Sala:42.027944,2.45875
+Pont de les Femades :41.386831,1.359411
+Pont de les Masuques:41.288161,1.639053
+Pont de Llierca:42.247444,2.60372
+Pont de l’Aigua:42.014216,2.825375
+Pont de l’Anijol:42.064861,2.279167
+Pont de l’Espelt:42.23947,1.920243
+Pont de l’Esquella:42.1175,1.304306
+Pont de Manlleu:41.99695,2.286
+Pont de Martís:42.172028,2.780667
+Pont de Mas Riera:42.20618,2.754565
+Pont de pedra de Santes Creus :41.34978,1.36188
+Pont de pedra:41.784698,1.097217
+Pont de Pedret:42.106155,1.880674
+Pont de Periques:41.977753,1.883592
+Pont de Queralt:41.927731,2.256403
+Pont de Riudevilla:41.88455,2.78246
+Pont de Riugrèixer:42.271851,1.850737
+Pont de Roma:42.121583,2.044944
+Pont de Salarsa o Salarça:42.305056,2.478806
+Pont de Sanaüja :41.874405,1.309699
+Pont de Sant Antoni:42.317222,2.782
+Pont de Sant Joan:41.920023,1.682956
+Pont de Sant Martí d&#8217;Aravó:42.43272,1.917516
+Pont de Sant Martí d’Albars:42.026891,2.076037
+Pont de Sant Miquel:41.79392,0.807736
+Pont de Santa Maria de Merlès:42.000333,1.981139
+Pont de Santa Pau:42.14402,2.569902
+Pont de Soler:42.397694,1.898972
+Pont de Torruella:41.985833,2.246056
+Pont de Vall-llonga:42.141266,1.584832
+Pont de Vallcanera:41.82771,2.74439
+Pont de Vallfogona:42.193598,2.303709
+Pont de Vilella:42.250047,1.865815
+Pont de Vilomara:41.700833,1.869167
+Pont del Bullidor de la Llet:42.275024,1.817756
+Pont del Diable:41.47501,1.938266
+Pont del Diable:42.106751,1.844867
+Pont del Diable:41.919671,1.684835
+Pont del Diable:42.370278,1.81
+Pont del Diable:41.807993,1.381412
+Pont del Far:42.183099,1.866565
+Pont del fossat:41.979101,3.089626
+Pont del Llop:42.073133,1.570877
+Pont del Molí de Canet:41.945278,1.613028
+Pont del Molí de les Pipes:41.819889,2.493222
+Pont del Molí de Querol:42.026694,1.399472
+Pont del molí de Saleta:41.903776,2.500416
+Pont del Molí del Puig:42.268683,1.812551
+Pont del molí dels capellans:41.879806,2.27975
+Pont del molí d’en Solà:42.216495,2.403429
+Pont del Prat de les Hortes:41.940339,2.567885
+Pont del Remei:41.924566,2.249799
+Pont dels moros :41.253392,1.174524
+Pont d’en Bruguer :41.939167,2.276556
+Pont d’Orniu:42.067835,1.868368
+Pont i aqüeducte de Can Claverí:41.498055,2.028713
+Pont i portals medievals de Besalú :42.199348,2.701508
+Pont medieval de Sant Andreu:42.066524,2.846141
+Pont medieval de Sant Joan les Fonts :42.212357,2.509421
+Pont medieval de Sords:42.088045,2.823787
+Pont Nou:42.31284,2.36423
+Pont Nou:41.727778,1.813806
+Pont Petit de Beget:42.320199,2.481342
+Pont romà de la Roqueta:42.023704,3.078371
+Pont Romà:41.635806,2.160278
+Pont Romà:42.271472,2.533611
+Pont romànic de la Vall d’Ora:42.085583,1.673889
+Pont sobre el riu Fluvià:42.221667,2.549722
+Pont sobre el riu Llobregat:41.610833,1.846944
+Pont trencat:41.26262,1.21893
+Pont Vell :41.224022,1.032956
+Pont Vell:41.640681,1.856603
+Pont Vell:42.243843,1.975232
+Pont Vell:41.720834,1.830039
+Pont Vell:41.823856,1.893056
+Pont Vell de Guardiola:42.215105,1.869432
+Pont Vell de Sant Joan de les Abadesses :42.235237,2.284175
+Pont Vell del Molí d’en Güell:42.190884,1.693735
+Pont Vell d’Avinyó:41.862222,1.975556
+Pont Vell d’Orniu:42.067302,1.868825
+Pont Vell o Pont Romà:41.243861,0.700389
+Pont Vell:41.829623,0.577861
+Pont Vell:42.251722,1.861194
+Pont Vell:41.29827,1.03858
+Pont Vell:42.03325,1.881556
+Pont Vell:41.380364,1.161313
+Pont Vell:41.94609,2.55546
+Pont Vell:42.332056,3.204694
+Pont Vell:41.980147,2.308126
+Pont Vell:41.971028,2.628922
+Pont Vell:42.322306,2.789639
+Pont Vell:41.376287,0.98111
+Torre colomer:42.404263,1.545151
+Torre colomer:42.374317,1.526354
+Torre colomer d&#8217;en Jovany:42.511345,1.4376
+Torre colomer de Castellbò:42.374828,1.358506
+Torre colomer de l’Arboçar:41.327561,1.758989
+Torre de les Bruixes:42.54882,1.314417
+Torre del Mas Pigot:41.289906,1.653978
+Torrota de Can Pinya:41.420004,1.827019
+Torrota d’en Pasteres:41.417928,1.817372
+Can Clarà:42.185208,3.080167
+Can Jalpí:41.599164,2.540166
+Casal dels Montoliu:41.192184,1.208606
+Castell Coll:42.196133,2.462217
+Castell d&#8217;Abella:42.162376,1.093175
+Castell d&#8217;Aguilar:42.016389,1.275278
+Castell d&#8217;Aguilar de Segarra :41.750202,1.627218
+Castell d&#8217;Aguiló:41.553009,1.41898
+Castell d&#8217;Albió:41.565186,1.270519
+Castell d&#8217;Albons :42.104549,3.085609
+Castell d&#8217;Alforja :41.210632,0.974176
+Castell d&#8217;Algars:41.092022,0.227797
+Castell d&#8217;Alió :41.293611,1.304722
+Castell d&#8217;Alsamora:42.08157,0.727952
+Castell d&#8217;Altès:42.018982,1.31896
+Castell d&#8217;Amposta :40.714306,0.579824
+Castell d&#8217;Aramunt:42.200424,0.996741
+Castell d&#8217;Arbeca :41.542336,0.923015
+Castell d&#8217;Arbul:42.127193,0.78563
+Castell d&#8217;Arcalís:42.349113,1.091613
+Castell d&#8217;Ardesa:41.634651,1.580958
+Castell d&#8217;Ardèvol:41.851745,1.518908
+Castell d&#8217;Arenys d&#8217;Empordà:42.165833,2.953333
+Castell d&#8217;Argençola :41.598,1.442886
+Castell d&#8217;Aristot:42.379555,1.623324
+Castell d&#8217;Ars:42.44677,1.396878
+Castell d&#8217;Artés :41.799576,1.950494
+Castell d&#8217;Arties :42.698227,0.870522
+Castell d&#8217;Ascó :41.179741,0.566147
+Castell d&#8217;Avinyó:41.373056,1.773889
+Castell d&#8217;Avinyonet :42.249531,2.914301
+Castell d&#8217;Empordà:41.978138,3.044178
+Castell d&#8217;en Roca:42.162689,2.680731
+Castell d&#8217;Enfesta:41.777924,1.476304
+Castell d&#8217;Era Castèra:42.790554,0.691693
+Castell d&#8217;Eramprunyà:41.314117,1.957401
+Castell d&#8217;Eroles:42.172035,0.818452
+Castell d&#8217;Escales:42.248634,2.865782
+Castell d&#8217;Esclanyà:41.92923,3.176558
+Castell d&#8217;Esparreguera :41.549747,1.870653
+Castell d&#8217;Espases:41.57951,1.884273
+Castell d&#8217;Espitlles:41.316067,1.677577
+Castell d&#8217;Espolla :42.390186,3.001547
+Castell d&#8217;Esponellà :42.179157,2.790745
+Castell d&#8217;Hortal:42.302307,2.897574
+Castell d&#8217;Hostoles:42.070187,2.53086
+Castell d&#8217;Isanta:42.096237,1.516821
+Castell d&#8217;Odèn :42.133423,1.455187
+Castell d&#8217;Òdena :41.605991,1.639321
+Castell d&#8217;Oix :42.273582,2.531724
+Castell d&#8217;Olèrdola :41.303974,1.709718
+Castell d&#8217;Oliana :42.085419,1.299334
+Castell d&#8217;Olivella :41.320419,1.813938
+Castell d&#8217;Oló:41.870819,2.034646
+Castell d&#8217;Olp:42.430069,1.1146
+Castell d&#8217;Orcau:42.165916,0.982692
+Castell d&#8217;Orpí :41.518795,1.575398
+Castell d&#8217;Orriols :42.125008,2.906983
+Castell d&#8217;Orrit:42.257088,0.742921
+Castell d&#8217;Ulldecona :40.594955,0.430889
+Castell d&#8217;Unha:42.711132,0.903746
+Castell de Bagà :42.253452,1.861102
+Castell de Balsareny :41.87077,1.881441
+Castell de Banyeres :41.281311,1.578571
+Castell de Bar:42.358334,1.639656
+Castell de Barbavella:42.018894,2.872185
+Castell de Barbens :41.679085,1.018663
+Castell de Barberà:41.411449,1.227288
+Castell de Batea :41.095848,0.308781
+Castell de Begur :41.956371,3.208609
+Castell de Bell-lloc:41.625942,2.335301
+Castell de Bellpuig:41.626399,1.010941
+Castell de Bellveí:41.75526,1.291789
+Castell de Bellver:42.370674,1.775604
+Castell de Berguedà:42.109974,1.834526
+Castell de Berti:41.715134,2.228516
+Castell de Besora:42.02927,1.599364
+Castell de Besora:42.123772,2.250183
+Castell de Bestracà:42.29435,2.51543
+Castell de Beuda :42.238018,2.70445
+Castell de Biosca :41.843056,1.359534
+Castell de Biure:41.490318,1.351514
+Castell de Biure d&#8217;Empordà :42.339081,2.893334
+Castell de Biure de Queixàs:42.211639,2.815306
+Castell de Blancafort:42.129284,1.83753
+Castell de Blancafort:42.253052,2.085149
+Castell de Blanes :41.679485,2.798287
+Castell de Boixadors:41.770573,1.574754
+Castell de Briançó:41.636619,1.344846
+Castell de Brunyola :41.904652,2.68461
+Castell de Bufalaranya:42.295364,3.194436
+Castell de Burg:42.504154,1.272346
+Castell de Burriac:41.537491,2.387178
+Castell de Cabanes :42.307026,2.97718
+Castell de Cabrera:41.513363,1.693413
+Castell de Cabrera:42.407284,2.773715
+Castell de Cabrera:42.076038,2.407253
+Castell de Calabuig:42.152004,2.924992
+Castell de Calaf :41.733765,1.509652
+Castell de Calafell :41.201523,1.568443
+Castell de Calders:41.780602,1.992983
+Castell de Caldes:41.838406,2.808407
+Castell de Callús :41.794182,1.779386
+Castell de Calonge:41.764278,1.480789
+Castell de Calonge :41.863056,3.073333
+Castell de Camarasa :41.87624,0.877946
+Castell de Cambrer:41.15477,1.109528
+Castell de Cambrils:42.132236,1.38788
+Castell de Campdorà :42.012775,2.843864
+Castell de Campelles :42.295132,2.13905
+Castell de Camprodon :42.312862,2.365698
+Castell de Can Ferrer de la Cogullada:41.325851,1.429499
+Castell de Can Feu:41.539329,2.093716
+Castell de Can Jaumar:41.526875,2.370478
+Castell de Can Taió:41.523834,2.176556
+Castell de Canadal:42.410645,2.882801
+Castell de Canals:41.459045,2.039884
+Castell de Canet d&#8217;Adri:42.036694,2.730843
+Castell de Cantallops :42.422558,2.925011
+Castell de Canyelles :41.287209,1.722777
+Castell de Cap Roig:41.877174,3.177366
+Castell de Cardona :41.914391,1.685629
+Castell de Carles:40.850552,0.359534
+Castell de Cartellà:42.011852,2.763298
+Castell de Casserres:41.995247,2.342513
+Castell de Castell d&#8217;Aro:41.815048,3.030566
+Castell de Castell-llebre:42.085075,1.289649
+Castell de Castell-lleó:42.738876,0.717038
+Castell de Castelladral:41.900249,1.781212
+Castell de Castellar:41.728264,1.649288
+Castell de Castellar:42.022568,1.416273
+Castell de Castellar:41.60575,2.074528
+Castell de Castellarnau:41.559341,2.072843
+Castell de Castellbarri:41.855221,3.046769
+Castell de Castellbell:41.642452,1.858315
+Castell de Castellbisbal :41.473953,1.973725
+Castell de Castellbó:42.374596,1.356001
+Castell de Castellcir:41.774067,2.176774
+Castell de Castellciuró:41.412277,2.030757
+Castell de Castellciutat:42.357609,1.445467
+Castell de Castelldans :41.501163,0.765677
+Castell de Castelldefels :41.284248,1.978148
+Castell de Castellet:41.264599,1.636075
+Castell de Castellet:41.501865,1.731253
+Castell de Castellet:41.664215,1.850716
+Castell de Castellfollit:41.776344,1.436918
+Castell de Castellfollit:41.669014,1.704632
+Castell de Castellfollit:42.218867,2.552812
+Castell de Castellgalí :41.678619,1.840801
+Castell de Castellgermà:42.375271,0.862853
+Castell de Castellmeià:41.735027,1.301424
+Castell de Castellnou de Carcolze:42.387638,1.582192
+Castell de Castellnou de Llinars :41.640312,2.403332
+Castell de Castellnou de Montsec:42.102112,0.765325
+Castell de Castellnou:41.703693,1.297454
+Castell de Castelló:41.821354,0.725795
+Castell de Castellolí :41.588585,1.708422
+Castell de Castelltallat:42.118652,0.995784
+Castell de Castelltallat :41.793964,1.632594
+Castell de Castellterçol:41.745049,2.120101
+Castell de Castellvell de la Marca :41.337608,1.578528
+Castell de Castellvell de Solsona:41.994888,1.502962
+Castell de Castellvell del Far:41.626678,2.407449
+Castell de Castilló de Tor:42.434029,0.741768
+Castell de Castissent:42.124413,0.713653
+Castell de Cava :42.325245,1.606662
+Castell de Cellers:41.811954,1.476221
+Castell de Celrà :42.019855,2.881905
+Castell de Centelles:41.769615,2.206535
+Castell de Cervelló :41.387589,1.959415
+Castell de Cervera :41.664597,1.26906
+Castell de Cérvoles :41.359577,0.916994
+Castell de Ceuró:42.019417,1.373556
+Castell de Cinc Claus:42.137245,3.100883
+Castell de Ciutadilla :41.56089,1.140824
+Castell de Clarà:41.820282,2.080168
+Castell de Clarà:41.149982,1.41748
+Castell de Claramunt:41.55484,1.66942
+Castell de Claravalls:41.702827,1.126158
+Castell de Claret:42.154263,0.867888
+Castell de Claret de Cavallers:41.821667,1.64667
+Castell de Claret:41.820831,1.464073
+Castell de Clariana:41.586498,1.500455
+Castell de Clariana:41.935886,1.620559
+Castell de Claverol:42.245064,0.986956
+Castell de Clua:41.946999,1.016823
+Castell de Coaner:41.832756,1.713213
+Castell de Collbató :41.569424,1.830125
+Castell de Colltort:42.13229,2.532727
+Castell de Colomers:42.084108,2.987518
+Castell de Comiols:42.025372,1.101001
+Castell de Concabella:41.751526,1.234991
+Castell de Conesa :41.518925,1.291419
+Castell de Conill:41.725761,1.460444
+Castell de Conques:42.119568,1.010951
+Castell de Corbera :41.417992,1.922831
+Castell de Corbera d’Ebre :41.078333,0.476111
+Castell de Corbins:41.692578,0.694783
+Castell de Corçà :41.989883,3.017874
+Castell de Corçà:42.030342,0.686063
+Castell de Cornellà:41.35384,2.071699
+Castell de Cornellà:42.089893,2.817653
+Castell de Cornet:41.862476,1.91242
+Castell de Creixell:42.222816,2.926322
+Castell de Creixell :41.168213,1.4411
+Castell de Cruïlles:41.780396,2.255802
+Castell de Cubelles :41.207798,1.672475
+Castell de Cubells:41.851204,0.958664
+Castell de Cunit :41.197323,1.633039
+Castell de Dosquers:42.196701,2.750916
+Castell de Dosrius :41.600292,2.404355
+Castell de Dusfort:41.740508,1.493289
+Castell de Falgars:42.255802,2.730502
+Castell de Falgons:42.107716,2.663251
+Castell de Falset :41.145355,0.816464
+Castell de Farners:41.860382,2.631212
+Castell de Ferran:41.537548,1.189206
+Castell de Ferran:41.145836,1.359054
+Castell de Figuerola de Meià:41.974682,0.890759
+Castell de Finestres:42.111885,2.593004
+Castell de Finestres:42.038369,3.034686
+Castell de Florejacs :41.800396,1.214062
+Castell de Fluvià:41.722111,2.414608
+Castell de Foix:41.414867,1.563639
+Castell de Foixà :42.036098,3.000756
+Castell de Fonolleres:42.021267,3.052397
+Castell de Fonolleres:41.657997,1.202614
+Castell de Font-Rubí :41.439556,1.58724
+Castell de Fontanilles :42.009739,3.107393
+Castell de Fontllonga:41.971542,0.858886
+Castell de Forès :41.494377,1.238242
+Castell de Fornells:41.926228,2.802662
+Castell de Fornils:42.020203,2.514968
+Castell de Freixenet:42.097946,2.116555
+Castell de Fulleda :41.464119,1.023523
+Castell de Gaià :41.918877,1.919571
+Castell de Gallifa :41.688072,2.111306
+Castell de Gandesa:41.053351,0.436411
+Castell de Gardeny:41.608742,0.614516
+Castell de Garraf:41.259117,1.901093
+Castell de Gavarra:42.104382,1.196281
+Castell de Gebut:41.513727,0.4724
+Castell de Gelida :41.43576,1.87039
+Castell de Geltrú:41.226902,1.727828
+Castell de Gerb:41.825363,0.803686
+Castell de Gessa:42.705704,0.890437
+Castell de Gilareny:42.489857,1.213552
+Castell de Gimenells:41.676842,0.394886
+Castell de Gironella :42.033588,1.882318
+Castell de Gironella o Torre Gironella:41.986759,2.829438
+Castell de Gósol :42.234032,1.660569
+Castell de Gospí:41.738354,1.34968
+Castell de Granera:41.729897,2.057718
+Castell de Granollers:42.068352,2.651833
+Castell de Granyena:41.624043,1.244969
+Castell de Grevalosa:41.693117,1.65395
+Castell de Grialó:41.900433,1.105939
+Castell de Guàrdia:42.101166,0.876605
+Castell de Guardiola:42.215473,1.868641
+Castell de Guialmons:41.512295,1.365883
+Castell de Guimerà :41.565189,1.185971
+Castell de Gurb :41.95211,2.210392
+Castell de Jafre :42.072811,3.011004
+Castell de Jorba :41.602558,1.546452
+Castell de Josa:42.257271,1.618904
+Castell de Jou:42.598133,1.113801
+Castell de Juià :42.014053,2.911106
+Castell de Juvinyà:42.211224,2.507444
+Castell de L&#8217;Abadia :42.266087,3.018016
+Castell de l&#8217;Albà:41.349754,1.42778
+Castell de l&#8217;Albagés :41.449394,0.737932
+Castell de L&#8217;Alberg:41.989594,3.015254
+Castell de l&#8217;Albi :41.423801,0.935579
+Castell de L&#8217;Albiol :41.252998,1.088762
+Castell de l&#8217;Arquebisbe:41.285866,1.250572
+Castell de L&#8217;Espluga:41.397507,1.105204
+Castell de l&#8217;Espluga Calba :41.494961,1.004715
+Castell de L&#8217;Espunyola :42.046825,1.782899
+Castell de l&#8217;Hostal Roig:42.038544,0.999665
+Castell de L&#8217;Infant:40.991714,0.92224
+Castell de La Bisbal:41.959396,3.03736
+Castell de La Bisbal del Penedès :41.281418,1.487108
+Castell de la Bleda:41.344105,1.660869
+Castell de la Cardosa:41.699997,1.252659
+Castell de La Cirera:41.552898,1.330145
+Castell de la Cirera:41.924697,2.020171
+Castell de La Clua:41.991219,1.277756
+Castell de La Curullada:41.66568,1.227038
+Castell de la Figuera :41.216755,0.731481
+Castell de la Figuera:41.842149,0.664425
+Castell de La Floresta :41.511501,0.918874
+Castell de La Garriga:42.279671,3.153666
+Castell de La Glorieta:42.504936,1.257023
+Castell de la Granada :41.378735,1.71913
+Castell de la Granadella:41.357565,0.662804
+Castell de la Guàrdia de Montserrat:41.608845,1.773753
+Castell de la Guàrdia Lada:41.589859,1.292768
+Castell de La Guàrdia Pilosa:41.707268,1.470274
+Castell de La Guàrdia:42.139133,2.123151
+Castell de La Guardiola:42.254349,3.244617
+Castell de la Llosa:42.442471,1.701961
+Castell de la Manresana:41.724323,1.356777
+Castell de La Miana:42.178745,2.631035
+Castell de la Molsosa :41.786427,1.558591
+Castell de la Móra:41.650402,1.193918
+Castell de la Morana:41.78215,1.263422
+Castell de La Morera :41.264545,0.840851
+Castell de La Palma d&#8217;Ebre :41.282936,0.665692
+Castell de la Pedra:42.16526,1.604404
+Castell de La Pertusa:42.044182,0.672542
+Castell de La Ràpita:41.787601,0.833614
+Castell de La Roca:41.668961,2.048622
+Castell de la Roca :42.322601,2.33133
+Castell de La Roca del Vallès :41.591583,2.328267
+Castell de La Roqueta:41.528644,1.484801
+Castell de la Saida:41.718625,0.507806
+Castell de la Sinoga:41.572907,1.022368
+Castell de La Suda:40.815048,0.523543
+Castell de la Suda:41.61849,0.625915
+Castell de la Tallada:41.640804,1.416412
+Castell de La Torre de Claramunt :41.533779,1.6583
+Castell de La Torre Lloreta:41.869431,3.079774
+Castell de La Trinitat:42.247349,3.183841
+Castell de La Vall:42.298157,2.919796
+Castell de La Vall d’Ariet:41.955639,0.997589
+Castell de Lavit:41.446682,1.729912
+Castell de Les :42.812271,0.717292
+Castell de les Besses:41.4305,0.828693
+Castell de Les Escaules:42.318886,2.880711
+Castell de Les Piles :41.504238,1.342964
+Castell de Les Pujades:41.332443,1.625928
+Castell de Les Sitges:41.816231,1.227897
+Castell de Les Ventoses:41.79628,1.012861
+Castell de Lillet:42.238182,1.988276
+Castell de Linyola :41.710255,0.90424
+Castell de Lladorre :42.620029,1.247334
+Castell de Lladurs :42.051395,1.518498
+Castell de Llaés:42.154545,2.247874
+Castell de Llanera:41.867691,1.480998
+Castell de Llers :42.29578,2.911702
+Castell de Llimiana:42.076443,0.916125
+Castell de Llívia :42.467655,1.986133
+Castell de Llobera :41.951366,1.470022
+Castell de Lloberola:41.889076,1.362608
+Castell de Llorac :41.555904,1.307282
+Castell de Llordà:42.116352,1.09079
+Castell de Llorenç :41.284672,1.552103
+Castell de Llorenç:41.870998,0.829031
+Castell de Llort:42.572376,1.136036
+Castell de Lluçà :42.054588,2.040281
+Castell de l’Aguda:41.818729,1.401344
+Castell de l’Aguda:41.937672,1.268371
+Castell de l’Ametlla de Segarra:41.575932,1.23991
+Castell de l’Aranyó:41.705556,1.218056
+Castell de l’Oluja Alta:41.697521,1.321355
+Castell de Maçanet de Cabrenys :42.386086,2.747542
+Castell de Madrona:41.968502,1.335153
+Castell de Maians:41.637516,1.702884
+Castell de Malacara:41.718227,1.388958
+Castell de Malagastre:41.89439,1.016198
+Castell de Malavella:41.816746,2.799979
+Castell de Maldà:41.55133,1.037706
+Castell de Malgrat:41.709736,1.301263
+Castell de Malla :41.887486,2.233288
+Castell de Malmercat:42.370148,1.122285
+Castell de Manresa :41.728056,1.826389
+Castell de Marcovau:41.867928,1.033147
+Castell de Marmellar:41.358631,1.551092
+Castell de Marzà:42.311405,3.066748
+Castell de Mas Saleta o de Montsolís:41.890015,2.509507
+Castell de Masricard:41.119514,1.183187
+Castell de Mataplana:42.262287,2.060886
+Castell de Medinyà:42.049545,2.865138
+Castell de Mediona :41.476227,1.641531
+Castell de Meià:42.002773,1.020744
+Castell de Merlès:41.998714,1.984293
+Castell de Merola :41.93129,1.871404
+Castell de Milany:42.165554,2.289652
+Castell de Millà:41.957832,0.697806
+Castell de Millars:41.98856,2.970694
+Castell de Milmanda:41.397434,1.074469
+Castell de Miralles:41.518669,1.518474
+Castell de Mirambell:41.731007,1.48935
+Castell de Miravet :41.035583,0.593755
+Castell de Molinàs:42.402622,3.104965
+Castell de Molins:42.313805,2.920049
+Castell de Monells:41.974709,2.99904
+Castell de Mont-roig:42.352123,2.875561
+Castell de Mont-Ros:42.206783,2.550333
+Castell de Mont-ros:41.737289,1.366139
+Castell de Montagut:41.765995,2.939048
+Castell de Montagut:42.230991,2.572276
+Castell de Montagut:41.406895,1.422271
+Castell de Montagut:42.031456,2.815563
+Castell de Montanissell:42.194771,1.256325
+Castell de Montargull:41.554852,1.376646
+Castell de Montbui:41.664078,2.177294
+Castell de Montbui:41.555202,1.579864
+Castell de Montclar:41.467731,1.346539
+Castell de Montclar :41.847713,1.041971
+Castell de Montclús:41.722553,2.432334
+Castell de Montcortés:41.706661,1.229954
+Castell de Montcortés de Pallars:42.329117,1.004911
+Castell de Montesquiu:41.694092,1.424889
+Castell de Montesquiu :42.113316,2.21194
+Castell de Montfalcó:41.657509,1.454122
+Castell de Montfalcó del Duc:41.688755,1.339659
+Castell de Montfalcó d’Agramunt:41.759446,1.131225
+Castell de Montgai:41.800835,0.961591
+Castell de Montgrí:42.05212,3.131629
+Castell de Montgrony:42.266396,2.085788
+Castell de Montjuic:41.3634,2.166112
+Castell de Montjuïc:41.993149,2.831706
+Castell de Montllobar:42.152977,0.800605
+Castell de Montmagastre:41.976418,1.128534
+Castell de Montmajor:42.006622,1.734448
+Castell de Montmany:41.721531,2.250239
+Castell de Montmarí:42.31728,2.905991
+Castell de Montoliu:41.15469,1.36286
+Castell de Montoliu:41.590244,1.269444
+Castell de Montornès:41.170719,1.403882
+Castell de Montornès:41.601379,1.229415
+Castell de Montornès:41.527554,2.272123
+Castell de Montpalau:42.205944,2.608139
+Castell de Montpalau:41.642086,2.67026
+Castell de Montpaó:41.650058,1.305584
+Castell de Montsonís:41.887138,1.022339
+Castell de Montsoriu:41.783024,2.540398
+Castell de Mora:41.094215,0.640815
+Castell de Moripol:42.193641,1.674785
+Castell de Moror:42.078979,0.834559
+Castell de Mujal:41.892231,1.844083
+Castell de Muntanyola:41.87856,2.16913
+Castell de Múnter:41.877926,2.216189
+Castell de Mur :42.105091,0.856472
+Castell de Mura :41.697701,1.994413
+Castell de Murcurols:42.266491,1.785874
+Castell de Navata :42.210461,2.857813
+Castell de Navès :41.990826,1.639892
+Castell de Paborde:41.120289,1.25699
+Castell de Palafolls :41.678734,2.735322
+Castell de Palagret:42.011421,2.891711
+Castell de Palau-Surroca:42.297848,2.871793
+Castell de Pallargues:41.762386,1.197386
+Castell de Pallejà :41.421722,1.996749
+Castell de Palmerola:42.156189,2.034185
+Castell de Palol:42.069656,2.796093
+Castell de Palol:41.956367,2.850595
+Castell de Palol Sabaldòria:42.243416,2.946377
+Castell de Pardines:42.31237,2.21392
+Castell de Passanant:41.532104,1.195804
+Castell de Paüls :40.922955,0.399193
+Castell de Peguera:42.160683,1.771967
+Castell de Penalonga:41.180168,1.257876
+Castell de Penyafel:41.316883,1.683421
+Castell de Pera:41.690475,2.028745
+Castell de Peracamps:41.916748,1.435856
+Castell de Perafita :42.048027,2.109989
+Castell de Peralada :42.307587,3.0109
+Castell de Peralba:41.993507,0.919507
+Castell de Peralta:41.954796,3.091198
+Castell de Peramea:42.330078,1.047859
+Castell de Peramola :42.057198,1.267475
+Castell de Piera :41.515926,1.74158
+Castell de Pinyana:41.406944,1.393402
+Castell de Plegamans :41.583504,2.182456
+Castell de Pontils :41.479404,1.385779
+Castell de Pontós :42.182278,2.91805
+Castell de Ponts :41.917339,1.194707
+Castell de Porqueres :42.12215,2.748009
+Castell de Porrera :41.189659,0.856118
+Castell de Pradell:41.797413,1.028906
+Castell de Prades :41.309929,0.986154
+Castell de Pratdip :41.050163,0.871806
+Castell de Preixens :41.794437,1.050884
+Castell de Prenafeta:41.376385,1.232663
+Castell de Prullans :42.379276,1.7365
+Castell de Púbol:42.01458,2.983274
+Castell de Puig-reig :41.971241,1.88235
+Castell de Puigbó:42.228909,2.073667
+Castell de Puigcercós:42.130375,0.883458
+Castell de Puigdelfí:41.195152,1.236268
+Castell de Puigdemàger:41.727905,1.550454
+Castell de Pujalt :41.717484,1.420581
+Castell de Pujarnol:42.10202,2.707905
+Castell de Quer:42.001244,2.024545
+Castell de Queralbs :42.349213,2.164457
+Castell de Queralt:41.513664,1.45833
+Castell de Quermançó:42.34,3.091997
+Castell de Querol :41.423481,1.397941
+Castell de Querol:41.991447,1.752054
+Castell de Raïmat:41.676247,0.478561
+Castell de Rajadell :41.728531,1.705901
+Castell de Ramonet:41.399254,1.411885
+Castell de Ratera:41.750645,1.224273
+Castell de Rauric:41.542793,1.359633
+Castell de Ravós :42.07092,2.838252
+Castell de Requesens:42.446693,2.944564
+Castell de Rialp :42.444771,1.133987
+Castell de Ribatallada:41.587082,2.06573
+Castell de Ribelles:41.883633,1.277477
+Castell de Ribes:42.309826,2.171672
+Castell de Ribes:41.259224,1.764137
+Castell de Riner :41.941284,1.563771
+Castell de Riudabella:41.372498,1.043063
+Castell de Rivert:42.250092,0.89541
+Castell de Rocabertí:42.436821,2.884094
+Castell de Rocabruna:42.329556,2.453272
+Castell de Rocacorba :42.067272,2.68774
+Castell de Rocafort:41.46521,1.923652
+Castell de Rocafort:41.716194,1.925692
+Castell de Rocafort:41.479034,1.281517
+Castell de Rocafort de Vallbona:41.554747,1.093488
+Castell de Rocamora:41.262592,1.366669
+Castell de Rodonyà :41.279722,1.398806
+Castell de Rosanes:41.466637,1.930482
+Castell de Roset:42.148346,1.914322
+Castell de Rubí :41.494465,2.026393
+Castell de Rúbies:42.020833,0.9125
+Castell de Rubinat:41.624463,1.319003
+Castell de Rubió :41.645023,1.570458
+Castell de Rubió de Sols:41.906364,0.997138
+Castell de Rubiol –Guissona :41.800056,1.297449
+Castell de Rupià:42.020403,3.010775
+Castell de Rupit :42.024536,2.466415
+Castell de Sa Reganyada:42.101891,2.294622
+Castell de Saburella:41.424683,1.363136
+Castell de Sacama:41.566929,1.911731
+Castell de Sala:41.518951,1.217559
+Castell de Saladern:41.540478,1.24595
+Castell de Salardú :42.707569,0.902191
+Castell de Salàs:42.211994,0.932381
+Castell de Saldes :42.233429,1.739118
+Castell de Sales:42.243542,2.644594
+Castell de Sallent :41.818073,1.902882
+Castell de Salsa:42.035072,1.343355
+Castell de Samalús:41.691194,2.314028
+Castell de Sanaüja :41.877949,1.310203
+Castell de Sant Blai:41.03273,0.721815
+Castell de Sant Boi :41.344913,2.044149
+Castell de Sant Cebrià dels Alls:41.887347,3.014413
+Castell de Sant Climenç:41.951077,1.417995
+Castell de Sant Esteve de Mar:41.858227,3.147634
+Castell de Sant Feliu de la Garriga:42.119289,3.053352
+Castell de Sant Ferran:42.106457,1.846229
+Castell de Sant Ferran:42.273117,2.947512
+Castell de Sant Gervàs:42.071896,0.969128
+Castell de Sant Gregori:41.989025,2.740547
+Castell de Sant Guim de la Plana :41.762779,1.323989
+Castell de Sant Guim de la Rabassa:41.64852,1.4058
+Castell de Sant Iscle:42.031413,3.056299
+Castell de Sant Iscle:41.784939,2.807651
+Castell de Sant Jaume:42.290298,3.280725
+Castell de Sant Jaume:41.451118,1.919276
+Castell de Sant Joan:41.693878,2.839405
+Castell de Sant Jordi:42.071793,2.953675
+Castell de Sant Jordi d&#8217;Alfama:40.911369,0.832067
+Castell de Sant Llorenç de la Muga :42.320122,2.785824
+Castell de Sant Llorenç:42.04327,0.694191
+Castell de Sant Llorenç:41.923492,2.358791
+Castell de Sant Martí d&#8217;Empúries:42.139675,3.118213
+Castell de Sant Martí de Riucorb:41.560766,1.053695
+Castell de Sant Martí dels Castells:42.365089,1.712939
+Castell de Sant Martí Sarroca :41.380592,1.610345
+Castell de Sant Mateu :41.80106,1.741915
+Castell de Sant Miquel:42.006912,2.862014
+Castell de Sant Mori :42.15395,2.990701
+Castell de Sant Oïsme:41.998077,0.844638
+Castell de Sant Quintí:41.460175,1.66665
+Castell de Sant Romà d&#8217;Abella:42.142551,1.040027
+Castell de Sant Salvador de Verdera:42.320068,3.167866
+Castell de Santa Àgueda:40.0275,4.007778
+Castell de Santa Coloma:41.533215,1.383929
+Castell de Santa Engràcia:42.221935,0.874196
+Castell de Santa Fe :41.384586,1.721125
+Castell de Santa Fe de Segarra :41.700073,1.363662
+Castell de Santa Florentina:41.600822,2.576812
+Castell de Santa Linya:41.926861,0.800913
+Castell de Santa Oliva :41.253555,1.549499
+Castell de Santa Pau :42.144707,2.571761
+Castell de Santa Perpètua:41.462704,1.39212
+Castell de Santiga:41.534824,2.151918
+Castell de Sarraí:42.301804,2.923809
+Castell de Sarroca de Bellera :42.358826,0.881369
+Castell de Sarroca:41.458447,0.562886
+Castell de Savallà:41.543728,1.299096
+Castell de Savella:41.517616,1.246232
+Castell de Secabecs:41.436638,1.554528
+Castell de Seguer:41.442764,1.405038
+Castell de Segueró:42.240398,2.749149
+Castell de Segur:41.683178,1.468901
+Castell de Segura:41.544395,1.26526
+Castell de Selma:41.367222,1.461389
+Castell de Selmella:41.421001,1.337693
+Castell de Sentfores:41.90667,2.219128
+Castell de Sentmenat :41.616867,2.132826
+Castell de Seró:41.875446,1.106207
+Castell de Sisquer:42.135021,1.69323
+Castell de Sitges :41.235104,1.811854
+Castell de Siurana:41.258274,0.935115
+Castell de Siurana :42.209454,2.994434
+Castell de Solius:41.810181,2.964242
+Castell de Solivella :41.457161,1.176412
+Castell de Solterra:41.923119,2.53305
+Castell de Sorerols:41.99884,2.378846
+Castell de Sort :42.412392,1.129822
+Castell de Subirats :41.415905,1.817417
+Castell de Sucs:41.7026,0.414492
+Castell de Súria :41.834808,1.751839
+Castell de s’Avellana:41.970043,2.330089
+Castell de Taialà:41.998848,2.791571
+Castell de Talamanca :41.739182,1.976472
+Castell de Talarn :42.185593,0.901051
+Castell de Talteüll:41.819336,1.328313
+Castell de Tamarit:41.130081,1.361173
+Castell de Taradell :41.865448,2.310331
+Castell de Tàrrega:41.645836,1.137404
+Castell de Tarrés :41.422344,1.020677
+Castell de Tartareu:41.920647,0.718778
+Castell de Tenasses:40.820556,0.527778
+Castell de Térmens:41.719139,0.758818
+Castell de Terrades :42.307343,2.858964
+Castell de Terrassola:42.063515,1.433976
+Castell de Terrassola:41.447674,1.726669
+Castell de Timor:41.6425,1.329444
+Castell de Tírvia :42.515051,1.242793
+Castell de Toló:42.058178,1.031714
+Castell de Toloriu:42.363007,1.628501
+Castell de Tona :41.854942,2.224705
+Castell de Tor:42.571678,1.397931
+Castell de Toralla:42.264687,0.923297
+Castell de Torcafelló:41.770222,2.721112
+Castell de Torelló:42.073532,2.265386
+Castell de Torlanda:41.500927,1.292666
+Castell de Tornamira:41.949413,2.059942
+Castell de Torrebesses :41.426952,0.594225
+Castell de Torreblanca:41.938019,1.160452
+Castell de Torredembarra :41.146069,1.396031
+Castell de Torregrossa :41.581444,0.832193
+Castell de Torrent :41.952023,3.127697
+Castell de Torroella:41.879871,1.701215
+Castell de Torroella:41.908295,2.196153
+Castell de Tost:42.272778,1.38373
+Castell de Toudell:41.550785,1.968012
+Castell de Tous:41.55941,1.525193
+Castell de Tudela:41.992439,2.715026
+Castell de Vacarisses:41.607655,1.918037
+Castell de València d&#8217;Àneu:42.632465,1.116435
+Castell de Vallclara :41.375759,0.979363
+Castell de Valldarques:42.144623,1.23502
+Castell de Vallespinosa:41.444454,1.347992
+Castell de Vallfogona:41.563217,1.235924
+Castell de Vallfogona de Ripollès :42.195953,2.302853
+Castell de Vallgornera:42.305569,3.034126
+Castell de Vallmoll :41.243668,1.247914
+Castell de Vallparadís:41.564621,2.019092
+Castell de Vandellòs:41.020893,0.830492
+Castell de Veciana :41.656227,1.488175
+Castell de Verdú :41.61087,1.143941
+Castell de Vergós Guerrejat:41.676586,1.353046
+Castell de Vernet:41.904976,1.040783
+Castell de Vespella:41.204376,1.359864
+Castell de Vicfred :41.773563,1.358799
+Castell de Vielha :42.701305,0.79594
+Castell de Vila-rodona :41.31168,1.360508
+Castell de Vila-romà:41.882122,3.107709
+Castell de Vila-Seca :41.11483,1.147554
+Castell de Vilac :42.721859,0.797657
+Castell de Vilademàger:41.471848,1.550974
+Castell de Vilademuls :42.138412,2.887956
+Castell de Vilafortuny:41.072491,1.096399
+Castell de Vilafreser:42.083035,2.878085
+Castell de Vilagelans:41.976578,2.28702
+Castell de Vilajoan:42.164719,2.934444
+Castell de Vilallonga:41.702404,1.508512
+Castell de Vilalta:41.640978,1.438645
+Castell de Vilamitjana:42.147488,0.919115
+Castell de Vilamur:42.379856,1.161324
+Castell de Vilar:42.091198,2.32838
+Castell de Vilardida :41.28627,1.36297
+Castell de Vilaritg:42.286312,2.833732
+Castell de Vilarnadal:42.340694,2.954142
+Castell de Vilassar:41.51775,2.356255
+Castell de Vilaüt:42.298477,3.114506
+Castell de Villavecchia:41.904999,2.539805
+Castell de Vilobí:41.889217,2.742661
+Castell de Vilopriu :42.104328,2.991854
+Castell de Vilves:41.917747,1.082904
+Castell de Vinaixa :41.42907,0.975914
+Castell de Viu de Llevata:42.369183,0.815265
+Castell de Voltregà:42.010155,2.20642
+Castell de Voltrera:41.524311,1.925912
+Castell de Vulpellac:41.960285,3.05407
+Castell del Baró de les Quatre Torres:41.183018,1.373286
+Castell del Brull :41.816837,2.304455
+Castell del Bullidor:41.691368,1.015793
+Castell del Catllar:42.358959,2.29187
+Castell del Catllar:41.175533,1.324593
+Castell del Far :42.252094,2.99574
+Castell del Freixe:41.480366,1.74096
+Castell del Llor:41.746414,1.308524
+Castell del Meüll:42.118992,0.812436
+Castell del Milà :41.248055,1.206857
+Castell del Montmell :41.330826,1.457072
+Castell del Paborde:41.216072,1.13576
+Castell del Papiol :41.438461,2.010005
+Castell del Quer Foradat:42.324047,1.636287
+Castell del Rei:41.116669,1.258045
+Castell del Rourell :41.223404,1.218753
+Castell del Vilosell :41.384132,0.946152
+Castell dels Ardiaques:42.177509,2.969358
+Castell dels Espolters:41.572769,0.602947
+Castell dels Garidells :41.208056,1.247222
+Castell dels Gorgs:42.305443,2.922535
+Castell dels Montcada:41.929218,2.256859
+Castell dels Montgons:41.133722,1.225178
+Castell dels Teixells:41.100124,0.998991
+Castell d’Adons:42.333645,0.828867
+Castell d’Aitona :41.496389,0.459722
+Castell d’Albesa :41.752247,0.661875
+Castell d’Alcanó :41.481464,0.616734
+Castell d’Alfés :41.526329,0.628436
+Castell d’Algerri :41.817791,0.637548
+Castell d’Alguaire:41.735855,0.578811
+Castell d’Almenar :41.797749,0.565185
+Castell d’Almudèfer:41.02642,0.274446
+Castell d’Alós de Balaguer :41.914295,0.955518
+Castell d’Alta-Riba:41.712265,1.365252
+Castell d’Altafulla :41.142754,1.37578
+Castell d’Anglès:41.957397,2.640093
+Castell d’Argentera:41.953419,1.032009
+Castell d’Argimon:41.830559,2.635973
+Castell d’Artesa:41.891869,1.054784
+Castell d’Aspa :41.497074,0.67096
+Castell d’en Plaja:41.699505,2.859592
+Castell d’Erillcastell:42.424149,0.80161
+Castell d’Escarp:41.418056,0.355556
+Castell d’Esparraguera:41.80196,2.243869
+Castell d’Espasens:42.125134,2.836279
+Castell d’Estaràs :41.692142,1.377977
+Castell d’Heures:41.902939,2.30111
+Castell d’Ivorra :41.771687,1.395433
+Castell d’Ofegat:41.670666,1.155879
+Castell d’Oliola:41.876377,1.173405
+Castell d’Olost:41.97691,2.09447
+Castell d’Oluja Jussana:41.697304,1.319215
+Castell d’Orenga:41.991863,0.945404
+Castell d’Orís :42.058582,2.222631
+Castell d’Os de Balaguer :41.871731,0.717601
+Castell Ferran:41.608288,1.764035
+Castell Formós:41.794697,0.805719
+Castell Garí:41.535972,2.412806
+Castell i muralles d&#8217;Hostalric :41.744175,2.633146
+Castell i muralles d&#8217;Ullastret :42.000744,3.068848
+Castell i muralles de Bàscara :42.160088,2.909186
+Castell i muralles de Cervià:42.067619,2.908507
+Castell i muralles de Cruïlles :41.956188,3.011122
+Castell i muralles de La Tallada d&#8217;Empordà :42.079948,3.055404
+Castell i muralles de Llagostera :41.828846,2.892003
+Castell i muralles de Montblanc :41.377899,1.160635
+Castell i muralles de Palau-sator :41.989429,3.110133
+Castell i muralles de Pals :41.971821,3.144414
+Castell i muralles de Peratallada:41.977013,3.089996
+Castell i muralles de Tivissa :41.04187,0.732983
+Castell i muralles de Tudela de Segre:41.870834,1.085278
+Castell i muralles de Verges :42.061134,3.045836
+Castell i muralles de Vilalba dels Arcs :41.121278,0.410386
+Castell i muralles d’Àger :41.999817,0.762281
+Castell i muralles d’Arnes :40.90959,0.259396
+Castell Marsans:41.866444,2.520161
+Castell medieval del comte de Valltordera:41.691965,2.718322
+Castell Monestir d&#8217;Escornalbou:41.127327,0.916261
+Castell nou de Pontons :41.407879,1.52445
+Castell Roca de Baborers:42.16684,2.143793
+Castell-convent de Penyafort:41.306313,1.658217
+Castell-fortalesa de Glorieta:41.52,1.204835
+Castell-Palau de Bellcaire:42.081074,3.094414
+Castell-Palau de Boadella :42.329929,2.85607
+Castellet de Banyoles:41.060703,0.6646
+Castellnou de Gemenells:41.302635,1.540824
+Castelló de Meià:41.98457,0.981892
+Castellot de Beuda :42.244518,2.71302
+Castellot de Mas Mateu:41.293877,1.405537
+Castellot de Sant Joan:41.938039,1.160549
+Castellot de Viver:41.953468,1.810386
+Castellvell de Gemenells:41.305351,1.539545
+Casteret de Bossòst :42.799213,0.704429
+Ciutadella de Roses :42.265564,3.170594
+El Tossal:41.915521,1.150522
+Força de Prats:42.365658,1.836058
+Fortí de la Reina:41.113338,1.266662
+Fortí de Loreto:41.135941,1.27356
+Fortí de Sant Jordi:41.11525,1.265541
+Fortificació avançada del castell de Sant Joan:40.816273,0.5278
+Torre de Castellar del Riu:42.116278,1.796722
+Torre del Baró:41.451385,2.1763
+Torre del Comte de Fígols:42.180083,1.862528
+Torre Mas Guàrdia:41.615132,2.150259
+Torre o fortalesa a Roca Santa:42.246616,1.043932
+Casalot de la Morera:41.798373,1.402069
+Castell Carlista:41.824083,1.8915
+Castell de Flix :41.237854,0.555502
+Castellot del Temps Carlí:41.876324,0.878509
+Fort de Maçanet de Cabrenys :42.384975,2.749431
+Fort fuseller de Ferriols:41.083597,0.480914
+Fortí de La Torreta:41.868575,1.879314
+Fortí del Maurici:41.86607,1.869677
+Torre Carlina:42.255352,3.072335
+Fortificació de Boí:42.522202,0.833665
+Fortificació de Puigcerdà:42.435333,1.92425
+Fortificacions modernes del turó de la Seu Vella:41.616986,0.626432
+Muralla de Banyoles:42.118337,2.767143
+Muralla de Caldes de Malavella:41.839154,2.809497
+Muralla de Caldes de Montbui:41.635861,2.160611
+Muralla de Castell d’Empordà:41.979139,3.043944
+Muralla i estructures defensives medievals:40.817972,0.526306
+Muralles d&#8217;Alcover :41.261486,1.169583
+Muralles d&#8217;Igualada :41.577778,1.617635
+Muralles de Bagà:42.253278,1.860111
+Muralles de Balaguer :41.79092,0.803917
+Muralles de Barcelona :41.374908,2.174267
+Muralles de Berga:42.105583,1.848611
+Muralles de Calaf :41.733646,1.51036
+Muralles de Cardona :41.915623,1.682563
+Muralles de Castelló d&#8217;Empúries :42.260494,3.076369
+Muralles de Cervera :41.668671,1.272445
+Muralles de Constantí :41.153831,1.210732
+Muralles de Falset :41.146023,0.817843
+Muralles de Girona :41.981037,2.824261
+Muralles de la Selva de Mar :42.324345,3.186145
+Muralles de La Selva del Camp :41.21397,1.138967
+Muralles de Manresa:41.725291,1.825803
+Muralles de Mataró :41.541908,2.444848
+Muralles de Mont-roig del Camp:41.087719,0.958911
+Muralles de Prades :41.310856,0.987664
+Muralles de Pratdip :41.051102,0.87098
+Muralles de Rupià:42.021354,3.011043
+Muralles de Sant Joan de les Abadesses :42.232395,2.286556
+Muralles de Sant Llorenç de la Muga :42.320004,2.790323
+Muralles de Santa Coloma de Queralt:41.531702,1.382888
+Muralles de Santpedor:41.785429,1.838635
+Muralles de Sitges :41.235703,1.812256
+Muralles de Solsona :41.993839,1.518162
+Muralles de Tarragona :41.118649,1.254941
+Muralles de Tàrrega:41.644073,1.138855
+Muralles de Torà :41.813038,1.404442
+Muralles de Torroella de Montgrí :42.044064,3.126377
+Muralles de Tossa de Mar :41.716949,2.932459
+Muralles de Tremp :42.167492,0.895976
+Muralles de Vic :41.928677,2.257594
+Muralles de Vila-seca :41.111271,1.145421
+Muralles d’Altafulla :41.141373,1.375735
+Muralles d’El Pinell de Brai :41.01547,0.514365
+Muralles i torres de defensa:42.372528,2.921028
+Murs i antics portals d’accés de Torrefeta:41.753889,1.274444
+Passeig de Ronda:40.814961,0.522986
+Recinte emmurallat de Madremanya:41.990087,2.957242
+Recinte fortificat de Regencós :41.952002,3.169622
+Restes de murs i fortificacions:42.476673,0.716112
+Agulla de Pola:41.73423,2.95319
+Can Coll:41.584953,2.240015
+Can Vilar:41.636845,2.504156
+Fortificació La Presó:42.341639,1.842306
+La Bessa:41.790861,2.364444
+La Masó de Selma :41.36535,1.4478
+La Sala:42.087028,2.761889
+La Torrassa:42.570633,1.140245
+La Torrassa:42.349694,1.944028
+La Torre :41.137444,0.987833
+La Torre:41.745278,1.724778
+La Torre:41.01955,0.831752
+La Torre de Bianya:42.209377,2.438225
+La Torre Molí de Vent:41.954778,1.419083
+La Torre:41.829345,0.572558
+La Torre:41.675278,2.204444
+La Torre:41.899586,1.358576
+La Torre:42.044483,2.942044
+La Torreforta:41.119194,1.22025
+La Torreta:42.293137,3.186892
+Les Torretes:41.607947,2.641853
+Mas de la Torre:41.60633,2.35407
+Mas de la Torre de Cruïlles:41.961636,3.023979
+Mas de la Torre de Monells:41.973156,3.007641
+Mas de les Torres:42.281417,3.043833
+Mas d’en Porxo :41.073556,0.889444
+Masia de la Torre de Flot:41.954491,1.519771
+Molí del Vent:40.871694,0.713333
+Tor deth Generau Martinhon:42.70126,0.794443
+Torrassa del moro:41.618763,2.386031
+Torrassa dels moros:41.769669,2.165732
+Torre a la vora de la masia Vilesa:42.318249,1.093303
+Torre Albertí:41.826887,2.890186
+Torre Baldovina:41.447028,2.209472
+Torre Barona:41.269508,1.962558
+Torre Begura:42.040836,3.153776
+Torre Busquets:41.571632,2.525714
+Torre Calsina:42.26601,3.164238
+Torre Canal:41.960428,2.251413
+Torre carlina:41.179783,0.565799
+Torre Cavallera:42.297398,2.348958
+Torre Climent Savall:41.282509,1.981432
+Torre Cornèlia:41.987917,2.826082
+Torre d&#8217;Amargós:42.10194,0.744855
+Torre d&#8217;Ambigats:41.39246,1.233787
+Torre d&#8217;Antoni:41.283764,1.980685
+Torre d&#8217;Arboçar de Baix :41.329605,1.76105
+Torre d&#8217;en Corder:40.849133,0.512656
+Torre d&#8217;en Deri:41.983891,3.155392
+Torre d&#8217;en Garrell:41.230488,1.720382
+Torre d&#8217;en Plats i Olles:41.230732,1.728834
+Torre d&#8217;en Rafael de Casanova:41.818905,2.136803
+Torre d&#8217;en Vallès:41.221989,1.69786
+Torre d&#8217;en Virós:42.443836,1.134368
+Torre d&#8217;Enveja:41.224854,1.713392
+Torre d&#8217;Escaló :42.548477,1.154581
+Torre d&#8217;Estorm:42.086643,0.840996
+Torre de Bac i Basset:41.941494,2.797689
+Torre de Ballester:41.777729,1.435422
+Torre de Bellvei :41.241013,1.576551
+Torre de Benixarop:40.790653,0.614776
+Torre de Benviure:41.343533,2.017068
+Torre de Bernat de So:42.465008,1.982158
+Torre de Bolvir :42.422581,1.882093
+Torre de Bràfim :41.277901,1.352273
+Torre de Briolf:42.169,2.689028
+Torre de Burgasènia:40.733036,0.595941
+Torre de Ca la Miquelina:41.167896,1.441481
+Torre de Ca l’Aymar (Can Casquet):41.691444,2.49475
+Torre de Ca N&#8217;Armanac:41.954346,3.208299
+Torre de Ca n’Altimira:41.524662,2.138997
+Torre de Ca n’Alzina:41.466213,2.280562
+Torre de Ca n’Amat:41.516399,2.384271
+Torre de Ca n’Umbert:41.470463,2.281063
+Torre de ca n’Ustrell:41.580772,2.068399
+Torre de Cadell:42.354649,1.799875
+Torre de Cal Felip:41.374336,2.049079
+Torre de Cal Ferrer:42.165108,3.008521
+Torre de Cal Jeroni:41.167946,1.440472
+Torre de Cal Pepó:41.413776,1.545982
+Torre de Cal Peyrí :41.113564,0.936825
+Torre de Cal Rei:41.421692,1.500642
+Torre de Cal Torra:41.780535,1.262376
+Torre de Cal Torratxar:41.105312,0.961309
+Torre de Cal Xamanet:41.421398,1.498387
+Torre de Calella:41.889004,3.190256
+Torre de Camarles :40.777302,0.674385
+Torre de Campredó:40.746113,0.579444
+Torre de Can Bas:41.818545,3.060599
+Torre de Can Basses:42.095167,2.764333
+Torre de Can Boera:41.915623,3.160584
+Torre de Can Bonet d’Avall:41.638428,2.709376
+Torre de Can Colom:41.904556,3.143556
+Torre de Can Daussà:41.818409,3.045387
+Torre de Can Faixat:42.109085,2.922392
+Torre de Can Fiego:41.908161,3.168518
+Torre de Can Gich:41.718781,2.928752
+Torre de Can Gomar:41.283192,1.978822
+Torre de Can Guixó:41.419975,1.496166
+Torre de Can Maians:41.51255,2.362778
+Torre de Can Marquès:41.954773,3.20835
+Torre de Can Modolell:41.316051,2.020098
+Torre de Can Moliner:41.283398,1.981321
+Torre de Can Moragues:41.569103,2.239897
+Torre de Can Ninetes:41.977719,2.807028
+Torre de Can Palauet:41.538948,2.420146
+Torre de Can Pascol:41.348484,1.573904
+Torre de Can Pella i Forgas:41.954746,3.206204
+Torre de Can Pujades:41.494972,2.331583
+Torre de Can Pujol:42.141972,2.791861
+Torre de Can Riambau:41.811077,3.041764
+Torre de Can Roca de Baix:41.282516,1.977858
+Torre de Can Rosés:41.293372,1.991045
+Torre de Can Sicars:41.814041,3.026775
+Torre de Can Sitjar:41.964284,2.792067
+Torre de Can Toni Joan:41.68322,2.760281
+Torre de Can Tria de Mata:41.565201,2.464314
+Torre de Can Valls de la muntanyeta:41.280106,1.974064
+Torre de Can Valls:41.567577,2.51498
+Torre de Can Veïl:41.517731,2.381287
+Torre de Can Werboom:41.500908,2.34571
+Torre de Can Xacó:41.168476,1.440188
+Torre de Canadell:42.224514,2.532091
+Torre de Capafonts:41.295444,1.026571
+Torre de Cararac:41.648194,2.168389
+Torre de Carmanxel:42.419365,2.876693
+Torre de Cartellà:41.769077,2.757944
+Torre de Castellnou de Bages :41.851017,1.830144
+Torre de Cérvoles:41.881108,0.656474
+Torre de Corsavell:42.312458,2.664842
+Torre de Cucurull:41.1889,1.446456
+Torre de Das :42.359886,1.866815
+Torre de defensa:41.729969,2.063673
+Torre de defensa de Campdàsens:41.260372,1.878611
+Torre de defensa de Can Amell:41.251118,1.875285
+Torre de defensa de Can Planes:41.26936,1.873212
+Torre de defensa de l&#8217;antic Molí de la Torre:41.973278,3.028453
+Torre de defensa de la masia de Can Cànoves:41.639222,2.676611
+Torre de defensa de la plaça Major d&#8217;Olp:42.430153,1.114163
+Torre de defensa de la plaça Major de Sort :42.411369,1.129985
+Torre de defensa de Son del Pi:42.620735,1.096914
+Torre de defensa del volcà Montolivet:42.179157,2.47845
+Torre de defensa:41.698677,1.315629
+Torre de Don Carles:41.876186,2.287291
+Torre de Faia:42.265045,1.823325
+Torre de Fellines:42.094013,2.891915
+Torre de Ferragut:41.682484,1.378859
+Torre de Fontdepou:41.961025,0.757536
+Torre de Forcheron:40.668312,0.58716
+Torre de Fullola:40.863907,0.645844
+Torre de Garraf:41.255539,1.905887
+Torre de Gassià:40.813417,0.566528
+Torre de Gavadà:41.002945,0.78758
+Torre de Gàver:41.688393,1.393054
+Torre de Ginebret:41.988098,1.92898
+Torre de Granadella:40.767731,0.662331
+Torre de Granyena de Segarra:41.62035,1.248772
+Torre de Grions:41.760841,2.609575
+Torre de guaita de Portell:41.741993,1.384369
+Torre de guaita de Sant Llorenç de la Muga :42.31778,2.790374
+Torre de guaita de Sant Martí de Llémena :42.036358,2.647456
+Torre de Joveró:41.585133,1.547737
+Torre de l&#8217;Àngel:42.189644,2.924914
+Torre de l&#8217;antic Hospital de Cervelló:41.345383,1.845977
+Torre de l&#8217;ermita de la mare de Déu:40.731861,0.62802
+Torre de l&#8217;església Vella:41.087727,0.958965
+Torre de l&#8217;esquirol:41.064476,1.08498
+Torre de l&#8217;Oriola:40.673988,0.588852
+Torre de l&#8217;Ortigós:41.283672,1.518474
+Torre de la Bestorre:41.60955,1.845025
+Torre de la Candela:40.723068,0.59058
+Torre de la Carrova:40.742962,0.561389
+Torre de la Closa :41.120762,1.003363
+Torre de la Ferreria:41.822404,1.388324
+Torre de la Font del Mingo:41.42421,1.782964
+Torre de la Força:41.6915,2.494056
+Torre de La Galera :40.680954,0.462724
+Torre de la Guàrdia d’Urgell:41.721472,1.055944
+Torre de la Guardiola:40.6236,0.585878
+Torre de la Guinovarda:41.36935,1.501892
+Torre de la Immortalitat:41.229572,1.722426
+Torre de la Llotja:40.739944,0.577056
+Torre de la Manresana:41.696846,1.552028
+Torre de la Mixarda:41.340981,1.254587
+Torre de la Móra:41.125828,1.341923
+Torre de La Panadella:41.619373,1.401669
+Torre de la Penya del Moro:41.396824,2.068772
+Torre de la Petja:40.785649,0.530174
+Torre de la Plaça:42.363415,3.151963
+Torre de la Plaça del Castell:41.284794,1.975828
+Torre de La Pobla:41.814293,1.761935
+Torre de la Presó (Gerri de la Sal):42.323769,1.064191
+Torre de la Presó:41.635212,2.163086
+Torre de la Quadra de Puigloret:41.368056,1.503333
+Torre de la Riera:41.072212,1.055078
+Torre de la Sénia:41.075394,1.050109
+Torre de la Serra :41.255653,1.752981
+Torre de la Serra de la Petita:42.111012,1.855509
+Torre de la Talaia:41.360249,2.097614
+Torre de la Timba:41.586441,2.577191
+Torre de la Torreta:41.327026,1.57863
+Torre de la Vall:41.075005,0.524605
+Torre de la Vall de Bac:42.264722,2.453056
+Torre de la Vall:42.003998,2.420857
+Torre de la Vila:42.175785,1.602883
+Torre de les Bisaroques:42.182198,2.50297
+Torre de les Conclues:42.016163,0.658799
+Torre de les Destres:41.338257,1.379125
+Torre de les Gunyoles:41.352352,1.779292
+Torre de les Hores:42.067284,2.909239
+Torre de les hores:42.308056,3.14975
+Torre de les Hores:41.474681,1.931378
+Torre de Lletger:41.29414,1.579172
+Torre de l’Abella:41.170647,1.350618
+Torre de l’església de Sant Jaume:41.600136,2.620259
+Torre de L’Esparra:41.828217,2.660175
+Torre de L’Espinal:42.000385,0.960217
+Torre de l’Estanyet :42.201667,2.974056
+Torre de l’Hereu:42.186667,2.766667
+Torre de l’Hostal:41.718369,2.931848
+Torre de Mala Veïna:42.330902,3.036714
+Torre de Martí:41.094421,0.314065
+Torre de Mas Carboners:41.09494,1.168134
+Torre de Mas Sorder:41.149212,1.317903
+Torre de Masriudoms:41.020546,0.884456
+Torre de Mataperunya:41.994774,0.940479
+Torre de Meer:41.910267,1.673985
+Torre de Mejanell:41.725803,1.38229
+Torre de Moja :41.326321,1.690325
+Torre de Monnars:41.135612,1.305824
+Torre de Montferri :41.25156,1.367299
+Torre de Montgó:42.110794,3.174142
+Torre de Norfeu:42.243416,3.250274
+Torre de Perauba:42.242092,1.090522
+Torre de Pineda:41.096275,1.170648
+Torre de Pinós:41.613976,2.299715
+Torre de Poquessalses:40.673996,0.578628
+Torre de Pujals dels Cavallers:42.105213,2.818723
+Torre de Ratès:41.640335,2.708542
+Torre de Ribes Roges:41.214531,1.725259
+Torre de Riu:42.371788,1.897934
+Torre de Rocasalva:42.010139,2.631419
+Torre de Sa Fusta d&#8217;es Baluard:42.287464,3.277252
+Torre de Salicrup:41.22472,1.742296
+Torre de Salim:40.911255,0.832295
+Torre de Salipota:41.832027,1.745008
+Torre de Sallent:41.903656,1.3353
+Torre de Sant Antoni:41.147694,1.372776
+Torre de Sant Baldiri de Taballera:42.325706,3.229794
+Torre de Sant Dionís:41.976635,2.79134
+Torre de Sant Jaume:41.65722,2.675889
+Torre de Sant Joan:40.635418,0.707481
+Torre de Sant Joan:41.942947,2.569913
+Torre de Sant Marçal:42.128304,2.868303
+Torre de Sant Sebastià:41.897121,3.202847
+Torre de Santa Bàrbara:41.682442,2.800814
+Torre de Santa Caterina:41.718437,1.826442
+Torre de Santa Margarida:42.207893,2.469488
+Torre de Santa Margarida:41.906788,3.172047
+Torre de Serrasanç:41.84824,1.893551
+Torre de Soldevila:40.772437,0.539694
+Torre de Talavera:41.581739,1.329664
+Torre de Tamarit:41.130016,1.360875
+Torre de Telegrafia Òptica de Castellolí:41.5886,1.70832
+Torre de Telegrafia Òptica de Puigmarí:41.754611,2.730417
+Torre de telegrafia òptica del Puiggraciós:41.706104,2.248509
+Torre de telegrafia òptica i Capella de Sant Pere de Romaní:41.4062,2.031238
+Torre de Telegrafia Òptica:41.95025,1.591639
+Torre de Túbal:40.814667,0.523083
+Torre de Valldans:41.912719,1.202127
+Torre de Vallferosa:41.861881,1.44541
+Torre de Viladellops:41.305485,1.736526
+Torre de Vilamajor:41.837837,1.219198
+Torre de Vilaseca:40.776454,0.504274
+Torre de Vinyols i els Arcs :41.113849,1.039306
+Torre de Viola:41.196751,1.58175
+Torre de Virgili:41.097111,1.189657
+Torre de Vivet:42.177833,2.818194
+Torre de&#8217;n Calvo:40.577187,0.535176
+Torre de&#8217;n Morralla:40.574459,0.536788
+Torre del Badorc:41.501404,1.728815
+Torre del Baró:41.316177,2.020391
+Torre del Bell-lloc:41.968958,2.806572
+Torre del Botafoc:41.224159,1.529629
+Torre del Botxí:41.915703,1.681699
+Torre del Bou:41.076107,1.051012
+Torre del Breny:41.678056,1.854722
+Torre del campanar de Santa Maria de Palautordera :41.692711,2.44463
+Torre del Cargol:41.894211,1.135704
+Torre del carrer Ample:41.579739,2.552527
+Torre del carrer Nou:40.544113,0.48209
+Torre del carrer Sant Ramon:41.95573,3.207611
+Torre del Castell:41.648823,2.737795
+Torre del Castellà:41.094906,0.308408
+Torre del Célio:40.818306,0.526222
+Torre del Cintoi:41.213123,1.534336
+Torre del Clos:41.470264,1.931516
+Torre del Clot dels Frares :41.237315,1.781118
+Torre del Coll de l’Alba:40.816139,0.571
+Torre del Fargas:41.15825,1.045472
+Torre del Gili:41.676445,1.328495
+Torre del Llimó:41.074574,1.050973
+Torre del Madico:41.105335,0.960861
+Torre del Mas Agustí:41.863537,3.145622
+Torre del Mas Cal Rei:42.081436,3.022322
+Torre del Mas Costa de la Cavalleria:41.9809,1.975332
+Torre del Mas Cusidor:41.14389,1.328568
+Torre del Mas d&#8217;en Blai:41.101944,1.017273
+Torre del Mas d&#8217;en Pinc:41.958836,3.212311
+Torre del mas de Don Felip :41.100415,1.077395
+Torre del Mas de l&#8217;Hereu:41.107647,0.981458
+Torre del Mas de la Creu:41.15073,1.310222
+Torre del Mas de la Pietat:41.871418,3.121846
+Torre del Mas de l’Hereuet:41.13747,1.302698
+Torre del Mas de Mauri de Vall:41.954632,3.204762
+Torre del Mas del Bisbe:41.085888,1.084628
+Torre del Mas del Ciuró:41.891994,2.024706
+Torre del Mas d’en Grimau:41.131199,1.33063
+Torre del Mas d’en Nin:41.183308,1.441272
+Torre del mas Figueroles:41.831111,2.294583
+Torre del Mas Fina:41.89431,3.163302
+Torre del Mas Francàs:41.179329,1.498593
+Torre del Mas Galter:41.637257,2.705642
+Torre del Mas La Garriga:41.892496,1.61114
+Torre del Mas Llorens:41.974438,2.78081
+Torre del Mas Marès:42.253155,3.202505
+Torre del Mas Massaller:42.080889,3.022543
+Torre del Mas Miralpeix:41.229943,1.77217
+Torre del Mas Montjoi de Baix:42.256943,3.221459
+Torre del Mas Pastoret:41.15773,1.308416
+Torre del Mas Pepó:41.862262,3.140111
+Torre del Mas Petit d&#8217;en Caixa:41.896534,3.165326
+Torre del Mas Ral:42.045841,3.162205
+Torre del Mas Sureda:41.89633,3.167544
+Torre del Mas Tomasi:41.980541,3.168904
+Torre del Mas Vilanera:42.118446,3.1132
+Torre del Mas Xec:41.870117,3.142011
+Torre del mirador:41.102812,1.021901
+Torre del Molí de Bítem:40.854306,0.528
+Torre del moro I:40.616943,0.574851
+Torre del moro II:40.617855,0.570855
+Torre del moro III:40.616695,0.566622
+Torre del Palau:41.562347,2.010853
+Torre del Palau Comtal:41.683987,2.388156
+Torre del Papiol:41.283321,1.603907
+Torre del Pedró:42.126781,3.127933
+Torre del Petrol:41.315182,1.191233
+Torre del Pla de les Forques:42.148963,2.536614
+Torre del Port:41.065578,1.060036
+Torre del Prior:40.838272,0.516717
+Torre del Prior:40.9625,0.330059
+Torre del Pubill:42.50581,0.80138
+Torre del Puig:41.215889,1.538577
+Torre del Puig Torretes:41.921444,3.15883
+Torre del Raval:41.775124,1.435017
+Torre del rellotge:41.545547,1.893739
+Torre del Riu:42.120457,1.762887
+Torre del Santmartí:41.75629,1.877764
+Torre del Santuari del Camí:41.071568,1.050938
+Torre del Sastre:42.246876,3.215357
+Torre del Serrat de la Plaça:42.416405,2.869594
+Torre del Telègraf:41.192616,1.508689
+Torre del Telègraf:41.77631,1.790476
+Torre del telègraf de Can Dolcet:41.556344,1.816505
+Torre del Telègraf de l’Ordal:41.394919,1.874681
+Torre del telègraf de Montornès del Vallès:41.540778,2.250356
+Torre del Telègraf Òptic:41.98693,2.82741
+Torre del Telègraf:41.949573,2.737207
+Torre del Telègraf:41.673497,1.791434
+Torre del Telègraf:41.503413,2.394045
+Torre del Torn :40.966361,0.890889
+Torre del Veguer:41.251003,1.73456
+Torre del Xut:42.207741,0.93803
+Torre dels Alamús:41.619549,0.709782
+Torre dels Colomers:42.327866,1.047362
+Torre dels Encantats:41.571827,2.530282
+Torre dels Galls Carnuts:41.381721,1.511838
+Torre dels Joiells:41.688496,1.207917
+Torre dels moros :41.158434,1.023027
+Torre dels moros:41.431667,2.155361
+Torre dels moros:41.658962,1.655475
+Torre dels moros:40.871525,0.725811
+Torre dels moros:42.574738,1.085675
+Torre dels moros:42.052612,1.269071
+Torre dels moros:41.154041,0.989142
+Torre dels moros o del bosc de la perxa:41.258244,0.972639
+Torre dels Moros:41.604444,1.704722
+Torre dels Moscats:42.052166,3.151224
+Torre dels Soldats:41.871643,1.982906
+Torre des moros:41.718941,2.927299
+Torre Descalç:42.099917,2.7275
+Torre Desvern:42.022087,2.88286
+Torre d’Algorfa:41.442992,0.382644
+Torre d’Arandes:41.117263,1.256356
+Torre d’en Cabirol:41.578869,2.550336
+Torre d’en Carlos:41.770992,1.279105
+Torre d’en Dolça:41.099033,1.159929
+Torre d’en Gorgs:41.511426,2.120364
+Torre d’en Llobet:41.578499,2.549084
+Torre d’en Malla:41.563915,2.211277
+Torre d’en Nadal:41.503368,2.394501
+Torre d’en Pega:41.763814,2.537191
+Torre d’en Pinyol:40.845028,0.501111
+Torre d’en Tintorer:41.117914,1.253978
+Torre d’Escarrega:41.358469,0.47024
+Torre d’Onofre Arnau:41.554943,2.468575
+Torre d’Osor :41.945126,2.556459
+Torre Fael:41.27739,1.965826
+Torre Ferrana:42.083046,3.131734
+Torre Forta de Santa Cristina:41.271778,1.440158
+Torre Fossada:41.474449,1.941788
+Torre Gabriel Folcher:41.282257,1.980866
+Torre Galatea:42.268167,2.959083
+Torre Ginebrell:42.129822,0.828164
+Torre Grallera:41.688822,0.622186
+Torre Gran:42.052296,3.170736
+Torre Griminella:41.470257,1.9342
+Torre Guinarda:41.978172,3.027629
+Torre i masia de Cal Baster:41.499361,2.321639
+Torre La Quintaneta:42.046844,3.157061
+Torre la Talaia de Calafell:41.199341,1.590974
+Torre la Torrassa:41.467068,1.908459
+Torre La Vila:42.209423,2.421874
+Torre Marata:41.646389,2.323194
+Torre Marata:41.784,2.718424
+Torre Martina:42.049011,3.160539
+Torre Mirona:41.874401,3.149211
+Torre Mirona:41.97092,2.776667
+Torre Montagut:41.650314,2.714798
+Torre Mora:41.983978,3.201967
+Torre Moratxa:42.055721,3.183723
+Torre Morgadès:41.939896,2.293251
+Torre Moruna:41.269272,1.95724
+Torre Nova d’en Carlos:41.77951,1.281761
+Torre Nova:41.068861,1.146832
+Torre Pallaresa:41.464497,2.217585
+Torre Pilar d’Almenara:41.753407,1.066929
+Torre Pla de la Torre:41.630035,2.715869
+Torre Ponça:42.06131,3.188563
+Torre Ponça:41.878902,2.802055
+Torre Quimeta:42.265999,3.164942
+Torre Rodona:41.581264,1.433536
+Torre Rodona:41.385845,2.123703
+Torre Rodona:42.187694,2.408472
+Torre Rodona:41.768015,1.144251
+Torre Roja:41.904423,3.163839
+Torre Roja:41.320263,2.022365
+Torre Roja:41.633072,2.143511
+Torre Rufina:41.986091,2.826882
+Torre Salvana:41.36586,2.028734
+Torre Saportella:41.65807,1.212093
+Torre Seguera:41.816254,3.034763
+Torre sense identificar:41.651861,2.1595
+Torre sepulcral de Vilablareix :41.95443,2.774002
+Torre Simona:41.897854,3.15034
+Torre Sobirana:41.439278,2.146529
+Torre Solsona:42.361439,1.449696
+Torre Suchet:41.990162,2.831373
+Torre Valentina:41.837357,3.092772
+Torre Vall Xirau:41.639248,2.715597
+Torre Vella del Mas Galí:41.93066,2.208729
+Torre Vella:41.078171,1.128995
+Torre Verda:41.571941,2.526487
+Torre Vescomtal:41.985564,2.826078
+Torre Vila-seca:41.917331,3.174058
+Torreó de Miami Platja:41.011032,0.946597
+Torres d&#8217;Ogern:42.023628,1.340472
+Torres de Can Borrull:41.907345,3.172211
+Torres de Cas:41.969803,0.792941
+Torres de defensa de les Corts :42.12487,3.112831
+Torres de defensa del Mas Mont-ravà:41.265396,1.129679
+Torres de defensa del volcà Montsacopa:42.188332,2.487886
+Torres de Fals:41.756718,1.735137
+Torres de Puig Ardina:41.806364,2.715117
+Torres del Fum i del Corn:41.780117,3.026701
+Torres del Mas d&#8217;en Coll:42.284512,3.178186
+Torres del Mas de Ramon:41.092686,1.095397
+Torrota de Can Llopart:41.408672,1.800811
+Torrota de l&#8217;Obac:41.628826,1.968867
+Torrota de Vacarisses:41.610554,1.907792
+Torrota del moro:41.389031,1.762786
+Basílica de Sant Feliu:41.98804,2.825
+Basílica de Santa Maria:42.259514,3.075906
+Basílica de Santa Maria:41.347098,1.697644
+Basílica paleocristiana de Bovalar:41.45517,0.426927
+Església de Santa Maria de l’Alba:41.72225,1.826956
+Catedral de Girona:41.987346,2.826544
+Catedral de Sant Pere:41.928177,2.25536
+Catedral de Santa Maria:42.357868,1.461788
+Catedral de Santa Maria:41.994311,1.519605
+Catedral de Tarragona:41.119038,1.257953
+Catedral de Tortosa:40.814306,0.522611
+Seu Nova:41.613278,0.622874
+Seu Vella:41.618143,0.626981
+Capella de Cal Casalets :41.996718,1.51585
+Capella de Calders:41.978487,2.673729
+Capella de Can Camà (*):42.036239,2.227548
+Capella de Can Font de la Serra:41.740513,1.833352
+Capella de la Bona Sort:42.006944,2.029444
+Capella de la Mare de Déu de Bruguers:41.3146,1.961161
+Capella de la Mare de Déu de la Llinda:41.384464,1.756661
+Capella de la Mare de Déu de les Arenes:41.646975,2.053465
+Capella de la Mare de Déu de l’Erola:41.6695,2.634056
+Capella de la Mare de Déu de l’Esperança:42.419444,1.878944
+Capella de la Mare de Déu de Montcorb:41.809901,2.701344
+Capella de la Mare de Déu del Bellvilar:41.754196,1.209936
+Capella de la Mare de Déu del Coll:41.590278,1.2925
+Capella de la Mare de Déu del Part:41.95825,2.540667
+Capella de la Mare de Déu del Pla :41.658472,2.323472
+Capella de la Mare de Déu del Remei:42.050948,2.104327
+Capella de la Mare de Déu del Roser:42.36334,1.629273
+Capella de la Mare de Déu del Roser:41.988143,1.844896
+Capella de la Mercè:42.154528,1.984194
+Capella de la Pietat:42.10522,1.847089
+Capella de la Pietat:41.986698,2.701631
+Capella de la Pietat:42.135725,1.592642
+Capella de la Verge del Vinyet:41.340103,1.586875
+Capella de la Verge Maria:41.137612,1.050755
+Capella de Les Eres de Guardiolans:42.132917,1.955389
+Capella de les Fonts:41.483806,1.443167
+Capella de Miralles:41.878,1.571583
+Capella de Nostra Senyora de la Font:42.146413,2.782404
+Capella de Nostra Senyora del Roser:42.07535,2.506609
+Capella de San Esteve de Vila-setrú:42.00704,2.27027
+Capella de Sant Andreu de Comallonga:41.785623,1.709684
+Capella de Sant Andreu de Llanars:42.003895,2.009167
+Capella de Sant Andreu de l’Avellà:41.445034,1.616178
+Capella de Sant Andreu del castell de Clarà:41.819989,2.080334
+Capella de Sant Andreu:42.322222,2.790222
+Capella de Sant Andreu:41.683982,2.696098
+Capella de Sant Antolí:41.618806,1.857667
+Capella de Sant Antoni de la Salvetat:42.065133,3.00513
+Capella de Sant Antoni de Santes Masses:41.967806,1.310974
+Capella de Sant Antoni:42.089893,2.817652
+Capella de Sant Antoni:40.95355,0.346069
+Capella de Sant Baldiri:41.60687,2.23585
+Capella de Sant Bartomeu de Basset:42.184167,2.782222
+Capella de Sant Bartomeu de la Vall de Vilaramó:41.962957,1.942063
+Capella de Sant Bartomeu de Trullars:41.959455,2.668474
+Capella de Sant Bartomeu:41.562417,2.343306
+Capella de Sant Bartomeu:41.442861,1.405307
+Capella de Sant Benet d’Espiells:41.439236,1.811708
+Capella de Sant Benet:41.73437,2.897725
+Capella de Sant Bernabé d’Aguilera:41.614897,1.663088
+Capella de Sant Corneli i Sant Cebrià:41.638583,2.356516
+Capella de Sant Cristòfol:41.516167,2.384472
+Capella de Sant Cristòfol:41.414681,1.902747
+Capella de Sant Daniel:41.702972,2.761611
+Capella de Sant Elies:41.492111,1.667706
+Capella de Sant Elm:41.77463,3.02734
+Capella de Sant Esteve de Moja:41.325889,1.690928
+Capella de Sant Esteve de Vilert:42.173661,2.821237
+Capella de Sant Esteve:41.56426,1.18577
+Capella de Sant Eudald:41.906274,0.997663
+Capella de Sant Feliu:42.101512,0.875127
+Capella de Sant Francesc s’hi Moria:41.954443,2.283152
+Capella de Sant Fruitós del Grau:41.958621,2.269545
+Capella de Sant Fruitós:41.622167,2.130167
+Capella de Sant Genís:41.585526,2.183978
+Capella de Sant Gervàs:42.070833,0.970556
+Capella de Sant Grau:42.109363,3.059191
+Capella de Sant Hilari:41.520828,1.911614
+Capella de Sant Iscle i Santa Victòria de Can Guilla:41.66829,2.30654
+Capella de Sant Iscle i Santa Victòria:41.988625,2.97094
+Capella de Sant Jaume de Castelló:41.552397,1.927256
+Capella de Sant Jaume de Rossells:41.937478,1.324634
+Capella de Sant Jaume dels Malalts:41.921595,2.258752
+Capella de Sant Jaume:41.452806,1.925861
+Capella de Sant Jaume:41.997222,2.824722
+Capella de Sant Joan de la Maçana :41.415851,1.634505
+Capella de Sant Joan de la Muntanya:41.408011,1.525003
+Capella de Sant Joan de Palamós:41.64039,1.3793
+Capella de Sant Joan de Puig-redon:41.836823,1.413623
+Capella de Sant Joan de Viladellops:41.305,1.735278
+Capella de Sant Joan del Pla:41.406111,1.97875
+Capella de Sant Joan d’Enveja:41.224695,1.713841
+Capella de Sant Joan Samora:41.472061,1.866081
+Capella de Sant Joan:41.474783,1.935183
+Capella de Sant Joan:42.02361,2.67903
+Capella de Sant Joan:42.119417,2.178917
+Capella de Sant Joaquim d’Olivars:42.051111,2.841667
+Capella de Sant Jordi de Puigseslloses:41.947806,2.2965
+Capella de Sant Jordi:42.328306,2.766111
+Capella de Sant Julià de Vilamirosa:41.991642,2.276955
+Capella de Sant Llorenç de la Fontcalçada:41.478373,2.046268
+Capella de Sant Llorenç:42.079333,2.87225
+Capella de Sant Macari:41.626111,1.55075
+Capella de Sant Magí:41.528921,1.392531
+Capella de Sant Magí:41.120164,1.260142
+Capella de Sant Mamet de Bacardit:41.786175,1.667256
+Capella de Sant Marc:41.721497,1.829699
+Capella de Sant Martí de Ca n’Amat Gros:41.96975,2.6974
+Capella de Sant Martí de la Móra:42.10464,2.933385
+Capella de Sant Martí de Pascol:41.641028,2.140806
+Capella de Sant Martí d’Aravó:42.431389,1.908333
+Capella de Sant Martí Sadevesa:41.431925,1.692054
+Capella de Sant Martí:41.471245,2.279074
+Capella de Sant Mateu:42.08994,2.960397
+Capella de Sant Medir:42.019886,2.690892
+Capella de Sant Miquel de Centenys:42.162265,2.785286
+Capella de Sant Miquel de Cirera:41.711447,1.724729
+Capella de Sant Miquel de Gallifa:42.074831,2.17892
+Capella de Sant Miquel de Martres:41.638111,2.190056
+Capella de Sant Miquel de Vilaclara:41.589607,1.749549
+Capella de Sant Miquel d’Oló:41.873792,2.069739
+Capella de Sant Miquel d’Ordeig:42.035371,2.221854
+Capella de Sant Miquel:41.747726,1.628396
+Capella de Sant Miquel:41.337584,1.578619
+Capella de Sant Muç:41.509056,2.022139
+Capella de Sant Nazari de la Garriga:41.901681,2.054905
+Capella de Sant Nicolau:41.553972,2.122389
+Capella de Sant Onofre:40.956818,0.333072
+Capella de Sant Pau de Fornils:42.01602,2.51937
+Capella de Sant Pau:40.956818,0.333072
+Capella de Sant Pau:41.120205,1.258512
+Capella de Sant Pere al Puig:42.096306,2.187472
+Capella de Sant Pere de Comalats:41.65019,1.528411
+Capella de Sant Pere de Muller:41.708313,1.208815
+Capella de Sant Pere de Romaní:41.406167,2.031278
+Capella de Sant Pere del Soler:42.007348,1.217099
+Capella de Sant Pere del Soler:41.839951,1.401272
+Capella de Sant Pere d’Oristrell:41.709389,1.906164
+Capella de Sant Pere d’Orrit:42.256569,0.740356
+Capella de Sant Pere Màrtir:41.973889,2.640278
+Capella de Sant Pere Sacarrera:41.488096,1.653281
+Capella de Sant Pere:41.710694,2.727083
+Capella de Sant Ponç:41.283523,1.604656
+Capella de Sant Ponç:41.717474,1.421149
+Capella de Sant Ponç:41.709022,2.672831
+Capella de Sant Prim:41.959139,1.521611
+Capella de Sant Ramon de Portell:41.741993,1.383749
+Capella de Sant Roc:42.08625,2.304833
+Capella de Sant Romà de Banat:42.344528,1.527222
+Capella de Sant Romà:41.926379,1.355274
+Capella de Sant Salvador del Canadell:41.770794,1.946708
+Capella de Sant Salvador del Coll de Llanera:41.886826,1.462343
+Capella de Sant Salvador d’Avençó :41.76609,2.2641
+Capella de Sant Salvador:41.607222,1.555556
+Capella de Sant Salvador:41.69751,1.321707
+Capella de Sant Salvador:41.41264,1.532405
+Capella de Sant Sebastià:42.374222,0.920333
+Capella de Sant Sebastià:41.991471,3.015681
+Capella de Sant Sebastià:42.2675,2.960556
+Capella de Sant Sebastià:42.343833,3.057083
+Capella de Sant Sebastià:41.77694,2.73074
+Capella de Sant Sebastià:41.584835,1.669789
+Capella de Sant Simplici:42.097819,2.459051
+Capella de Sant Tovà:41.93425,1.701833
+Capella de Sant Valentí de Vilallonga:41.702389,1.508511
+Capella de Sant Valentí:41.721322,1.630837
+Capella de Sant Vicenç de Cal Cerdà:41.431272,1.65586
+Capella de Sant Vicenç de les Roquetes:42.02704,2.8504
+Capella de Sant Vicenç:41.551083,1.4205
+Capella de Sant Vicenç:41.72075,2.698722
+Capella de Santa Anna de Mont-ral:41.95304,2.245539
+Capella de Santa Anna del Saió:41.57698,1.564006
+Capella de Santa Cecília de Torreblanca:41.923084,1.134583
+Capella de Santa Engràcia:41.695763,1.321237
+Capella de Santa Eugènia del Gomar:41.816667,2.159222
+Capella de Santa Eulàlia de Pomanyons:41.983815,1.203391
+Capella de Santa Eulàlia:41.914056,1.682528
+Capella de Santa Eulàlia:41.781869,1.514673
+Capella de Santa Fe de Montfred:41.559182,1.394024
+Capella de Santa Fe de Vilagelans:41.976517,2.287889
+Capella de Santa Magdalena de Còdol-rodon:41.729987,1.60847
+Capella de Santa Magdalena de Talamanca:41.737528,1.940556
+Capella de Santa Magdalena del mas de Vilaprinyó:42.030833,1.394444
+Capella de Santa Magdalena del Pla:41.704272,1.871875
+Capella de Santa Magdalena del Puig:41.43775,1.848147
+Capella de Santa Magdalena del Soler:41.756105,1.45914
+Capella de Santa Magdalena:41.57566,2.172872
+Capella de Santa Magdalena:41.873739,1.309356
+Capella de Santa Magdalena:42.0062,1.97968
+Capella de Santa Margarida de l’Alou:41.848865,1.882861
+Capella de Santa Margarida de Viladepost:41.868045,1.803182
+Capella de Santa Margarida de Vilaltella:42.034806,2.124332
+Capella de Santa Margarida del Cairat:41.56789,1.86615
+Capella de Santa Margarida d’Agulladolç:41.484231,1.680425
+Capella de Santa Maria de la Sanabra:41.298261,1.662586
+Capella de Santa Maria de la Torre de Soler:41.947215,1.628532
+Capella de Santa Maria de Malanyanes:41.5935,2.355917
+Capella de Santa Maria de Palau:41.984801,2.25636
+Capella de Santa Maria de Romeria:42.122307,2.638585
+Capella de Santa Maria de Toudell:41.56295,1.980095
+Capella de Santa Maria de Viladelleva:41.820667,1.799504
+Capella de Santa Maria del Bon Viatge:41.366895,2.056132
+Capella de Santa Maria del Camí:41.671028,2.286417
+Capella de Santa Maria del Castell de Centelles:41.769692,2.206212
+Capella de Santa Maria del Grau:41.750065,1.70885
+Capella de Santa Maria del Grauet:41.709282,1.618096
+Capella de Santa Maria del Villar:41.681642,2.171591
+Capella de Santa Maria dels Albats:41.304977,1.713143
+Capella de Santa Maria dels Horts:41.342417,1.721503
+Capella de Santa Maria d’Orpinell:41.5073,1.610508
+Capella de Santa Maria:41.28575,1.363444
+Capella de Santa Susanna:41.634083,2.160944
+Capella de Santa Susanna:41.638129,2.709248
+Capella de Santa Tecla la Vella:41.119665,1.2589
+Capella de Santes Creus:41.949706,1.313105
+Capella del castell de Cervelló:41.387582,1.959558
+Capella del Castell de Sant Martí de Riucorb:41.560746,1.054085
+Capella del Castell de Sentmenat:41.616628,2.133166
+Capella del cementiri:41.6065,1.283917
+Capella del Mas Alrà:41.878693,2.755172
+Capella del Roc de Sant Joan:41.978306,1.780833
+Capella del Sant Crist del Salvador:41.741111,1.845278
+Capella dels Reis:40.831325,0.524407
+Capella dels Sants Metges:41.69915,2.846
+Capella dels Socors:41.71861,2.93191
+Capella Paleocristiana de Santa Cristina d’Aro:41.816286,2.999985
+Capella Suanya:41.741111,1.845278
+Conjunt eremític de Sant Pau:41.359061,1.682678
+Ermita de Butsènit:41.57995,0.57411
+Ermita de la Bovera:41.570246,1.158525
+Ermita de la Mare de Déu de Barrulles:41.305806,1.038054
+Ermita de la Mare de Déu de la Misericòrdia i de Sant Roc:41.746972,2.403833
+Ermita de la Mare de Déu de la Sala:41.589409,1.55545
+Ermita de la Mare de Déu de la Salut:41.449318,2.025408
+Ermita de la Mare de Déu de les Peces:42.351528,1.518111
+Ermita de la Mare de Déu de Loreto:40.591796,0.442813
+Ermita de la Mare de Déu de l’Abellera :41.304611,1.004
+Ermita de la Mare de Déu de Montanyans:41.3032,1.63165
+Ermita de la Mare de Déu de Sales:41.323917,2.028475
+Ermita de la Mare de Déu de Serrallonga:41.883667,2.699306
+Ermita de la Mare de Déu del Carme:42.355575,1.582308
+Ermita de la Mare de Déu del Pedró:41.8978,2.565449
+Ermita de la Mare de Déu del Remei:41.641583,2.162472
+Ermita de la Mare de Déu:41.170692,1.403691
+Ermita de la Pietat:40.632965,0.470334
+Ermita de la Trinitat:41.238639,1.853833
+Ermita de la Verneda de Sant Ponç:41.89875,2.3595
+Ermita de les Virtuts:41.266524,1.152395
+Ermita de l’Alegria:41.489028,2.271417
+Ermita de l’Ascensió:41.945576,1.336697
+Ermita de Mig Camí:40.813333,0.55125
+Ermita de Nostra Senyora del Catllar:42.358727,2.292018
+Ermita de Palau:42.307222,2.738944
+Ermita de San Antoni:42.210917,1.698972
+Ermita de Sant Adjutori:41.455556,2.114278
+Ermita de Sant Agustí de Lloret Salvatge:41.985703,2.581238
+Ermita de Sant Amanç:41.931931,2.638103
+Ermita de Sant Andreu:41.643861,2.629222
+Ermita de Sant Antoni :41.36263,0.66959
+Ermita de Sant Antoni de Pàdua :41.142176,1.048312
+Ermita de Sant Antoni:41.36975,2.002667
+Ermita de Sant Bartomeu de Covildases:42.123639,2.360917
+Ermita de Sant Bartomeu de Matamala:42.1207,2.71622
+Ermita de Sant Bartomeu:41.116444,0.537064
+Ermita de Sant Bartomeu:41.1595,0.983417
+Ermita de Sant Bernabé dels Molins:40.82881,0.489844
+Ermita de Sant Corneli:42.015139,2.423028
+Ermita de Sant Cristòfol de Ca n’Anglada:41.56122,2.029877
+Ermita de Sant Cristòfol del Bosc:41.913517,2.880674
+Ermita de Sant Domènec:41.477554,2.071983
+Ermita de Sant Eloi:41.650895,1.136103
+Ermita de Sant Ermengol:41.694275,1.513802
+Ermita de Sant Esteve de Ferriols:41.528917,1.404182
+Ermita de Sant Feliuet de Vilamilans:41.510708,2.04622
+Ermita de Sant Francesc:41.67805,2.80606
+Ermita de Sant Grau del Puig:42.341722,1.841556
+Ermita de Sant Guillem de la Prada:42.45925,1.980583
+Ermita de Sant Guillem:41.71975,2.468861
+Ermita de Sant Iscle i Santa Victòria de les Feixes:41.467418,2.151181
+Ermita de Sant Jaume de la Coma:41.785717,2.105542
+Ermita de Sant Jaume de les Torres de Cas:41.969889,0.793917
+Ermita de Sant Jaume de Salem:41.77578,1.594099
+Ermita de Sant Joan:41.368333,0.770833
+Ermita de Sant Joan Baptista:41.678831,2.798
+Ermita de Sant Joan de Carratalà:41.485673,0.447108
+Ermita de Sant Joan de la Muntanya:41.373399,1.129075
+Ermita de Sant Joan de Maldanell:41.542443,1.047095
+Ermita de Sant Joan de Mataplana:42.262112,2.061363
+Ermita de Sant Joan del Lledó:41.380912,1.596013
+Ermita de Sant Joan dels Balbs:42.172096,2.426061
+Ermita de Sant Joan d’Algars:41.092876,0.227545
+Ermita de Sant Joan:41.470556,2.001833
+Ermita de Sant Joan:42.171207,2.394864
+Ermita de Sant Jordi:41.887212,0.897843
+Ermita de Sant Julià:41.969186,2.647638
+Ermita de Sant Just i Sant Pastor:41.983139,2.6208
+Ermita de Sant Llop:41.746861,2.540361
+Ermita de Sant Llop:41.919759,2.734376
+Ermita de Sant Macari:41.78812,1.281039
+Ermita de Sant Mamés:42.484177,0.717893
+Ermita de Sant Marc:41.3465,1.466222
+Ermita de Sant Marçal:41.695044,1.168364
+Ermita de Sant Martí de Guixers:42.135857,1.644192
+Ermita de Sant Martí de Mata:41.572917,2.458944
+Ermita de Sant Martí:41.777944,2.379889
+Ermita de Sant Martí:41.861948,1.663601
+Ermita de Sant Mateu:41.516904,2.328822
+Ermita de Sant Maurici de Calç:42.099917,2.7275
+Ermita de Sant Medir:41.443653,2.121346
+Ermita de Sant Mer:42.091804,2.8555
+Ermita de Sant Miquel de la Roca:42.184444,2.781944
+Ermita de Sant Miquel de la Tosca:41.36146,0.94953
+Ermita de Sant Miquel de les Planes:41.801224,1.744415
+Ermita de Sant Miquel de l’Arn:41.630928,2.148031
+Ermita de Sant Miquel de Mata:41.569108,2.464026
+Ermita de Sant Miquel de Montclar:41.467774,1.346723
+Ermita de Sant Miquel de Segur:41.195111,1.609139
+Ermita de Sant Miquel de Vilageriu:41.839171,2.209556
+Ermita de Sant Miquel del Mas d’en Forn:41.920639,1.365806
+Ermita de Sant Miquel Sesvinyes:42.16026,2.73304
+Ermita de Sant Miquel:41.364444,1.494194
+Ermita de Sant Miquel:41.810486,1.274269
+Ermita de Sant Miquel:41.777636,1.123379
+Ermita de Sant Miquel:41.613198,1.137243
+Ermita de Sant Nicolau :41.677667,2.260467
+Ermita de Sant Nicolau del Tretzè:41.480367,1.741019
+Ermita de Sant Nicolau:42.086879,2.68374
+Ermita de Sant Patllari:42.112083,2.711639
+Ermita de Sant Pau de Riu-sec:41.514036,2.103469
+Ermita de Sant Pau:41.243954,0.946069
+Ermita de Sant Pere :42.01014,1.583182
+Ermita de Sant Pere dels Pastors:41.780907,1.304551
+Ermita de Sant Pere d’Ullastre:41.600611,2.099889
+Ermita de Sant Pere Sestronques:41.939867,2.661969
+Ermita de Sant Ponç:41.6926,2.49745
+Ermita de Sant Quintí:41.445385,1.993054
+Ermita de Sant Quintí:42.134996,1.406091
+Ermita de Sant Quirc de Durro:42.495098,0.811626
+Ermita de Sant Quirc de Taüll:42.513592,0.85276
+Ermita de Sant Quirze de Subiradells:41.877453,2.302039
+Ermita de Sant Quirze i Santa Julita de Merlant:42.148611,2.709472
+Ermita de Sant Quirze:41.70286,2.83325
+Ermita de Sant Roc:41.751163,1.192237
+Ermita de Sant Roc:41.763988,2.656274
+Ermita de Sant Romà:41.92799,2.698
+Ermita de Sant Romà:41.795738,1.289949
+Ermita de Sant Salvador :41.49148,0.87408
+Ermita de Sant Salvador de Predanies:42.363182,1.831758
+Ermita de Sant Salvador del Coll de l’Aguda:41.817993,1.405494
+Ermita de Sant Salvador dels Arenys:41.271005,1.955256
+Ermita de Sant Salvador d’Irgo:42.437595,0.769086
+Ermita de Sant Salvador Vell del Quer:41.84729,1.762356
+Ermita de Sant Salvador:41.909445,0.645833
+Ermita de Sant Sebastià de les Brucardes:41.738896,1.883767
+Ermita de Sant Sebastià:41.934019,2.062746
+Ermita de Sant Sebastià:42.008932,2.01801
+Ermita de Sant Sebastià:42.153369,2.83105
+Ermita de Sant Segimon del Bosc:41.811806,2.561583
+Ermita de Sant Silvestre:41.369988,1.931829
+Ermita de Sant Simeó estilita:41.640586,1.733542
+Ermita de Sant Simeó:41.797096,1.311533
+Ermita de Sant Valentí de les Brucardes:41.746859,1.88402
+Ermita de Sant Valerià de Robers:41.60429,2.21257
+Ermita de Sant Vicenç de Sarriera:41.579389,2.083194
+Ermita de Sant Vicenç del Castell:41.473972,1.97375
+Ermita de Santa Agnès:41.372053,1.432623
+Ermita de Santa Anastàsia:41.770611,2.390528
+Ermita de Santa Anna de Barberà:41.384166,1.213822
+Ermita de Santa Anna de Pedrafita:41.672833,1.584722
+Ermita de Santa Anna del Grau:42.026711,2.533471
+Ermita de Santa Bàrbara del Racó:42.135666,1.400244
+Ermita de Santa Bàrbara:41.926292,2.618092
+Ermita de Santa Bàrbara:42.359194,1.867972
+Ermita de Santa Bàrbara:41.797996,2.578618
+Ermita de Santa Brígida:42.020673,2.610503
+Ermita de Santa Caterina:42.058114,3.134449
+Ermita de Santa Cecília de Ragord:42.196567,2.29224
+Ermita de Santa Cristina:41.271806,1.440417
+Ermita de Santa Eugènia:42.239972,2.917222
+Ermita de Santa Eugènia:41.68964,2.32119
+Ermita de Santa Llúcia:42.030861,2.187
+Ermita de Santa Madrona:40.910561,0.252125
+Ermita de Santa Magdalena de Noves:42.098242,2.760005
+Ermita de Santa Magdalena de Puigbarral:41.589223,2.027763
+Ermita de Santa Magdalena del Sàlzer:42.111043,1.37238
+Ermita de Santa Margarida de Peranera:42.442665,0.823441
+Ermita de Santa Margarida de Vallors:41.883639,2.549778
+Ermita de Santa Margarida del Mujal:41.544639,2.036
+Ermita de Santa Margarida:41.874012,2.750396
+Ermita de Santa Maria de Campanyà:41.481535,2.058001
+Ermita de Santa Maria de les Feixes:41.479475,2.144531
+Ermita de Santa Maria:41.842724,1.359797
+Ermita de Santa Perpètua:41.997889,2.195833
+Ermita de Santa Susanna:41.879085,1.338319
+Ermita de Togores:41.576619,2.110014
+Ermita de Vallespinosa:41.444677,1.348707
+Ermita del Coll de l’Alba:40.816194,0.571056
+Ermita del Mas d’en Bosch :41.085893,1.09875
+Ermita del Pedregal:41.648124,1.158281
+Ermita del Remei:41.269594,1.142068
+Ermita del Roser:41.217482,1.210156
+Ermita dels Apòstols:42.255306,2.798222
+Ermita dels Sants Metges:41.42174,0.9344
+Sant Miquel del castell de Queralt:41.513623,1.458003
+Santa Maria de Tauladells:41.763608,1.237348
+Santuari de Gràcia:41.231043,1.772449
+Antic Convent i Santuari de Santa Maria dels Prats:41.40754,1.172277
+Antiga Abadia del Codony:41.175304,1.236005
+Antiga capella de Sant Ermengol:41.94827,1.40987
+Antiga església de Santa Maria de Maials:41.427639,0.594583
+Antiga església de Santa Maria:42.432574,1.926269
+Antiga església de Santa Pere:41.246729,1.329795
+Antiga església dels Dolors :40.813132,0.523582
+Antiga església parroquial de Sant Esteve de Castellar Vell:41.602417,2.072611
+Antiga església parroquial de Santa Maria:41.74863,2.55757
+Antiga església parroquial:41.689248,0.726421
+Antiga església-hospital de Sant Antoni:41.519285,1.292151
+Campanar de l’església parroquial de Sant Menna:41.605845,2.136436
+Campanar de Sant Martí de Bescaran:42.400386,1.544654
+Canònica de Sant Vicenç de Cardona:41.914356,1.686288
+Canònica de Santa Maria de Vilabertran :42.28204,2.97917
+Capella de Can Món:42.009598,2.601977
+Capella de la Verge:41.871651,0.719205
+Capella de Nostra Senyora de Gràcia:42.431639,1.929056
+Capella de Sant Antoni:42.041017,3.126353
+Capella de Sant Feliu de Diana:42.085188,2.953567
+Capella de Sant Iscle:41.966559,1.43871
+Capella de Sant Jaume:41.613431,0.624674
+Capella de Sant Joan del Prat:41.868444,2.247722
+Capella de Sant Joan:41.346302,1.698577
+Capella de Sant Nazari de les Olives:42.322194,2.995417
+Capella de Sant Pelegrí:41.346848,1.696556
+Capella de Sant Roc:42.144335,2.568795
+Capella de Sant Romà:42.121639,2.420028
+Capella de Santa Anna:42.214077,2.642558
+Capella de Santa Justa i Santa Rufina:41.62551,2.248336
+Capella de Santa Magdalena de les Planes:42.010133,1.600505
+Capella de Santa Magdalena de Montpalau:42.206111,2.608861
+Capella de Santa Magdalena de Vilaprinyó:42.037265,1.390205
+Capella de Santa Magdalena:42.022417,2.466278
+Capella de Santa Maria del Castell de Bellcaire:42.081128,3.094603
+Capella de Santa Maria d’Ovella:42.349861,1.952444
+Capella del Castell de Muntanyola:41.878722,2.169056
+Capella del Remei:42.13229,1.388034
+Capella NOVA de Sant Ermengol:41.948556,1.409833
+Capelleta de Santa Llúcia:41.57246,0.877468
+Casa de Santa Llúcia:42.226583,2.749861
+Col·legiata de Santa Maria de Mur:42.104167,0.858333
+Col•legiata de Santa Maria de Castellbò:42.375216,1.355837
+Convent de la Mercè:41.382213,1.162416
+Convent de Sant Salvador:40.9568,0.331374
+Convent dels agustins del Pla:41.870433,1.306275
+Cripta de la Colònia Güell :41.363828,2.027819
+Ermita de Puig-l’Agulla:41.885059,2.326897
+Ermita de Sant Antoni:42.31725,2.781472
+Ermita de Sant Llorenç Dosmunts :42.2035417,2.434778
+Església antiga de Bellpuig:42.241667,2.617583
+Església de  Sant Genís Sadevesa:41.977444,2.136583
+Església de  Sant Mamet:42.38925,1.757582
+Església de  Santa Cecília de Beders:42.35303,1.805158
+Església de  Santa Maria de Vilalleons:41.891111,2.318015
+Església de  Santa Maria d’Ordèn:42.401175,1.773548
+Església de l&#8217;Assumpció de Bossòst:42.785821,0.692227
+Església de l&#8217;Assumpció de Cóll:42.472095,0.772608
+Església de la Mare de Déu de Gràcia:41.121317,0.410045
+Església de la Mare de Déu de l&#8217;Assumpció:41.052429,0.437648
+Església de la Mare de Déu de la Fullola:40.863889,0.646111
+Església de la Mare de Déu de la Mercè:41.24815,0.81078
+Església de la Mare de Déu de la Salut de Montanissell:42.194722,1.256111
+Església de la Mare de Déu de la Torreta:41.99783,1.694111
+Església de la Mare de Déu de Les Coromines:41.71912,1.578378
+Església de la Mare de Déu del Castell de Llorenç:41.870943,0.830841
+Església de la Mare de Déu del Merli:41.738694,0.581111
+Església de la Mare de Déu del Pòpulo:42.195817,2.303239
+Església de la Mare de Déu del Remei:41.754544,1.159244
+Església de la Mare de Déu del Remei:41.253611,1.549472
+Església de la Mare de Déu del Roser:41.834881,1.751836
+Església de la Mare de Déu del Roser:42.730845,0.77779
+Església de la Mare de Déu del Tura:42.182333,2.491583
+Església de la Masia Castellana:41.940994,1.347479
+Església de la Nativitat de Durro:42.49815,0.820681
+Església de la Nativitat de la Mare de Déu:41.522978,0.592664
+Església de La Sala:41.818132,1.729378
+Església de la Santa Creu de Calafell:41.201757,1.568481
+Església de la Santa Creu:42.028611,1.744139
+Església de la Santa Creu:41.59857,1.347228
+Església de la Santa Fe de Calonge:41.764108,1.482001
+Església de la Transfiguració del Senyor:41.12565,0.20966
+Església de la Trinitat de Batet:42.173756,2.528518
+Església de la Trinitat de la Tor:41.999194,1.942167
+Església de la Trinitat:41.348087,1.700104
+Església de l’Assumpció de Baldomar:41.919233,1.014946
+Església de l’Assumpció de Boldú :41.719117,1.005704
+Església de l’Hospital de Santa Magdalena:41.379517,1.161667
+Església de Nazareth:41.116723,1.257896
+Església de Nostra Senyora de les Neus :40.812483,0.524627
+Església de San Esteve de Múnter:41.878528,2.213222
+Església de Sant Abdó i Sant Senén:41.534481,1.067325
+Església de Sant Agustí:41.668539,1.271801
+Església de Sant Amanç de Pedrós:41.955747,1.968968
+Església de Sant Amanç:41.73422,1.677791
+Església de Sant Ampèlit de Penedes:41.839482,2.952711
+Església de Sant Andreu de Baltarga:42.363548,1.80923
+Església de Sant Andreu de Bellveí:41.768852,1.990017
+Església de Sant Andreu de Bestracà:42.290727,2.516588
+Església de Sant Andreu de Cal Pallot:41.972271,1.910143
+Església de Sant Andreu de Castanyet:41.88855,2.62385
+Església de Sant Andreu de Castellnou:41.83416,1.837345
+Església de Sant Andreu de Gargallà:41.970605,1.699432
+Església de Sant Andreu de Genescà:41.913652,1.911604
+Església de Sant Andreu de Gitarriu:42.287083,2.621008
+Església de Sant Andreu de Grèixer:42.284599,1.849085
+Església de Sant Andreu de Gurb:41.955389,2.221944
+Església de Sant Andreu de la Serreta:42.087284,1.781595
+Església de Sant Andreu de l’Espà:42.217579,1.693289
+Església de Sant Andreu de l’Estanyol:41.941499,2.74086
+Església de Sant Andreu de Montblanquet:41.493858,1.113876
+Església de Sant Andreu de Pedrinyà:42.009492,2.964834
+Església de Sant Andreu de Porreres:42.273308,2.434387
+Església de Sant Andreu de Pruit:42.042389,2.4555
+Església de Sant Andreu de Pujol Melós:42.018624,1.636813
+Església de Sant Andreu de Ramió:41.712236,2.609791
+Església de Sant Andreu de Rüitlles:42.107742,2.639327
+Església de Sant Andreu de Sagàs:42.052081,1.963045
+Església de Sant Andreu de Socarrats:42.207859,2.474754
+Església de Sant Andreu de Vilallobent:42.408333,1.952694
+Església de Sant Andreu del castell d’Oliana:42.085739,1.299415
+Església de Sant Andreu del Coll:42.196777,2.458762
+Església de Sant Andreu del Pujol del Racó:42.178056,1.600833
+Església de Sant Andreu del Terri:42.064696,2.845795
+Església de Sant Andreu del Torn:42.160444,2.645694
+Església de Sant Andreu d’Aristot:42.378839,1.623949
+Església de Sant Andreu i Santa Marina:41.29443,1.579348
+Església de Sant Andrèu:42.707542,0.901908
+Església de Sant Andreu:41.446822,1.975217
+Església de Sant Andreu:41.853989,2.224463
+Església de Sant Andreu:42.051828,3.108601
+Església de Sant Aniol de Finestres :42.090359,2.586897
+Església de Sant Antolí:41.625139,1.341619
+Església de Sant Antoni:41.671345,1.274217
+Església de Sant Antoni:41.645374,1.138459
+Església de Sant Baldiri de Taballera:42.325639,3.23
+Església de Sant Bartomeu de Cabanyes:41.562394,2.343306
+Església de Sant Bartomeu de la Vall d’Ariet:41.954311,1.000689
+Església de Sant Bartomeu de la Valldan:42.090229,1.831402
+Església de Sant Bartomeu de Mont-ras:41.695306,2.234917
+Església de Sant Bartomeu de Pincaró:42.33475,2.676417
+Església de Sant Bartomeu de Torres:42.122085,2.817692
+Església de Sant Bartomeu:41.997778,0.844722
+Església de Sant Bartomeu:41.754841,1.905907
+Església de Sant Bartomeu:41.918476,1.146731
+Església de Sant Bartomeu:41.977927,2.748113
+Església de Sant Benet de Casamitjana:42.110583,1.996833
+Església de Sant Bertomeu d’Erta:42.425919,0.843675
+Església de Sant Blai del Fonoll:41.528305,1.230654
+Església de Sant Boi de Lluçanès:42.05773,2.151712
+Església de Sant Cebrià de Lledó:41.912464,2.966895
+Església de Sant Cebrià de Pujarnol:42.101996,2.708212
+Església de Sant Cebrià dels Alls:41.887373,3.014709
+Església de Sant Cebrià:41.739164,2.680101
+Església de Sant Climent de Coll de Nargó :42.171604,1.313116
+Església de Sant Climent de la Torre de Foix:42.209029,1.857982
+Església de Sant Climent de Peralta:41.949734,3.095297
+Església de Sant Climent de Taüll:42.517509,0.848603
+Església de Sant Climent del Castell:42.046875,1.783049
+Església de Sant Climent d’Iran:42.459221,0.780123
+Església de Sant Climent d’Urús:42.349917,1.854306
+Església de Sant Climent:42.412778,1.824444
+Església de Sant Climent:42.053917,1.783694
+Església de Sant Climent:41.950331,1.418882
+Església de Sant Cosme i Sant Damià de Queixans:42.3985,1.921639
+Església de Sant Cristòfol:42.102569,1.646807
+Església de Sant Cristòfol:41.197667,1.634222
+Església de Sant Cristòfol de Beget:42.321102,2.480282
+Església de Sant Cristòfol de Borrassers:42.086801,2.080039
+Església de Sant Cristòfol de Castellbell:41.638695,1.818556
+Església de Sant Cristòfol de Cerdans:41.842736,2.430894
+Església de Sant Cristòfol de Fogars:41.735083,2.453833
+Església de Sant Cristòfol de la Rabassa:41.647861,1.383028
+Església de Sant Cristòfol de les Planes:42.0554,2.536832
+Església de Sant Cristòfol de Pasqüets :42.158935,1.591355
+Església de Sant Cristòfol de Selma:41.366667,1.463444
+Església de Sant Cristòfol de Toses:42.323189,2.01873
+Església de Sant Cristòfol de Ventolà:42.317631,2.137396
+Església de Sant Cristòfol:41.593024,2.231135
+Església de Sant Cristòfol:42.14867,2.75717
+Església de Sant Cristòfol:41.995444,2.4195
+Església de Sant Cugat del Racó:41.897621,1.812991
+Església de Sant Cugat d’Albons:42.104341,3.08553
+Església de Sant Dalmai:41.91476,2.73583
+Església de Sant Domènec:41.665103,1.269416
+Església de Sant Domènec:42.43252,1.928637
+Església de Sant Esteve:42.448028,1.878139
+Església de Sant Esteve d&#8217;Olzinelles :41.665611,2.512861
+Església de Sant Esteve de Bar:42.358521,1.638979
+Església de Sant Esteve de Briolf:42.169,2.689028
+Església de Sant Esteve de Canapost:41.975353,3.072271
+Església de Sant Esteve de Castellet:41.288211,1.64
+Església de Sant Esteve de Comià:42.130833,2.048778
+Església de Sant Esteve de Granollers de la Plana:41.976522,2.274842
+Església de Sant Esteve de la Colònia Soldevila:41.883481,1.886153
+Església de Sant Esteve de la Costa:41.745889,2.418222
+Església de Sant Esteve de la Morana:41.782329,1.263253
+Església de Sant Esteve de La Vall de Vilaramó:41.948022,1.930676
+Església de Sant Esteve de les Pereres:42.403056,1.9325
+Església de Sant Esteve de Llanars :42.320381,2.344259
+Església de Sant Esteve de Marganell:41.640111,1.803453
+Església de Sant Esteve de Peratallada:41.979642,3.090486
+Església de Sant Esteve de Prullans:42.379112,1.736395
+Església de Sant Esteve de Riudellots:41.892724,2.803801
+Església de Sant Esteve de Sisquer:42.134283,1.691223
+Església de Sant Esteve de Tavèrnoles:41.952059,2.326707
+Església de Sant Esteve de Tubau:42.203828,2.013672
+Església de Sant Esteve de Valldoriola:41.993417,1.908222
+Església de Sant Esteve de Ventolà:42.401474,0.753057
+Església de Sant Esteve de Vilarasa:41.731965,1.907643
+Església de Sant Esteve de Vinyoles d’Orís:42.042204,2.230417
+Església de Sant Esteve del Coll:41.617356,2.375614
+Església de Sant Esteve del Pujol de Planès:41.966357,1.748296
+Església de Sant Esteve d’Alinyà :42.180292,1.422967
+Església de Sant Esteve d’Esclanyà:41.929363,3.176473
+Església de Sant Esteve:41.836556,2.808778
+Església de Sant Esteve:42.182333,2.488694
+Església de Sant Esteve:41.751915,1.203247
+Església de Sant Eudald de Jou:42.245975,2.570234
+Església de Sant Feliu de Barruera :42.504051,0.802436
+Església de Sant Feliu de Beuda :42.237095,2.709696
+Església de Sant Feliu de Buixalleu:41.791167,2.586333
+Església de Sant Feliu de la Vall d’Aguilera:41.606743,1.683496
+Església de Sant Feliu de Lluelles:42.007781,1.675604
+Església de Sant Feliu de Savassona:41.959417,2.340556
+Església de Sant Feliu de Terrassola:41.894539,2.102199
+Església de Sant Feliu de Vallcarca:41.702147,2.059225
+Església de Sant Feliu:41.493646,2.294348
+Església de Sant Feliu:41.88339,1.030389
+Església de Sant Feliu:42.249278,2.81375
+Església de Sant Feliu:41.943963,2.023155
+Església de Sant Fèlix:42.721941,0.797812
+Església de Sant Francesc:41.374222,1.16262
+Església de Sant Francesc:41.777101,1.832069
+Església de Sant Fructuós de Músser:42.381209,1.665884
+Església de Sant Fruitós d’Ossinyà:42.181674,2.688722
+Església de Sant Fruitós:41.904545,2.684687
+Església de Sant Gabriel de Grions:41.761074,2.608545
+Església de Sant Gallard:41.512999,1.391586
+Església de Sant Genís de Casavells:41.999714,3.033141
+Església de Sant Genís de Gavarrós:42.281111,1.915361
+Església de Sant Genís de la Vall dels horts:41.762154,1.886178
+Església de Sant Genís de Massadella:41.909778,1.854861
+Església de Sant Genís:42.124417,2.906917
+Església de Sant Genís:41.975332,2.99648
+Església de Sant Genís:41.875833,2.285639
+Església de Sant Gil d’Albió:41.565778,1.272889
+Església de Sant Gil:41.714456,1.195494
+Església de Sant Girvés de la Torre de Rialb:41.981875,1.201425
+Església de Sant Grau d’Anglerill:41.956611,1.640778
+Església de Sant Grau d’Entreperes:42.27474,2.62547
+Església de Sant Grau:41.838615,2.808025
+Església de Sant Hilari:42.122472,2.309417
+Església de Sant Honorat:42.001756,1.527854
+Església de Sant Iscle de Colltort:42.119404,2.528516
+Església de Sant Iscle i Santa Victòria :41.728927,1.706373
+Església de Sant Iscle i Santa Victòria de Sanavastre:42.385167,1.849667
+Església de Sant Iscle i Santa Victòria de Sauleda:41.851586,2.600968
+Església de Sant Iscle i Santa Victòria de Talltendre:42.403777,1.766348
+Església de Sant Iscle i Santa Victòria:42.160611,2.910111
+Església de Sant Iscle i Santa Victòria:41.758635,1.844077
+Església de Sant Jaume de Canadal:42.41058,2.883029
+Església de Sant Jaume de Codonyet:41.97793,1.652483
+Església de Sant Jaume de Fenollet:41.990083,2.146444
+Església de Sant Jaume de Frontanyà :42.187252,2.024094
+Església de Sant Jaume de la Boixadera dels Bancs:42.063207,1.687556
+Església de Sant Jaume de la Móra:41.650852,1.193127
+Església de Sant Jaume de Marganell:41.648269,1.80645
+Església de Sant Jaume de Montagut:41.409851,1.425058
+Església de Sant Jaume de Montargull:41.554861,1.377
+Església de Sant Jaume de Palouet:41.796692,1.356932
+Església de Sant Jaume de Peà:42.066973,1.581847
+Església de Sant Jaume de Puigdemàger:41.727892,1.550322
+Església de Sant Jaume de Puigpalter:42.121148,2.796058
+Església de Sant Jaume de Queralbs :42.348461,2.161222
+Església de Sant Jaume de Queralt:41.5125,1.458526
+Església de Sant Jaume de Rocamora:41.478389,1.449024
+Església de Sant Jaume de Timor:41.642774,1.330633
+Església de Sant Jaume de Valldecerves :41.466603,1.485383
+Església de Sant Jaume de Vallhonesta:41.677609,1.902538
+Església de Sant Jaume de Viladrover:41.827417,2.252833
+Església de Sant Jaume de Vilanova:41.891378,2.082059
+Església de Sant Jaume dels Tracs:41.929052,1.510597
+Església de Sant Jaume d’Almenara:41.546639,1.44775
+Església de Sant Jaume d’Esblada:41.444649,1.440377
+Església de Sant Jaume d’Olzinelles:41.753417,1.892379
+Església de Sant Jaume i Sant Genís d’Alboquers:41.933333,2.1425
+Església de Sant Jaume Sesoliveres:41.58688,1.586344
+Església de Sant Jaume:41.561416,1.017565
+Església de Sant Jaume:41.372017,1.265086
+Església de Sant Jaume:41.397278,1.171056
+Església de Sant Jaume:41.444801,1.349583
+Església de Sant Jaume:41.139104,1.051104
+Església de Sant Joan Baptista :41.42844,0.97542
+Església de Sant Joan Baptista:42.345316,1.826064
+Església de Sant Joan Baptista:40.953956,0.316929
+Església de Sant Joan Baptista:41.609238,2.005574
+Església de Sant Joan Baptista:41.570075,1.440139
+Església de Sant Joan Baptista:40.605674,0.393165
+Església de Sant Joan de Bellcaire:42.081611,3.095694
+Església de Sant Joan de Bergús:41.892634,1.611317
+Església de Sant Joan de Boí:42.522408,0.83355
+Església de Sant Joan de Cabestany:41.579972,1.278778
+Església de Sant Joan de Cornudell:42.281048,2.038009
+Església de Sant Joan de Fàbregues :42.010278,2.467778
+Església de Sant Joan de Jerusalem:41.666378,1.271078
+Església de Sant Joan de la Fortesa:41.74674,1.537954
+Església de Sant Joan de Matajudaica:42.005747,3.043964
+Església de Sant Joan de Montbó:42.04887,2.76531
+Església de Sant Joan de Montdarn:41.979583,1.781333
+Església de Sant Joan de Salelles:41.94822,2.999441
+Església de Sant Joan de Vilamajor:41.677175,1.427927
+Església de Sant Joan Degollat:41.996139,1.875411
+Església de Sant Joan del Galí:41.931036,2.208409
+Església de Sant Joan dels Caus:41.847976,1.629687
+Església de Sant Joan d’Aiguaviva:41.938476,2.76166
+Església de Sant Joan d’Avellanet:42.260722,1.833765
+Església de Sant Joan i Sant Marc de Batlliu:41.955637,1.132141
+Església de Sant Joan Salerm:41.403703,0.752317
+Església de Sant Joan Sescloses:42.278306,3.072139
+Església de Sant Joan Sesrovires:41.420197,1.819986
+Església de Sant Joan:42.701474,0.872619
+Església de Sant Joan:41.616574,0.627686
+Església de Sant Joan:41.556617,1.307158
+Església de Sant Joan:41.348558,1.21237
+Església de Sant Joan:42.137278,1.928639
+Església de Sant Jordi de Lloberes:41.940806,1.963472
+Església de Sant Jordi:42.152556,1.851889
+Església de Sant Jordi:41.711823,1.366062
+Església de Sant Josep de la Figuera:41.84211,0.664736
+Església de Sant Julià de Boada:41.985401,3.121976
+Església de Sant Julià de Canalda:42.123007,1.519245
+Església de Sant Julià de Ceuró:42.019556,1.373806
+Església de Sant Julià de Coaner:41.832253,1.713344
+Església de Sant Julià de Corçà:41.989486,3.017349
+Església de Sant Julià de Fréixens:42.222778,1.825389
+Església de Sant Julià de la Clua:41.947055,1.016605
+Església de Sant Julià de Pedra:42.345018,1.810742
+Església de Sant Julià de Tartera:42.358889,1.853333
+Església de Sant Julià de Vallfogona:42.197447,2.306745
+Església de Sant Julià de Viladebages:41.965621,1.532592
+Església de Sant Julià del Montseny :41.759516,2.394828
+Església de Sant Julià dels Montgons:41.134169,1.225554
+Església de Sant Julià Sassorba:41.951094,2.183583
+Església de Sant Julià:41.691898,1.378653
+Església de Sant Julià:41.61091,2.23813
+Església de Sant Julià:42.700524,0.843474
+Església de Sant Julià:41.746674,1.309824
+Església de Sant Just d’Odèn:42.086833,1.346965
+Església de Sant Just i Sant Pastor de la Valldan:42.094102,1.34956
+Església de Sant Lleïr de Casavella:42.14425,1.609083
+Església de Sant Lleïr de la Vall d&#8217;Ora-Navès:42.08575,1.675833
+Església de Sant Llop d’Hortsavinyà:41.667806,2.628722
+Església de Sant Llorenç de Gaserans:41.749378,2.590492
+Església de Sant Llorenç de les Arenes:42.061113,2.977884
+Església de Sant Llorenç de Morunys:42.137514,1.591093
+Església de Sant Llorenç de Rocallaura:41.50704,1.1485
+Església de Sant Llorenç de Selmella :41.421139,1.338333
+Església de Sant Llorenç de Vilardell:41.694361,2.5205
+Església de Sant Llorenç dels Porxos:42.125528,1.762222
+Església de Sant Llorenç d’Adri:42.052181,2.740933
+Església de Sant Llorenç d’Oix:42.271441,2.528977
+Església de Sant Llorenç:41.61445,0.621638
+Església de Sant Llorenç:41.607296,1.038339
+Església de Sant Llorenç:42.320139,2.790167
+Església de Sant Llorenç:41.119148,1.259628
+Església de Sant Magí:41.666627,1.269549
+Església de Sant Mamet:41.67053,2.32931
+Església de Sant Marc de Pallerols de Rialb:42.036845,1.229223
+Església de Sant Marçal de Quarantella:42.125278,2.868056
+Església de Sant Marçal de Terrassola:41.447694,1.726753
+Església de Sant Marçal del Colomer:42.025539,2.579203
+Església de Sant Marçal:41.37737,1.158944
+Església de Sant Marçal:41.994291,1.85951
+Església de Sant Marcel de Bor:42.345439,1.802011
+Església de Sant Martí:41.847556,2.389278
+Església de Sant Martí d&#8217;Aiguafreda de Dalt:41.788583,2.257528
+Església de Sant Martí d&#8217;Aubèrt:42.732834,0.77632
+Església de Sant Martí de Balaguer:41.97308,1.767895
+Església de Sant Martí de Bertrans:41.807132,1.603073
+Església de Sant Martí de Biure:42.023666,1.929455
+Església de Sant Martí de Boatella:42.115433,2.034334
+Església de Sant Martí de Brocà:42.252278,1.891417
+Església de Sant Martí de Cambrils:42.133046,1.387386
+Església de Sant Martí de Capellada:42.200858,2.701831
+Església de Sant Martí de Capsec:42.233105,2.471908
+Església de Sant Martí de Casarilh:42.699593,0.830476
+Església de Sant Martí de Cassà de Pelràs:42.007984,2.994682
+Església de Sant Martí de Cellers:41.812141,1.476623
+Església de Sant Martí de Collfred:41.916167,1.114858
+Església de Sant Martí de Correà:42.033636,1.718191
+Església de Sant Martí de Corsavell:42.312767,2.664708
+Església de Sant Martí de Fellines:42.09477,2.90387
+Església de Sant Martí de La Corriu:42.151722,1.653722
+Església de Sant Martí de la Mota:42.051786,2.789542
+Església de Sant Martí de la Roca:41.774258,2.176908
+Església de Sant Martí de les Serres:42.0773,1.63415
+Església de Sant Martí de Llanera:41.867886,1.481263
+Església de Sant Martí de Llaneres:41.980809,3.052069
+Església de Sant Martí de l’Esparra:41.826325,2.657592
+Església de Sant Martí de Maçana:41.687,1.6035
+Església de Sant Martí de Montclar:42.0185,1.765361
+Església de Sant Martí de Mosqueroles:41.7281,2.44327
+Església de Sant Martí de Pegueroles:41.990309,1.704908
+Església de Sant Martí de Pertegàs:41.693472,2.489639
+Església de Sant Martí de Queixàs:42.21325,2.798222
+Església de Sant Martí de Riudeperes:41.927518,2.307386
+Església de Sant Martí de Romanyà:41.853709,2.984365
+Església de Sant Martí de Sentfores:41.908157,2.204341
+Església de Sant Martí de Solamal:42.220694,2.426056
+Església de Sant Martí de Tentellatge:42.033797,1.679333
+Església de Sant Martí de Toralles:42.259941,2.493308
+Església de Sant Martí de Torroella:41.772466,1.790152
+Església de Sant Martí de Tost:42.272865,1.384835
+Església de Sant Martí de Tous:41.560039,1.524489
+Església de Sant Martí de Vilapedrers:41.966361,1.617167
+Església de Sant Martí del Brull :41.816715,2.305321
+Església de Sant Martí del Clot:42.239943,2.434582
+Església de Sant Martí del Corb:42.139722,2.490833
+Església de Sant Martí del Puig de la Baga:42.266363,1.81007
+Església de Sant Martí d’Albars:42.027959,2.074171
+Església de Sant Martí d’Ars:42.444647,1.394449
+Església de Sant Martí d’Ogassa:42.272285,2.233615
+Església de Sant Martí d’Urtx:42.38675,1.910167
+Església de Sant Martí Sacalm:42.01455,2.54455
+Església de Sant Martí Sacosta:41.985081,2.826686
+Església de Sant Martí Sapresa:41.925957,2.650741
+Església de Sant Martí Sescorts:42.012778,2.325611
+Església de Sant Martí Sesserres:42.259861,2.774694
+Església de Sant Martí Vell:42.154512,2.578998
+Església de Sant Martí Xic:42.010761,2.206154
+Església de Sant Martí:41.862361,3.073361
+Església de Sant Martí:42.166139,1.885222
+Església de Sant Martí:41.61773,0.62206
+Església de Sant Martí:41.698931,1.97585
+Església de Sant Martí:41.970882,1.881617
+Església de Sant Martí:41.638111,2.190056
+Església de Sant Martí:42.00119,1.983046
+Església de Sant Mateu de Franciac:41.873876,2.785667
+Església de Sant Mateu de Fumanya:42.177111,1.803861
+Església de Sant Mateu de Montnegre:41.94607,2.903235
+Església de Sant Mateu de Vilademires:42.229056,2.794194
+Església de Sant Mateu:41.844034,2.527515
+Església de Sant Mateu:41.351938,1.230086
+Església de Sant Mateu:42.121875,3.00188
+Església de Sant Maure:41.581433,1.4338
+Església de Sant Miquel d&#8217;Olèrdola:41.3025,1.709444
+Església de Sant Miquel de Cardona:41.913742,1.681257
+Església de Sant Miquel de Castelladral:41.899056,1.780333
+Església de Sant Miquel de Castellar:41.72792,1.64914
+Església de Sant Miquel de Castelltallat:41.793678,1.633037
+Església de Sant Miquel de Castellvell:41.994487,1.50233
+Església de Sant Miquel de Cladells:41.857161,2.5638
+Església de Sant Miquel de Cruïlles:41.953974,3.00472
+Església de Sant Miquel de Fonogedell:41.989329,1.814797
+Església de Sant Miquel de Fontanet:41.82309,1.423611
+Església de Sant Miquel de Forès:41.49451,1.238496
+Església de Sant Miquel de Grevalosa:41.690416,1.660276
+Església de Sant Miquel de Grialó:41.900522,1.106075
+Església de Sant Miquel de la Cirera:42.288972,2.723417
+Església de Sant Miquel de la Cortada:41.94525,1.891
+Església de Sant Miquel de la Miana:42.179946,2.631504
+Església de Sant Miquel de la Portella:41.571177,1.4093
+Església de Sant Miquel de la Torre:42.26475,2.453556
+Església de Sant Miquel de les Borgetes:41.57587,0.91503
+Església de Sant Miquel de les Canals:42.110778,1.921056
+Església de Sant Miquel de Lillet:42.24173,1.992831
+Església de Sant Miquel de Maifré:41.984818,2.540043
+Església de Sant Miquel de Marsenyac:42.058659,1.618089
+Església de Sant Miquel de Monteia:42.266946,2.648174
+Església de Sant Miquel de Pera:42.283873,2.494809
+Església de Sant Miquel de Sansor:42.369222,1.822806
+Església de Sant Miquel de Serrasanç:41.845093,1.895219
+Església de Sant Miquel de Sorba:41.965611,1.664249
+Església de Sant Miquel de Sorerols:41.995697,2.376161
+Església de Sant Miquel de Soriguerola:42.397222,1.881389
+Església de Sant Miquel de Terradelles:41.927548,1.976064
+Església de Sant Miquel de Toudell:41.552746,1.970159
+Església de Sant Miquel de Trulls:41.930035,1.848911
+Església de Sant Miquel de Turbians :42.246497,1.804073
+Església de Sant Miquel de Valldàries:41.937089,1.269207
+Església de Sant Miquel de Vallmanya:41.830486,1.590831
+Església de Sant Miquel de Vallmanya:41.672917,2.6535
+Església de Sant Miquel de Vilandeny:41.976562,1.68493
+Església de Sant Miquel de Vilanova de Torrens:42.07967,1.52422
+Església de Sant Miquel del castell de Marmellar:41.358878,1.551039
+Església de Sant Miquel del Corb:42.143889,2.484972
+Església de Sant Miquel del Mont:42.197929,2.446614
+Església de Sant Miquel del Montmell :41.330178,1.456317
+Església de Sant Miquel del Pla:41.118731,1.256084
+Església de Sant Miquel del Soler de Dalt:42.119399,1.471627
+Església de Sant Miquel del Soler de Gramoleda:42.050648,1.641524
+Església de Sant Miquel d’Eramprunyà:41.313944,1.956889
+Església de Sant Miquel d’Òdena:41.604288,1.644285
+Església de Sant Miquel d’Orpí:41.519149,1.57535
+Església de Sant Miquel Sacot:42.139209,2.532153
+Església de Sant Miquel:41.264611,1.170778
+Església de Sant Miquel:41.67395,1.017216
+Església de Sant Miquel:41.875908,0.87881
+Església de Sant Miquel:41.820464,0.727637
+Església de Sant Miquel:41.432222,0.649167
+Església de Sant Miquel:41.376,1.162618
+Església de Sant Miquel:42.023889,2.465028
+Església de Sant Miquel:42.701317,0.795869
+Església de Sant Nicolau:41.625209,1.012146
+Església de Sant Nicolau:41.989019,2.826195
+Església de Sant Pau de Casserres:42.027806,1.843194
+Església de Sant Pau de Fontclara:41.993794,3.123013
+Església de Sant Pau de Narbona:41.658899,1.081888
+Església de Sant Pau de Narbona:41.626619,1.349292
+Església de Sant Pau de Pinós:41.970651,1.955942
+Església de Sant Pau del Colomer:42.106361,2.117972
+Església de Sant Pau d’Ordal:41.381434,1.795841
+Església de Sant Pau Vell:41.608011,1.773686
+Església de Sant Pau Vell:42.261751,2.372006
+Església de Sant Pau:41.217139,1.135083
+Església de Sant Pelegrí:41.831509,1.348829
+Església de Sant Pere  de Fornils:42.02021,2.5097
+Església de Sant Pere:42.413,1.835083
+Església de Sant Pere:41.916401,1.196566
+Església de Sant Pere Cercada:41.835292,2.608333
+Església de Sant Pere de Bancells:42.118528,1.701972
+Església de Sant Pere de Bellver de Sió:41.748306,1.173874
+Església de Sant Pere de Bigues:41.677694,2.221667
+Església de Sant Pere de Brunet:41.667083,1.788278
+Església de Sant Pere de Castellet:41.264898,1.636882
+Església de Sant Pere de Castellnou d’Ossó:41.767946,1.145616
+Església de Sant Pere de Clarà:41.558083,2.368444
+Església de Sant Pere de Claret de Cavallers:41.821538,1.646989
+Església de Sant Pere de Falgars:42.085854,2.438501
+Església de Sant Pere de Figuerola:41.816929,1.43451
+Església de Sant Pere de Graudescales:42.102142,1.689169
+Església de Sant Pere de Juïgues:42.12887,2.849657
+Església de Sant Pere de la Cardosa:41.700283,1.252398
+Església de Sant Pere de la Goda:41.562407,1.450831
+Església de Sant Pere de la Gornal:41.25421,1.592049
+Església de Sant Pere de la Sala:41.899934,1.456311
+Església de Sant Pere de Les Roques:41.576358,1.427419
+Església de Sant Pere de Lligordà:42.21928,2.707494
+Església de Sant Pere de Llobera:41.950754,1.472742
+Església de Sant Pere de Llorà:42.02045,2.70703
+Església de Sant Pere de l’Arç :41.762867,1.51511
+Església de Sant Pere de l’Erm:41.563116,1.501315
+Església de Sant Pere de l’Esquerda:41.924566,2.249799
+Església de Sant Pere de Madrona:42.109926,1.834504
+Església de Sant Pere de Masquefa:41.509035,1.808911
+Església de Sant Pere de Miravé:41.960887,1.459157
+Església de Sant Pere de Mont-ral:41.287318,1.097975
+Església de Sant Pere de Montagut:42.230179,2.596493
+Església de Sant Pere de Montcalb:42.150516,1.698998
+Església de Sant Pere de Montfalcó el Gros:41.657629,1.456876
+Església de Sant Pere de Montfalcó Murallat:41.688793,1.340179
+Església de Sant Pere de Montgrony:42.266428,2.085783
+Església de Sant Pere de Reixac:41.495861,2.206389
+Església de Sant Pere de Riu:41.647315,2.677776
+Església de Sant Pere de Sacama:41.56689,1.912061
+Església de Sant Pere de Sant Domí:41.665513,1.413746
+Església de Sant Pere de Santa Fe:41.698895,1.363085
+Església de Sant Pere de Sarraïma:41.840113,1.919571
+Església de Sant Pere de Savassona -Tavèrnoles :41.956516,2.338682
+Església de Sant Pere de Savella:41.517222,1.246944
+Església de Sant Pere de Serrallonga:42.137583,2.075361
+Església de Sant Pere de Talteüll:41.819048,1.328637
+Església de Sant Pere de Tudela:41.727886,1.306603
+Església de Sant Pere de Valldaneu:41.7485,2.247028
+Església de Sant Pere de Vallhonesta:41.674074,1.887842
+Església de Sant Pere de Vallmanya:41.830766,1.587805
+Església de Sant Pere de Vilalta:41.797642,1.67474
+Església de Sant Pere de Vilamarics:41.653579,1.818066
+Església de Sant Pere de Vilamonera:41.991222,1.21375
+Església de Sant Pere del Castell de Boixadors:41.770269,1.574862
+Església de Sant Pere del castell de les Sitges:41.815833,1.228333
+Església de Sant Pere del castell de Subirats:41.416119,1.816636
+Església de Sant Pere del castell:41.436458,1.868592
+Església de Sant Pere del Pinetell:41.391755,1.191844
+Església de Sant Pere del Pujol:41.896879,1.316795
+Església de Sant Pere del Vim:41.679783,1.529275
+Església de Sant Pere Desplà:41.841574,2.474532
+Església de Sant Pere Despuig:42.213694,2.426222
+Església de Sant Pere d’Ardesa:41.634647,1.580978
+Església de Sant Pere d’Aüira:42.246952,2.145982
+Església de Sant Pere Gros:41.660843,1.26243
+Església de Sant Pere i Sant Sadurní de Mirambell:41.730752,1.491329
+Església de Sant Pere Sasserra:41.880764,1.402787
+Església de Sant Pere:41.338154,1.379185
+Església de Sant Pere:42.304528,2.720111
+Església de Sant Pere:42.1981944,2.699056
+Església de Sant Pere:42.022627,1.415616
+Església de Sant Pere:41.669637,1.701348
+Església de Sant Pere:42.391667,1.813361
+Església de Sant Pere:41.550222,1.040056
+Església de Sant Pere:41.94523,2.55662
+Església de Sant Pere:41.971828,3.144005
+Església de Sant Pere:42.000542,3.068726
+Església de Sant Pere:41.946915,1.778272
+Església de Sant Pol:42.234043,2.286041
+Església de Sant Pol:41.929516,3.036252
+Església de Sant Policarp:42.398891,1.801274
+Església de Sant Ponç de Molers:42.233384,1.761318
+Església de Sant Ponç d’Aulina:42.2366,2.357173
+Església de Sant Ponç:41.401993,1.912407
+Església de Sant Privat:42.149495,2.407793
+Església de Sant Quintí:42.044131,1.807066
+Església de Sant Quintí:42.116358,2.441772
+Església de Sant Quirze de la Coma:41.924,1.439222
+Església de Sant Quirze de Pedret:42.107472,1.883667
+Església de Sant Quirze i Santa Julita:42.176139,1.589875
+Església de Sant Quirze i Santa Julita:41.8785,2.177611
+Església de Sant Ramon de La Coromina:41.909028,1.695721
+Església de Sant Ramon de Sobirana de Ferrans:41.877456,1.851554
+Església de Sant Ramon d’Ermedàs:41.894477,3.16375
+Església de Sant Ramon:41.367723,1.288252
+Església de Sant Roc:41.948636,2.765358
+Església de Sant Romà de Casós:42.482624,0.734225
+Església de Sant Romà de Comiols:42.024292,1.101569
+Església de Sant Romà de la Clusa:42.187222,1.935291
+Església de Sant Romà de les Arenes:42.070398,2.992423
+Església de Sant Romà de Llabià:42.01831,3.088245
+Església de Sant Romà de Valldarques:42.150169,1.226419
+Església de Sant Romà:41.699669,2.847552
+Església de Sant Ruf– Lleida :41.637821,0.637413
+Església de Sant Sadurní de Fonollet:41.991153,1.835394
+Església de Sant Sadurní de Fustanyà:42.341949,2.170629
+Església de Sant Sadurní de la Marca :41.334656,1.582672
+Església de Sant Sadurní de la Salsa:42.035,1.343333
+Església de Sant Sadurní de Malanyeu:42.196056,1.891028
+Església de Sant Sadurní de Rotgers:42.155278,1.972611
+Església de Sant Sadurní de Salelles:41.701767,1.785856
+Església de Sant Sadurní del Cint:42.063206,1.727263
+Església de Sant Sadurní del Pla:41.845083,1.933889
+Església de Sant Sadurní d’Arenys d’Empordà:42.166028,2.953556
+Església de Sant Sadurní:41.956357,2.990975
+Església de Sant Sadurní:42.107267,3.030589
+Església de Sant Salvador :41.515981,1.654099
+Església de Sant Salvador:41.427639,0.594583
+Església de Sant Salvador de Bellver:42.059097,2.19299
+Església de Sant Salvador de Bianya:42.247109,2.40108
+Església de Sant Salvador de Concabella :41.751781,1.235514
+Església de Sant Salvador de Figuerola:41.517047,1.376445
+Església de Sant Salvador de Golorons:41.985004,1.595406
+Església de Sant Salvador de la Mussara :41.252361,1.028278
+Església de Sant Salvador de Puig-alder:42.09771,2.53363
+Església de Sant Salvador de Rojals:41.338648,1.113584
+Església de Sant Salvador de Sant Just Joval:41.975528,1.562861
+Església de Sant Salvador de Serrallops:41.953113,2.130524
+Església de Sant Salvador de Torre Abadal:41.804728,1.835747
+Església de Sant Salvador de Vilaverd:42.141146,1.708711
+Església de Sant Salvador del Jou:42.1955,1.863556
+Església de Sant Salvador:41.74073,1.055135
+Església de Sant Salvador:41.185409,1.544455
+Església de Sant Salvador:42.009846,1.716927
+Església de Sant Salvador:41.822577,0.804579
+Església de Sant Salvador:41.582977,1.337655
+Església de Sant Salvador– Polinyà :41.558072,2.151316
+Església de Sant Sebastià de la Clua:41.990942,1.27808
+Església de Sant Sebastià de Montmajor:41.664278,2.118778
+Església de Sant Sebastià del Sull:42.242663,1.759608
+Església de Sant Sebastià:41.818043,1.902574
+Església de Sant Sebastià:41.721149,1.056268
+Església de Sant Serni de Coborriu:42.351942,1.782006
+Església de Sant Serni de la Llena:42.054925,1.460948
+Església de Sant Serni de la Pedra:42.164697,1.603475
+Església de Sant Serni de Meranges:42.446317,1.786884
+Església de Sant Serni de Prats:42.365833,1.839694
+Església de Sant Serni de Terrers:42.10794,1.730091
+Església de Sant Serni de Vall-llebrerola:41.941647,1.083167
+Església de Sant Serni del Grau:42.133592,1.57285
+Església de Sant Sixt de Miralplà:41.928425,2.237241
+Església de Sant Tomàs de Ventajola:42.415833,1.911667
+Església de Sant Tou:41.695722,2.679083
+Església de Sant Urbà de Montsonís:41.88671,1.022069
+Església de Sant Valentí de les Cabanyes:41.373842,1.69304
+Església de Sant Vicenç:42.199583,2.698333
+Església de Sant Vicenç de Camós:42.087222,2.762
+Església de Sant Vicenç de Castellar:42.119889,1.76025
+Església de Sant Vicenç de Castellolí:41.588447,1.709089
+Església de Sant Vicenç de Fontanelles:41.688121,1.706141
+Església de Sant Vicenç de Jonqueres:41.569549,2.102042
+Església de Sant Vicenç de les Olives:42.103668,3.020916
+Església de Sant Vicenç de Lluçà :42.055012,2.040359
+Església de Sant Vicenç de Moripol:42.197732,1.677183
+Església de Sant Vicenç de Navel:41.937828,1.724095
+Església de Sant Vicenç de Pinós:41.827284,1.541774
+Església de Sant Vicenç de Planoles :42.316078,2.104464
+Església de Sant Vicenç de Regencós:41.952556,3.169972
+Església de Sant Vicenç de Rus:42.273972,1.992503
+Església de Sant Vicenç de Saneja:42.444861,1.903139
+Església de Sant Vicenç de Vilarassau:41.845441,2.041659
+Església de Sant Vicenç del Sallent:42.15441,2.614815
+Església de Sant Vicenç d’Aladernet:41.85625,1.84375
+Església de Sant Vicenç d’Espinalbet:42.118917,1.807889
+Església de Sant Vicenç d’Estamariu:42.375528,1.525378
+Església de Sant Vicenç d’Obiols:42.061196,1.866498
+Església de Sant Vicenç:41.753126,1.068285
+Església de Sant Vicenç:42.173167,1.945167
+Església de Sant Vicenç:41.887222,2.234722
+Església de Sant Victor de Dòrria:42.332821,2.067152
+Església de Santa Àgata:41.928235,1.64012
+Església de Santa Agnès de Solius:41.814956,2.961859
+Església de Santa Anna:41.026183,0.275179
+Església de Santa Anna:41.73162,1.25007
+Església de Santa Bàrbara de Pruneres:42.275427,2.558871
+Església de Santa Càndia:41.522297,1.574864
+Església de Santa Caterina:41.113777,1.039639
+Església de Santa Caterina:42.125361,2.836389
+Església de Santa Cecília de Grevalosa:41.693117,1.65395
+Església de Santa Cecília de Montcal:42.037191,2.759075
+Església de Santa Cecília de Montserrat:41.611504,1.817208
+Església de Santa Cecília de Riutort– La Pobla de Lillet :42.241805,1.92711
+Església de Santa Cecília de Sadernes:42.270083,2.596083
+Església de Santa Cecília d’Odèn:42.132855,1.454997
+Església de Santa Cecília:42.419722,1.878722
+Església de Santa Cecília:42.180917,1.8365
+Església de Santa Cecília:41.992898,2.222262
+Església de Santa Coloma de Can Cabra:42.133398,1.705238
+Església de Santa Coloma de Castellvell :41.98865,1.49334
+Església de Santa Coloma de Fitor:41.905959,3.086754
+Església de Santa Coloma de Marata:41.646472,2.322361
+Església de Santa Coloma:42.41125,1.843806
+Església de Santa Creu de Creixà:41.460394,1.772175
+Església de Santa Creu de La Plana:41.849419,2.011833
+Església de Santa Creu de Morunys:42.14216,1.586781
+Església de Santa Creu de Palou:41.683473,1.924746
+Església de Santa Creu d’Horta:41.915976,2.583835
+Església de Santa Cristina d’Aro:41.815665,3.003437
+Església de Santa Cristina:41.980938,3.009612
+Església de Santa Eugènia de Berga:41.900347,2.283243
+Església de Santa Eugènia de la Mòra Comdal:42.112999,1.343491
+Església de Santa Eugènia de Nerellà:42.358925,1.735328
+Església de Santa Eugènia de Relat:41.884806,1.980389
+Església de Santa Eugènia de Saga:42.41525,1.859944
+Església de Santa Eugènia de Solls:42.203828,2.013672
+Església de Santa Eulàlia d&#8217;Erill la Vall:42.524864,0.825608
+Església de Santa Eulàlia de Begudà:42.19585,2.546092
+Església de Santa Eulàlia de Bonner:42.177054,1.703748
+Església de Santa Eulàlia de Corró d’Avall:41.62731,2.29685
+Església de Santa Eulàlia de Cruïlles:41.956014,3.011495
+Església de Santa Eulàlia de Pardines:41.986028,2.020639
+Església de Santa Eulàlia de Pi:42.353121,1.761876
+Església de Santa Eulàlia de Puig-oriol:42.069056,2.071616
+Església de Santa Eulàlia de Timoneda:42.07775,1.471722
+Església de Santa Eulàlia de Vallcanera:41.840516,2.738136
+Església de Santa Eulàlia d’Éller:42.417023,1.792795
+Església de Santa Eulària:42.70951,0.90202
+Església de Santa Fe de les Serres:42.06905,2.8655
+Església de Santa Fe:42.198266,2.698106
+Església de Santa Helena de Rodes:42.326638,3.160048
+Església de Santa Llúcia de Puigmal:42.216473,2.357066
+Església de Santa Llúcia de Rajadell:41.729132,1.712926
+Església de Santa Llúcia de Treinteres:42.147268,2.55214
+Església de Santa Llúcia i Sant Jaume :41.214944,1.139056
+Església de Santa Llúcia:41.989526,2.827161
+Església de Santa Magdalena:41.66383,1.262143
+Església de Santa Magdalena de Castelladral:41.885417,1.7745
+Església de Santa Magdalena de Fígols:41.967048,1.714975
+Església de Santa Magdalena de Guardiolans:42.138056,1.956056
+Església de Santa Magdalena de les Tàpies:42.034685,1.38136
+Església de Santa Magdalena de Mosqueroles:41.724806,2.436472
+Església de Santa Magdalena de Perella:42.256088,2.333723
+Església de Santa Magdalena de Tragines:42.15198,1.58567
+Església de Santa Magdalena de Vilajoan:42.166417,2.934861
+Església de Santa Magdalena del Collell:42.145652,1.703742
+Església de Santa Magdalena:41.690121,1.428238
+Església de Santa Magdalena:41.53287,1.383967
+Església de Santa Margarida de Bianya:42.207561,2.444678
+Església de Santa Margarida de Meja:41.841146,1.66298
+Església de Santa Margarida de Mercadal:42.06173,1.708985
+Església de Santa Margarida de Sacot:42.1415,2.541833
+Església de Santa Margarida de Sagàs:42.059199,1.958833
+Església de Santa Margarida de Tortafé:41.962881,1.919409
+Església de Santa Margarida del Pla:41.675529,1.819655
+Església de Santa Margarida del Priorat de Sant Genís de Rocafort:41.465363,1.923362
+Església de Santa Margarida d’Ardola:41.961389,2.372694
+Església de Santa Margarida:41.940514,2.845754
+Església de Santa Margarida:41.313253,1.667194
+Església de Santa Maria :41.79173,0.804411
+Església de Santa Maria:41.797729,0.568398
+Església de Santa Maria:42.24775,2.8135
+Església de Santa Maria:41.681099,1.405384
+Església de Santa Maria de Balsareny:41.863056,1.877778
+Església de Santa Maria de Barberà:41.526965,2.126728
+Església de Santa Maria de Batet:42.181182,2.516614
+Església de Santa Maria de Bell-lloc:41.528938,1.385828
+Església de Santa Maria de Bell-lloc:41.839853,2.977822
+Església de Santa Maria de Camós:42.080159,2.774439
+Església de Santa Maria de Camps:41.777319,1.684317
+Església de Santa Maria de Cardet:42.497849,0.786
+Església de Santa Maria de Castell-llebre:42.085086,1.289839
+Església de Santa Maria de Castellar de la Muntanya:42.237995,2.499938
+Església de Santa Maria de Castellmeià:41.735,1.3025
+Església de Santa Maria de Cererols:41.818667,1.767944
+Església de Santa Maria de Cervelló :41.387093,1.960542
+Església de Santa Maria de Claret:41.776628,1.86095
+Església de Santa Maria de Claret:41.820282,1.464438
+Església de Santa Maria de Cornet:41.895289,1.937381
+Església de Santa Maria de Covet:42.087414,1.070102
+Església de Santa Maria de Dusfort:41.740622,1.49414
+Església de Santa Maria de Fares:42.186542,2.73561
+Església de Santa Maria de Finestres:42.111944,2.593056
+Església de Santa Maria de Freixe:42.099361,2.627083
+Església de Santa Maria de Gaià:41.916636,1.925847
+Església de Santa Maria de Gallecs:41.563119,2.196297
+Església de Santa Maria de Gramuntell:41.617344,1.260578
+Església de Santa Maria de Guimerà :41.56498,1.186953
+Església de Santa Maria de Jonqueres:42.21942,2.76888
+Església de Santa Maria de La Bleda:41.343575,1.660849
+Església de Santa Maria de la Cirera:41.552692,1.331205
+Església de Santa Maria de la Roqueta:41.530256,1.484519
+Església de Santa Maria de la Tossa:41.555218,1.580521
+Església de Santa Maria de Lavit:41.446673,1.729922
+Església de Santa Maria de les Besses:41.42991,0.82866
+Església de Santa Maria de Les Esglésies:41.892694,1.822639
+Església de Santa Maria de les Franqueses:41.755918,0.790807
+Església de Santa Maria de les Neus d’Irgo:42.4445,0.771355
+Església de Santa Maria de Llerona:41.649721,2.300164
+Església de Santa Maria de Lliors:41.822722,2.435917
+Església de Santa Maria de Lloberola:41.893616,1.379066
+Església de Santa Maria de Llongarriu:42.258292,2.450943
+Església de Santa Maria de l’Aguda:41.818336,1.401275
+Església de Santa Maria de l’Esperança:41.718028,2.547639
+Església de Santa Maria de l’Estela:42.28325,2.782472
+Església de Santa Maria de Malgrat:41.709167,1.300833
+Església de Santa Maria de Mansolí:41.903385,2.502596
+Església de Santa Maria de Margalef:41.57036,0.76555
+Església de Santa Maria de Monistrol:41.729599,1.760187
+Església de Santa Maria de Montfar:41.607983,1.363178
+Església de Santa Maria de Montlleó:41.643488,1.362648
+Església de Santa Maria de Montnegre:41.955485,2.932433
+Església de Santa Maria de Montraveta:41.924,1.439222
+Església de Santa Maria de Mosoll:42.376667,1.868611
+Església de Santa Maria de Palau de Rialb:42.013099,1.166136
+Església de Santa Maria de Palera:42.221626,2.697771
+Església de Santa Maria de Penyafel:41.316178,1.68365
+Església de Santa Maria de Peralta :41.221887,1.305235
+Església de Santa Maria de Pinós:41.980036,1.94145
+Església de Santa Maria de Porqueres :42.121784,2.748532
+Església de Santa Maria de Puigpardines:42.139583,2.428611
+Església de Santa Maria de Querol:41.991636,1.752613
+Església de Santa Maria de Roca-sança:42.298333,1.871444
+Església de Santa Maria de Rocafort:41.716569,1.9358
+Església de Santa Maria de Rúbies:42.020917,0.912472
+Església de Santa Maria de Rubió:41.644178,1.569833
+Església de Santa Maria de Sant Martí Sarroca :41.380278,1.611111
+Església de Santa Maria de Sant Serni:41.84399,1.464891
+Església de Santa Maria de Santiga:41.534636,2.152663
+Església de Santa Maria de Sasserra:41.862831,1.433362
+Església de Santa Maria de Segueró:42.241806,2.748376
+Església de Santa Maria de Seva:41.839056,2.279917
+Església de Santa Maria de Solanes:42.067444,1.378722
+Església de Santa Maria de Sorba:41.968506,1.66542
+Església de Santa Maria de Talló:42.363651,1.780578
+Església de Santa Maria de Taüll:42.520214,0.847208
+Església de Santa Maria de Torredenegó:41.912961,1.491985
+Església de Santa Maria de Valldaura:42.080333,1.942222
+Església de Santa Maria de Valldossera:41.400639,1.472972
+Església de Santa Maria de Valls:42.132639,1.667175
+Església de Santa Maria de Vernet:41.905095,1.041051
+Església de Santa Maria de Viladordis:41.720556,1.862778
+Església de Santa Maria de Vilaró:41.99482,1.590789
+Església de Santa Maria de Viu de Llevata:42.369434,0.812347
+Església de Santa Maria del Bruc:41.575967,1.785821
+Església de Santa Maria del Camí:41.628559,1.473541
+Església de Santa Maria del Castell de Balsareny:41.870292,1.881885
+Església de Santa Maria del Castell de Besora:42.123676,2.250985
+Església de Santa Maria del Castell de Castelldefels:41.284254,1.978451
+Església de Santa Maria del Castell de Cubells:41.85151,0.958667
+Església de Santa Maria del castell de Mediona:41.47625,1.641472
+Església de Santa Maria del Castell de Miralles:41.518308,1.51868
+Església de Santa Maria del Castell de Saldes:42.233737,1.739442
+Església de Santa Maria del Castell:41.821346,0.726479
+Església de Santa Maria del Coll:41.576958,1.380004
+Església de Santa Maria del Mar:41.846995,3.128673
+Església de Santa Maria del Marquet:41.692962,1.87298
+Església de Santa Maria del Miracle:41.114635,1.259132
+Església de Santa Maria del Palau:42.09408,3.143002
+Església de Santa Maria del Priorat:41.2731,1.1581278
+Església de Santa Maria del Puig:41.551361,1.869439
+Església de Santa Maria del Puit:41.94713,1.387531
+Església de Santa Maria del Vilet:41.556806,1.070192
+Església de Santa Maria del Viver:41.546861,2.407194
+Església de Santa Maria d’Agramunt:41.787225,1.099219
+Església de Santa Maria d’Agullana:42.394167,2.846722
+Església de Santa Maria d’All:42.397861,1.838611
+Església de Santa Maria d’Ardèvol:41.851629,1.519328
+Església de Santa Maria d’Arties:42.697876,0.870698
+Església de Santa Maria d’Avià:42.072512,1.834464
+Església de Santa Maria d’Ermedàs:42.186528,2.938278
+Església de Santa Maria d’Ullà:42.051666,3.108164
+Església de Santa Maria i Sant Jaume:42.370819,1.774782
+Església de Santa Maria la Major:41.377316,1.161523
+Església de Santa Maria Magdalena del Pla:41.41765,1.7128
+Església de Santa Maria:42.200028,2.699796
+Església de Santa Maria:41.665335,1.270608
+Església de Santa Maria:42.105833,1.973667
+Església de Santa Maria:41.512139,1.365722
+Església de Santa Maria:41.422,0.936667
+Església de Santa Maria:42.211266,1.328672
+Església de Santa Maria:42.001251,1.978001
+Església de Santa Maria:41.80584,2.7429
+Església de Santa Maria:41.69631,1.168336
+Església de Santa Maria:41.701262,1.05287
+Església de Santa Maria:41.65911,1.484463
+Església de Santa Pel•laia:41.920215,2.917161
+Església de Santa Seclina:41.798336,2.849148
+Església de Santa Susanna de l’Abellar:41.898116,1.918117
+Església de Santa Susanna de Peralta:41.956905,3.091075
+Església de Santa Susanna de Santa Perpètua de Gaià:41.46349,1.394142
+Església de Santpedor:41.785429,1.838635
+Església de Sª Mª de Siurana:41.257639,0.93225
+Església de Vallfogona:41.563008,1.23634
+Església del Bullidor:41.691431,1.01567
+Església del Carme de Periques:41.977472,1.885417
+Església del Carme:41.724539,1.826818
+Església del Carme:42.307722,3.009389
+Església del Carme:41.647925,1.141818
+Església del Mas del Sepulcre:42.318833,2.986861
+Església del Puig de la Creu:41.629361,2.101194
+Església dels Sants Just i Pastor:42.340056,1.494
+Església dels Sants Metges:42.028114,2.853551
+Església i convent de Sant Joan de Berga :42.102125,1.844764
+Església i Hospital de Sant Andreu:41.725528,1.829139
+Església i Santuari de la Mare de Déu de la Pietat:41.929224,2.850778
+Església NOVA de Sant Joan d&#8217;Oló:41.847444,2.004722
+Església NOVA de Sant Martí de Joval:41.978187,1.588399
+Església NOVA de Sant Mateu:41.881197,3.125607
+Església NOVA de Sant Miquel :41.088343,0.957487
+Església NOVA de Sant Miquel:41.328915,1.456013
+Església NOVA de Sant Pere Màrtir de Peracamps:41.922263,1.463364
+Església NOVA de Sant Salvador:42.219,2.546944
+Església NOVA de Santa Maria de Fenals:41.823444,3.058667
+Església NOVA de Santa Maria de Gàver:41.688056,1.389444
+Església NOVA de Santa Maria del Collell:42.151269,2.657517
+Església NOVA de Santa Maria d’Aguilar del Sunyer:41.952374,1.69643
+Església paleocristiana de Santa Margarida:41.467558,1.917095
+Església parroquial de la Mare de Déu de Sales:41.969133,2.6211
+Església parroquial de la Transfiguració:41.55476,1.094407
+Església parroquial de l’Assumpció de l’Aranyó:41.705624,1.218747
+Església parroquial de Nostra Senyora de la Misericòrdia:42.015968,2.823603
+Església parroquial de Pratdip:41.050845,0.87118
+Església parroquial de Sant Agustí de Lluçanès:42.084894,2.127371
+Església parroquial de Sant Andreu de Clarà:42.00156,1.453526
+Església parroquial de Sant Andreu de Vilagrasseta:41.605167,1.282083
+Església parroquial de Sant Andreu:41.688817,2.313242
+Església parroquial de Sant Andreu:41.932208,2.060047
+Església parroquial de Sant Andreu:41.55527,2.3548
+Església parroquial de Sant Andreu:42.10725,2.7837
+Església parroquial de Sant Andreu:41.717492,1.422933
+Església parroquial de Sant Andreu:41.873877,2.82535
+Església parroquial de Sant Andreu:42.16887,2.74468
+Església parroquial de Sant Baldiri:41.346472,2.045139
+Església parroquial de Sant Bartomeu:41.246085,1.48646
+Església parroquial de Sant Bartomeu:41.983944,2.172861
+Església parroquial de Sant Bartomeu:42.122722,2.962028
+Església parroquial de Sant Cebrià:42.179072,2.795392
+Església parroquial de Sant Climent de Cava:42.324883,1.605044
+Església parroquial de Sant Climent de Vilves:41.917725,1.082694
+Església parroquial de Sant Corneli:41.570202,1.827983
+Església parroquial de Sant Cristòfol:41.92103,2.859164
+Església parroquial de Sant Cugat:42.070778,2.838417
+Església parroquial de Sant Esteve:42.16151,1.091622
+Església parroquial de Sant Esteve de Guialbes:42.115509,2.878188
+Església parroquial de Sant Esteve de Pallerols de Rialb:42.036984,1.214602
+Església parroquial de Sant Esteve d’en Bas:42.118455,2.458997
+Església parroquial de Sant Esteve:42.351684,1.508417
+Església parroquial de Sant Esteve:42.252306,1.86175
+Església parroquial de Sant Esteve:42.088686,2.824589
+Església parroquial de Sant Esteve:41.685222,2.286194
+Església parroquial de Sant Esteve:41.76577,2.65159
+Església parroquial de Sant Esteve:42.010528,1.564306
+Església parroquial de Sant Esteve:41.701696,2.718775
+Església parroquial de Sant Feliu de Calabuig:42.151972,2.924556
+Església parroquial de Sant Feliu de Cartellà:42.023676,2.766345
+Església parroquial de Sant Feliu de Domeny:41.99118,2.797138
+Església parroquial de Sant Feliu de Pallerols:42.075667,2.507972
+Església parroquial de Sant Feliu del Racó:41.623808,2.06792
+Església parroquial de Sant Feliu:41.62462,2.277965
+Església parroquial de Sant Feliu:42.024698,2.879329
+Església parroquial de Sant Feliu:42.142842,2.789853
+Església parroquial de Sant Feliu:41.828688,2.892329
+Església parroquial de Sant Feliu:41.759818,2.014071
+Església parroquial de Sant Fèlix– Sabadell :41.546603,2.108168
+Església parroquial de Sant Fruitós de Bages:41.751597,1.870051
+Església parroquial de Sant Genís:41.673889,2.259694
+Església parroquial de Sant Genís:42.067683,2.910057
+Església parroquial de Sant Genís:42.043515,3.126355
+Església parroquial de Sant Girvès de Castellnou de Carcolze:42.387387,1.58201
+Església parroquial de Sant Gregori:41.991475,2.738243
+Església parroquial de Sant Hilari:41.878987,2.508406
+Església parroquial de Sant Iscle i Santa Victòria de la Torre de Rialb:41.9786,1.206862
+Església parroquial de Sant Iscle i Santa Victòria:42.159444,2.785056
+Església parroquial de Sant Jaume de Campdorà:42.012928,2.844156
+Església parroquial de Sant Jaume de la Manresana:41.724457,1.358056
+Església parroquial de Sant Jaume de Pallerols:41.618506,1.352892
+Església parroquial de Sant Jaume:41.54175,0.92329
+Església parroquial de Sant Jaume:41.167905,1.442023
+Església parroquial de Sant Jaume:41.742203,1.384969
+Església parroquial de Sant Joan Baptista:42.101616,2.801895
+Església parroquial de Sant Joan Baptista:41.367305,2.055757
+Església parroquial de Sant Joan Baptista:42.138316,2.887595
+Església parroquial de Sant Joan de Montanissell:42.199289,1.248497
+Església parroquial de Sant Joan de Torreblanca:41.932249,1.147919
+Església parroquial de Sant Joan d’Avinyó:41.863361,1.971194
+Església parroquial de Sant Joan:41.72473,2.46384
+Església parroquial de Sant Joan:41.601133,1.229475
+Església parroquial de Sant Julià de Corts:42.094813,2.788953
+Església parroquial de Sant Julià de Vilatorta:41.922219,2.32455
+Església parroquial de Sant Julià d’Age:42.418472,1.946694
+Església parroquial de Sant Julià d’Altura:41.583194,2.067299
+Església parroquial de Sant Julià:42.060792,3.046449
+Església parroquial de Sant Julià– Argentona :41.554123,2.400867
+Església parroquial de Sant Llorenç:42.188917,2.844667
+Església parroquial de Sant Llorenç:41.121441,0.410404
+Església parroquial de Sant Lluc:40.59723,0.447093
+Església parroquial de Sant Martí de Campmajor:42.13155,2.68881
+Església parroquial de Sant Martí de Dosquers:42.195111,2.7535
+Església parroquial de Sant Martí de Llesp:42.456703,0.758649
+Església parroquial de Sant Martí de Riells:41.77648,2.51257
+Església parroquial de Sant Martí de Tours:42.118109,2.888883
+Església parroquial de Sant Martí d’Ollers:42.153755,2.833657
+Església parroquial de Sant Martí:42.07991,2.70785
+Església parroquial de Sant Martí:41.616226,0.739391
+Església parroquial de Sant Martí:41.917308,3.164469
+Església parroquial de Sant Martí:42.057316,2.813399
+Església parroquial de Sant Martí:42.308389,3.008472
+Església parroquial de Sant Martí:41.82056,2.717757
+Església parroquial de Sant Martí:42.229343,1.736093
+Església parroquial de Sant Martí:42.036298,2.647054
+Església parroquial de Sant Martí:41.738547,1.350125
+Església parroquial de Sant Martí:41.499861,2.319694
+Església parroquial de Sant Martí:41.33467,1.177348
+Església parroquial de Sant Medir de Cartellà:42.027167,2.773406
+Església parroquial de Sant Miquel de Campmajor:42.13601,2.67928
+Església parroquial de Sant Miquel de Pineda:42.101955,2.494086
+Església parroquial de Sant Miquel de Viver:41.956111,1.812722
+Església parroquial de Sant Miquel:42.159222,1.772028
+Església parroquial de Sant Miquel:42.197722,2.950139
+Església parroquial de Sant Miquel:42.378611,1.817778
+Església parroquial de Sant Miquel:41.605271,0.878089
+Església parroquial de Sant Miquel:41.204139,1.360111
+Església parroquial de Sant Muç :41.6933,2.35473
+Església parroquial de Sant Narcís de Taialà:41.998777,2.791799
+Església parroquial de Sant Nicolau de Bari:41.646363,2.742389
+Església parroquial de Sant Pere :42.35825,1.525935
+Església parroquial de Sant Pere:41.52277,0.620449
+Església parroquial de Sant Pere:42.075471,2.297002
+Església parroquial de Sant Pere de la Vall :42.081315,3.022086
+Església parroquial de Sant Pere de l’Ametlla:41.57531,1.241337
+Església parroquial de Sant Pere de Perafita:42.042124,2.106396
+Església parroquial de Sant Pere de Rubí:41.49194,2.03029
+Església parroquial de Sant Pere de Tudela:41.870834,1.083888
+Església parroquial de Sant Pere dels Arquells:41.643717,1.317616
+Església parroquial de Sant Pere i Sant Feliu:41.607129,1.917625
+Església parroquial de Sant Pere i Santa Maria:41.917724,1.188017
+Església parroquial de Sant Pere Sallavinera:41.736375,1.574542
+Església parroquial de Sant Pere:41.517858,1.902022
+Església parroquial de Sant Pere:42.372611,1.885194
+Església parroquial de Sant Pere:42.089987,2.815746
+Església parroquial de Sant Pere:42.267778,2.96
+Església parroquial de Sant Pere:42.705336,0.889762
+Església parroquial de Sant Pere:41.738568,0.640453
+Església parroquial de Sant Pere:41.120093,1.003531
+Església parroquial de Sant Pere:41.45379,1.70328
+Església parroquial de Sant Pere:41.426747,1.255808
+Església parroquial de Sant Pere:41.61444,0.96076
+Església parroquial de Sant Pere:42.104452,2.991762
+Església parroquial de Sant Quirze i Santa Julita:41.816293,2.51409
+Església parroquial de Sant Romà de Miànigues:42.10614,2.75678
+Església Parroquial de Sant Romà de Perles :42.178703,1.394025
+Església parroquial de Sant Sadurní:42.139473,2.821485
+Església parroquial de Sant Sadurní:41.424708,1.789755
+Església parroquial de Sant Sadurní:41.901889,2.38125
+Església parroquial de Sant Sadurní:42.084585,2.882406
+Església parroquial de Sant Salvador de Gra:41.766414,1.250939
+Església parroquial de Sant Salvador de Marcovau:41.868314,1.033833
+Església parroquial de Sant Salvador:41.648869,1.224439
+Església parroquial de Sant Salvador:41.401034,1.051843
+Església parroquial de Sant Sebastià del Gos:41.889611,1.145611
+Església parroquial de Sant Sebastià:41.711533,0.620158
+Església parroquial de Sant Vicenç de Calders:41.789175,1.991958
+Església parroquial de Sant Vicenç de Fals:41.756841,1.735465
+Església parroquial de Sant Vicenç del Fai:41.698889,2.1985
+Església parroquial de Sant Vicenç:42.038163,2.734946
+Església parroquial de Sant Vicenç:41.868833,2.417444
+Església parroquial de Sant Vicenç:42.22232,2.74232
+Església parroquial de Sant Vicenç:42.020866,3.010588
+Església parroquial de Sant Vicenç:42.10856,2.66089
+Església parroquial de Sant Vicenç:42.061667,2.273861
+Església parroquial de Sant Vicenç:42.09589,2.92994
+Església parroquial de Santa Agnès de Malanyanes:41.60497,2.35445
+Església parroquial de Santa Anna de Montcortès:41.706421,1.230356
+Església parroquial de Santa Cecília:42.341444,1.551028
+Església parroquial de Santa Cecília:42.557716,0.753341
+Església parroquial de Santa Coloma de Cervelló :41.366556,2.014806
+Església parroquial de Santa Coloma de Farners:41.863525,2.662986
+Església parroquial de Santa Coloma:42.327846,1.471999
+Església parroquial de Santa Coloma:42.350588,1.583933
+Església parroquial de Santa Coloma:42.230917,2.819722
+Església parroquial de Santa Creu de Fonollosa:41.763278,1.669083
+Església parroquial de Santa Eulàlia de Noves:42.342306,3.064944
+Església parroquial de Santa Eulàlia:41.280222,1.5805
+Església parroquial de Santa Eulàlia:42.105556,2.818889
+Església parroquial de Santa Eulàlia:42.187035,2.799171
+Església parroquial de Santa Eulàlia:42.280139,3.042694
+Església parroquial de Santa Eulàlia:41.910331,2.188949
+Església parroquial de Santa Llogaia:42.083639,2.838944
+Església parroquial de Santa Magdalena:41.038613,0.250235
+Església parroquial de Santa Magdalena:41.417514,1.518983
+Església parroquial de Santa Margarida:41.991688,1.634835
+Església parroquial de Santa Maria :41.309601,0.98829
+Església parroquial de Santa Maria :41.532052,1.385032
+Església parroquial de Santa Maria:42.213242,2.641763
+Església parroquial de Santa Maria:41.938889,2.319417
+Església parroquial de Santa Maria:41.42393,1.399287
+Església parroquial de Santa Maria de Besora :42.126778,2.257139
+Església parroquial de Santa Maria de Corbera:41.418131,1.923119
+Església parroquial de Santa Maria de Corroncui:42.333805,0.852363
+Església parroquial de Santa Maria de Ginestar:42.015325,2.715752
+Església parroquial de Santa Maria de l’Alba:41.64655,1.139343
+Església parroquial de Santa Maria de Merola:41.931414,1.870983
+Església parroquial de Santa Maria de Montsonís:41.887109,1.02225
+Església parroquial de Santa Maria de Pineda:41.628778,2.689889
+Església parroquial de Santa Maria de Riudaura:42.187619,2.408671
+Església parroquial de Santa Maria de Rubinat:41.624128,1.320025
+Església parroquial de Santa Maria de Seró:41.875645,1.106728
+Església parroquial de Santa Maria de Talamanca:41.737959,1.977354
+Església parroquial de Santa Maria de Verdú:41.611127,1.143619
+Església parroquial de Santa Maria de Vilamarí:42.112222,2.851667
+Església parroquial de Santa Maria de Vilert:42.174053,2.821503
+Església parroquial de Santa Maria dels Turers:42.119543,2.766812
+Església parroquial de Santa Maria:42.119283,2.100703
+Església parroquial de Santa Maria:41.678893,1.018556
+Església parroquial de Santa Maria:41.67591,2.792711
+Església parroquial de Santa Maria:42.135444,1.994125
+Església parroquial de Santa Maria:41.632472,2.162417
+Església parroquial de Santa Maria:41.63857,2.3562
+Església parroquial de Santa Maria:42.283069,2.017173
+Església parroquial de Santa Maria:41.518307,1.291254
+Església parroquial de Santa Maria:42.107212,2.833827
+Església parroquial de Santa Maria:41.634534,0.875346
+Església parroquial de Santa Maria:41.661597,1.396701
+Església parroquial de Santa Maria:41.657776,1.202547
+Església parroquial de Santa Maria:41.825444,1.968306
+Església parroquial de Santa Maria:41.745585,2.635828
+Església parroquial de Santa Maria:41.69759,1.318982
+Església parroquial de Santa Maria:41.710744,0.905035
+Església parroquial de Santa Maria:41.584028,2.169111
+Església parroquial de Santa Maria:41.607751,1.038165
+Església parroquial de Santa Maria:41.229375,1.374859
+Església parroquial de Santa Maria:41.762939,1.324394
+Església parroquial de Santa Maria:41.249887,1.547303
+Església parroquial de Santa Maria:41.458585,0.562123
+Església parroquial de Santa Maria:41.469946,1.087591
+Església parroquial de Santa Maria:41.648458,1.105658
+Església parroquial de Sª Mª de la Guardia Lada:41.589472,1.293694
+Església romànica de Santa Maria d’Artés:41.799618,1.950895
+Església sufragània de Sant Esteve d’Igüerri:42.430058,0.767715
+Església sufragània de Santa Eulàlia de Peranera:42.421204,0.815019
+Església Vella:41.262356,1.171157
+Església vella de Sant Andreu de Maians:41.637577,1.703492
+Església vella de Sant Bartomeu:41.979472,2.18375
+Església VELLA de Sant Joan de Torreblanca:41.937448,1.159856
+Església VELLA de Sant Joan de Vilatorrada:41.742352,1.802945
+Església VELLA de Sant Joan d’Oló:41.851421,1.997047
+Església VELLA de Sant Martí de Joval:41.978975,1.58733
+Església VELLA de Sant Mateu :41.894698,3.114203
+Església VELLA de Sant Miquel :41.087817,0.959002
+Església Vella de Sant Miquel:41.396722,1.103389
+Església vella de Sant Pere i Sant Fermí:41.641492,1.894731
+Església VELLA de Sant Pere Màrtir de Peracamps:41.915929,1.436306
+Església vella de Sant Pere:41.828885,0.57285
+Església Vella de Sant Salvador de Prenafeta:41.376727,1.234126
+Església VELLA de Sant Salvador:42.218446,2.554481
+Església vella de Sant Simeó de Centelles:41.748248,1.665208
+Església Vella de Sant Vicenç:41.716677,2.934161
+Església Vella de Santa Eulàlia:42.033371,1.882885
+Església VELLA de Santa Maria de Fenals:41.842917,3.043194
+Església Vella de Santa Maria de Gàver:41.688274,1.393391
+Església Vella de Santa Maria de Merola:41.947178,1.855466
+Església VELLA de Santa Maria del Collell:42.151075,2.657421
+Església Vella de Santa Maria d’Aguilar del Sunyer:41.953047,1.696467
+Església vella del Pont de Suert :42.407352,0.739606
+Església vella d’Ardenya:41.168667,1.343632
+Esglésies de Sant Pere de Terrassa :41.566933,2.018427
+Esglesiola de Sant Andreu:41.311381,1.086423
+Esglesiola de Sant Iscle i Santa Victoria de Gironella:42.396042,0.789605
+Hospital i església de Sant Julià:42.198249,2.69953
+La Pabordia de Caselles:41.768427,1.68018
+Restes de la Canònica de Santa Maria d’Ullà:42.04829,3.10321
+Restes de l’església de Sant Martí:42.519085,0.849217
+Ruïnes de l’església de Sant Esteve de Camps:41.782718,1.690212
+Ruïnes de l’església de Sant Pere de les Cigales:41.918778,1.896
+Ruïnes de l’església de Sant Pere de les Cigales:41.914791,1.830698
+Ruïnes de Sant Pere del Mont:41.711361,1.652917
+Sant Domènec del Tossal:41.908814,1.149919
+Santa Maria del castell de Claramunt:41.554863,1.669659
+Santuari de Falgars:42.227451,1.945671
+Santuari de Gresolet:42.25871,1.725331
+Santuari de la Mare de Déu de Camp-real:41.806217,1.319679
+Santuari de la Mare de Déu de Cérvoles:41.88292,0.659463
+Santuari de la Mare de Déu de Farners:41.860111,2.632908
+Santuari de la Mare de Déu de Gràcia de la Fontsanta:42.075903,3.009092
+Santuari de la Mare de Déu de la Roca:41.09466,0.93771
+Santuari de la Mare de Déu de la Serra:41.72467,2.628186
+Santuari de la Mare de Déu de la Vedrenya :41.960037,1.10969
+Santuari de la Mare de Déu de les Alegries:41.717514,2.829516
+Santuari de la Mare de Déu de Lord:42.11558,1.58191
+Santuari de la Mare de Déu de l’Esperança:41.963923,3.011892
+Santuari de la Mare de Déu de Paller:42.266739,1.875941
+Santuari de la Mare de Déu de Queralt:42.107625,1.827195
+Santuari de la Mare de Déu del Camí:41.631981,1.252836
+Santuari de la Mare de Déu del Coll:41.957843,2.52442
+Santuari de la Mare de Déu del Far:42.021111,2.536583
+Santuari de la Mare de Déu del Guilar:42.206475,2.650447
+Santuari de la Mare de Déu del Mont:42.258465,2.707135
+Santuari de la Mare de Déu del Montgoi:41.338717,1.175087
+Santuari de la Mare de Déu del Remei:42.419944,1.89025
+Santuari de la Mare de Déu del Roure:42.324245,2.911133
+Santuari de la Mare de Déu del Salgar:41.89327,1.012972
+Santuari de la Mare de Déu dels Àngels :41.984587,2.908851
+Santuari de la Mare de Déu dels Àngels de la Petja:40.785754,0.53012
+Santuari de la Mare de Déu dels Munts:42.078506,2.152235
+Santuari de la Mare de Déu d’Argimon:41.830585,2.635885
+Santuari de la Serra:41.378639,1.15725
+Santuari de la Verge de la Salut:41.688972,2.314
+Santuari de Lourdes:41.852639,2.222111
+Santuari de Lurdes de la Nou:42.163028,1.884583
+Santuari de Lurdes:42.008806,2.038528
+Santuari de Paretdelgada:41.213667,1.175389
+Santuari de Sant Grau d’Ardenya:41.759582,2.948878
+Santuari de Sant Magí de Brufaganya:41.484581,1.448357
+Santuari de Sant Ramon Nonat:41.72597,1.36914
+Santuari de Santa Anna de Claret:41.776883,1.860936
+Santuari de Santa Margarida de Vinyoles:42.139143,2.123161
+Santuari de Santa Maria de Cabrera:42.073333,2.407806
+Santuari de Santa Maria de Foix:41.415042,1.5641
+Santuari de Santa Maria de La Guàrdia:42.002779,1.922972
+Santuari de Santa Maria de l’Om:42.150109,3.063711
+Santuari de Santa Maria de Pinós:41.838027,1.540251
+Santuari de Santa Maria de Puig-aguilar:42.155444,1.660167
+Santuari de Santa Maria de Quadres:42.386528,1.837111
+Santuari de Santa Maria d’Ivorra:41.766773,1.387542
+Santuari de Santa Marina :41.035146,0.848822
+Santuari del Miracle:41.914717,1.525164
+Santuari del Remei:41.994881,1.503082
+Santuari del Tallat:41.482139,1.137572
+Santuari dels Arcs:42.141349,2.585088
+Santuari i Hostatgeria de Sant Ferriol:42.198,2.668667
+Església de Sant Climent de Tor:42.088952,3.067261
+Església de Sant Cristòfol de Figuera:41.810214,1.689167
+Església de Sant Cristòfol de Fonolleres :42.021061,3.052217
+Església de Sant Esteve de la Doma:41.68625,2.277861
+Església de Sant Esteve:41.989936,2.957261
+Església de Sant Feliu de Boada:41.973818,3.125421
+Església de Sant Iscle i Santa Victòria:42.03228,3.057007
+Església de Sant Martí de Fontanilles:42.011926,3.107614
+Església de Sant Pau:41.602111,2.625972
+Església de Santa Maria de Fonteta:41.950313,3.057418
+Església fortificada de la Tallada:42.080059,3.05592
+Església fortificada de Sant Esteve de Maranyà:42.092059,3.046507
+Església fortificada de Sant Feliu :42.02225,3.030056
+Església fortificada de Sant Julià de Rabós :42.379044,3.028734
+Església fortificada de Sant Martí de Llampaies:42.121083,2.936833
+Església fortificada de Sant Martí del Far d’Empordà:42.251865,2.996185
+Església fortificada de Sant Sebastià:42.322495,3.184603
+Església fortificada de Santa Àgata:42.372667,2.921
+Església fortificada de Santa Eugènia de Saus:42.132389,2.978667
+Església fortificada de Santa Eulàlia:42.036242,3.03442
+Església fortificada de Santa Maria de Vilamacolum :42.195011,3.058405
+Església fortificada de Vilatenim:42.271194,2.994889
+Església parroquial de Sant Esteve:42.249583,2.914917
+Església parroquial de Sant Esteve:42.143667,2.954806
+Església parroquial de Sant Llorenç:41.777556,2.730639
+Església parroquial de Sant Pere:41.988117,3.109704
+Església parroquial de Santa Maria:42.084165,2.987447
+Antic convent de Sant Domènec:42.432643,1.928213
+Antic convent de Sant Francesc:41.664397,1.276479
+Cartoixa de Montalegre:41.489139,2.254861
+Cartoixa d’Escaladei:41.257111,0.809861
+Convent de la Mare de Déu de Gràcia:41.357333,0.663306
+Convent de l’església del Carme:41.72464,1.82613
+Convent de Sant Agustí:42.039831,3.124961
+Convent de Sant Andreu:41.64864,1.4063
+Convent de Sant Bartomeu de Bell-Lloc:42.308639,3.008028
+Convent de Sant Bartomeu:41.620456,1.00883
+Convent de Sant Domènec:41.79371,0.809474
+Convent de Sant Domènec:41.985611,2.827942
+Convent de Sant Francesc:41.345226,1.697304
+Convent de Santa clara:40.812389,0.524556
+Convent de Santa Maria de Gràcia:42.135111,3.119806
+Convent del Carme:42.3075,3.009722
+Convent dels Trinitaris:41.657372,1.086689
+Monestir Cistercenc de Santa Maria de Vallsanta:41.566914,1.16207
+Monestir de Cellers:41.815266,1.487961
+Monestir de la Mare de Déu dels Àngels d’Avinganya:41.449088,0.389682
+Monestir de Mas Colom:41.669611,1.125056
+Monestir de Montserrat:41.593346,1.83742
+Monestir de Poblet:41.380806,1.082608
+Monestir de Roca-rossa:41.697176,2.641209
+Monestir de Sant Benet:41.742639,1.89925
+Monestir de Sant Cugat del Vallès :41.473969,2.085126
+Monestir de Sant Daniel:41.988421,2.833572
+Monestir de Sant Esteve:42.120556,2.769444
+Monestir de Sant Feliu de Guíxols :41.780219,3.026539
+Monestir de Sant Joan de les Abadesses:42.232475,2.285969
+Monestir de Sant Joan les Fonts :42.217636,2.514968
+Monestir de Sant Llorenç de Sous:42.254681,2.714921
+Monestir de Sant Llorenç del Munt:41.641222,2.018056
+Monestir de Sant Llorenç:42.235167,1.875194
+Monestir de Sant Pere de Casserres:42.001617,2.34071
+Monestir de Sant Pere de Galligants:41.988748,2.826536
+Monestir de Sant Pere de la Portella:42.103775,1.950862
+Monestir de Sant Pere de Rodes:42.323333,3.166111
+Monestir de Sant Salvador de la Vedella:42.169167,1.8625
+Monestir de Sant Salvador:41.748396,2.557425
+Monestir de Sant Salvi de Cladells:41.87219,2.57578
+Monestir de Sant Sebastià dels Gorgs:41.380644,1.765692
+Monestir de Santa Clara:41.720361,1.835503
+Monestir de Santa Magdalena de Conangle:41.971403,2.32075
+Monestir de Santa Maria de Bellpuig de les Avellanes:41.87534,0.757635
+Monestir de Santa Maria de Gualter:41.928101,1.198274
+Monestir de Santa Maria de l&#8217;Estany :41.869141,2.112535
+Monestir de Santa Maria de Lillet:42.24279,1.993286
+Monestir de Santa Maria de Lluçà:42.0505,2.035333
+Monestir de Santa Maria de Ripoll :42.201328,2.190565
+Monestir de Santa Maria de Serrateix:41.946319,1.776447
+Monestir de Santa Maria de Solius:41.814806,2.962222
+Monestir de Santa Maria de Vallbona:41.524601,1.088403
+Monestir de Santa Maria del Mar:41.850322,3.111883
+Monestir de Santa Maria del Priorat:41.780392,1.434816
+Monestir de Santa Maria d’Amer:42.01,2.601944
+Monestir de Santa Maria d’Escarp:41.430949,0.355513
+Monestir de Santa Maria:42.067917,2.912444
+Monestir de Santa Maria:42.248083,2.813472
+Monestir de Santes Creus:41.346218,1.364
+Monestir del Sant Sepulcre de Palera:42.223946,2.698723
+Restes del convent de Sant Francesc d’Assís:41.982696,2.822183
+Aiguamolls de l’Empordà:42.225028,3.09225
+Ajuntament de Belianes:41.561847,1.017722
+Antic Hospital de Santa Magdalena:41.379689,1.161678
+Antic Hospital de Santa Maria:41.612712,0.623544
+Antic Hospital de Santa Tecla:41.11909,1.25871
+Antiga Casa de la Procura:41.247944,0.810917
+Aqüeducte de Canaletes:41.480142,2.148362
+Aqüeducte de l’Arquebisbe:41.122556,1.254944
+Aqüeducte romà de Can Cua:41.641361,2.681306
+Aqüeducte romà dels Arquets:41.288917,1.562722
+Arc de Berà:41.173306,1.469139
+Arcs apuntats:41.117185,1.258922
+Asil del Sant Crist:41.582806,1.60975
+Banys Àrabs:41.988197,2.825746
+Banys Jueus:42.199076,2.700422
+Bullidor de la Llet i Empedrats:42.275836,1.816662
+Búnquer al Coll de Balaguer:40.965,0.871167
+Búnquer antiaeri:41.627,2.707056
+Búnquer del Canós:41.685917,1.197861
+Búnquer del Serrat de les Forques:41.877,1.015667
+Búnquers de les Cases d&#8217;Alcanar:40.552633,0.530816
+Búnquers de les Torres:42.331389,3.036389
+Búnquers de Martinet:42.35725,1.685028
+Búnquers de Punta Falconera:42.235472,3.218194
+Ca la Garsa:41.117268,1.258971
+Cal Sílio:41.346417,2.040583
+Campanar de Santa Maria:41.347073,1.697775
+Can Barraquer:41.347028,2.0455
+Can Figueres:42.199116,2.699828
+Can Jan de la Farrès:42.148075,2.779651
+Can Torrents:41.347389,2.045806
+Carrer del Càcul:41.862083,3.073583
+Casa Aguiló:41.377056,1.163
+Casa Agullana:41.985011,2.826217
+Casa de la Diputació del General :40.813611,0.521083
+Casa de la Pia Almoina:41.118543,1.257827
+Casa de la Vila:41.37672,1.16133
+Casa de les vídues:41.828409,2.892467
+Casa del Governador:41.716228,2.932653
+Casa Desclergue:41.376391,1.16163
+Casa Grego:40.813606,0.522512
+Casal de Vilalba:41.630708,2.349447
+Catalunya en miniatura:41.358889,1.985833
+Celler Cooperatiu:41.016603,0.512679
+Celler Cooperatiu de Gandesa:41.054932,0.44037
+Cementiri de Lloret:41.70175,2.83621
+Cementiri de Sinera:41.577139,2.546417
+Circ Romà:41.116238,1.25706
+Claustre de l’església de Sant Pere de les Puel•les:41.567778,2.013472
+Claustre de Sant Domènec:42.307222,3.008333
+Clot dels nens xics:41.857317,1.424222
+Colònia Güell:41.362556,2.028306
+Columbari Romà:41.306139,1.356278
+Columbari:41.703761,1.2234
+Conjunt de Feners:42.2105,1.698861
+Cúria Reial:42.198402,2.699505
+Dolmen de Castelltallat:41.811944,1.678611
+Dolmen de la Cova d’en Daina:41.856944,2.9925
+Dolmen de La Paborda:42.344178,1.960681
+Dolmen de les Closes :42.098444,2.732278
+Dolmen de les Maioles:41.666806,1.594306
+Dolmen de Llanera:41.898667,1.475778
+Dolmen de Molers:42.229461,1.762229
+Dolmen de Puigseslloses:41.947722,2.296556
+Dolmen de Sant Corneli:42.015278,2.423111
+Dolmen de Sequers de Gasala:41.855889,2.294444
+Dolmen de Serra Cavallera:41.627222,2.115556
+Dolmen de Sòls de Riu:41.983472,1.203028
+Dolmen del Mas Bou-Serenys:41.831667,2.996667
+Dolmen dels Tres Reis:41.68475,1.579861
+Dou del Bastareny:42.268339,1.799161
+El Pont Alt:41.225917,1.114722
+El Pont Sec:41.227778,1.112778
+El Roure de la Senyora:42.065944,2.150611
+Els Ponts del Portal de més Amunt:41.215944,1.13525
+Els Trullets:41.696529,0.630152
+Empúries:42.134722,3.120556
+Espais naturals del Delta del Llobregat :41.3025,2.122222
+Estany de Banyoles:42.120222,2.753472
+Estany de la Guinardera:41.485194,2.056472
+Estany de Malniu:42.472639,1.791333
+Estany de Puigcerdà:42.436322,1.926931
+Estany d’Ivars i Vila-sana:41.682361,0.948528
+Estanys de la Pera:42.456594,1.598832
+Estudi General:41.985988,2.827343
+Far del Cap-Aspre:41.608167,2.646389
+Fonda dels Àngels:41.376706,1.162595
+Font de la Juliana:41.540167,0.898556
+Font de la Plaça de la Vall:41.913361,1.67875
+Font Gòtica:40.813556,0.5215
+Font Vella o Pou Àrab de Portell:41.742039,1.383036
+Fornet de Sant Salvador :41.491389,0.873056
+Fortalesa Ibèrica dels Vilars:41.568524,0.953995
+Fòrum de la Colònia:41.114611,1.248583
+Fòrum provincial:41.117775,1.25903
+Gorg del Salt:42.13575,1.999194
+Hospital de Pelegrins de Sant Pere de Rodes:42.323417,3.165333
+Hospital de Sant Jaume:42.18125,2.48725
+Hospital de Sant Llàtzer:41.997222,2.824722
+Hostal del Cavaller:41.77734,2.7313
+Jardí botànic Mar i Murtra:41.676667,2.801944
+Jardí Botànic Pinya de Rosa:41.686281,2.81111
+Jardins de Santa Clotilde:41.691344,2.825612
+Jardins del Príncep:40.817,0.525972
+La Llotja:41.929825,2.255228
+La Pabordia:41.986444,2.825447
+La Pia Almoina:41.987161,2.825443
+La Pleta:41.274694,1.914833
+Les Fonts del Llobregat:42.28225,2.01285
+Llotja del Blat:40.808694,0.519167
+Llotja:42.000447,3.06766
+Lo Calvari:41.688822,0.622186
+L’Amfiteatre romà:41.114568,1.258805
+L’Avenc:42.005361,2.441972
+Màgic món del tren:41.905389,2.281739
+Mas Figueró:41.979733,3.04465
+Masia de Can Franch de Vilandeny:41.976315,1.684927
+Mina de petroli de Riutort:42.252306,1.921222
+Molí de Buida-sacs:41.931398,1.640478
+Molí de Gualta:42.027667,3.104111
+Molí de Querol:42.027072,1.399434
+Molí del Rovellat:41.21605,1.133606
+Molí dels cups:42.009856,1.565692
+Molí d’Albió:41.562222,1.270083
+Molins de la Vila:41.375062,1.177239
+Museu d&#8217;Història dels Jueus:41.985978,2.825279
+Museu d’Història:41.634333,2.161389
+Museu i Necròpolis Paleocristians:41.115914,0.238681
+Necròpolis de Ceuró :42.01528,1.382008
+Niu de metralladores:41.744231,1.225761
+Pantà de La Baells:42.121139,1.876639
+Pantà de la Llosa del Cavall:42.119417,1.603833
+Pantà de Sant Ponç :41.962778,1.606944
+Parc de l&#8217;Agulla:41.749028,1.840889
+Parc de les coves prehistòriques:42.160417,2.746056
+Parc de Torreblanca:41.37938,2.054281
+Parc Natural del Delta de l’Ebre:40.646028,0.717139
+Parc Samà:41.10553,1.02044
+Pati de l’Abadia:41.74807,2.55693
+Pedrera del Mèdol:41.1385,1.338667
+Pleta de les Pallargues  I:41.738019,1.195311
+Pleta de les Pallargues II:41.779167,1.212778
+Pletes de Concabella:41.742661,1.22715
+Pletes de Mont-roig:41.734189,1.174911
+Pletes de Mont-Ros:41.737289,1.366139
+Pont de les Arnaules:41.702222,1.863333
+Pont de les Caixes:41.162,1.223472
+Pont de l’Arcada:41.379444,1.869167
+Pont del Clop:42.073611,1.435528
+Pont del Diable:41.145925,1.243935
+Pont Llarg Aqüeducte de la Sèquia de Manresa:41.742062,1.821319
+Pont Nou:41.45,1.691636
+Portal costa de les Monges:42.308861,3.008167
+Portal dels jueus:40.817306,0.526389
+Portal dels Romeus:40.813333,0.5225
+Portal d’Albanyà:42.304167,2.720306
+Porxos de Cal Malet:41.376586,1.161188
+Porxos del carrer Merceria:41.118317,1.257683
+Pou de Gel:41.511616,0.917939
+Pou de poble:41.511206,0.9185
+Refugi antiaeri de la Garriga:41.68468,2.289018
+Reials Col·legis:40.814806,0.524944
+Salí de Cambrils:42.134592,1.392443
+Seminari menor de la Conreria:41.491698,2.25282
+Sepulcre de Ramon Folch de Cardona :41.620456,1.00883
+Sepulcre Megalític dels Plans de Ferran:41.569167,1.453611
+Sindicat agrícola:41.654258,1.416356
+Temple Romà:41.929217,2.256933
+Termes romanes :41.347361,2.046333
+Termes romanes:41.6345,2.161583
+Tines de la Casa de les Tines:41.72825,1.875306
+Tines de les Balmes Roges:41.693056,1.916194
+Tines del Bleda, Tines del Tosques i Tines d&#8217;en Ricardo:41.701292,1.896997
+Tines del Candela:41.809444,1.790556
+Torre dels Escipions:41.132015,1.318979
+Torre dels Francesos:41.613739,1.319433
+Torre dels moros o Molinets de la Llibra:41.388127,1.942329
+Un petit tomb pel Solsonès:42.08575,1.675833
+Verneda de Sant Ponç:41.897111,2.363333
+Via romana:42.243056,2.398889
+Vila romana de Centcelles:41.155833,1.226139
+Vila romana dels Munts:41.136278,1.385861
+Voltes de la Plaça del Vi:41.98314,2.82464
+Voltes d’en Rosès:41.984546,2.82486
