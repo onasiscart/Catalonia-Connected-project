@@ -2,13 +2,13 @@
 
 ![](RDM_CDC.png)
 
-With Catalonia Connected, you will be able to discover the delightful Catalonia landscape and natural beauty as well as its historical heritage. This app generates different maps of any given region in Catalonia which will guide you to nearby medieval monuments wherever you are. For doing this, we have modeled Catalonia as a graph, which allows us to search for optimum routes easily. In general traits, a graph is a set of points between some of which exist edges that connect them. We can model a territory as a graph in which nodes are relevant locations (monunments or intersections) and edges are paths connecting these locations. After executing, the program returns several maps, including a detailed map of the routes and paths, a view of the graph of your zone and a view of the locations of the monuments near you and the routes to reach them, as well as two .*kml files of that can be uploaded to Google Earth in order to see the maps in a 3d backround.
+With Catalonia Connected, you will be able to discover the delightful Catalonia landscape and natural beauty as well as its historical heritage. This app generates different maps of any given region in Catalonia which will guide you to nearby medieval monuments wherever you are. For doing this, we have modeled Catalonia as a graph, which has allowed to search for optimum routes easily. In general traits, a graph is a set of points between some of which exist edges that connect them. We can model a territory as a graph in which nodes are relevant locations (monunments or intersections) and edges are paths connecting these locations. After executing, the program returns several maps, including a detailed map of the routes and paths, a view of the graph of your zone and a view of the locations of the monuments near you and the routes to reach them, as well as two .*kml files of that can be uploaded to Google Earth in order to see the maps in a 3d backround.
 
 
 ## Getting started
 
 ### Prerequisites
-The requiered libraries to run the code are specified in the docuemt "requirements.txt" attached to this folder. To download them, simply execute the following command in your terminal window:
+The requiered libraries to run the code are specified in the docuement "requirements.txt" attached to this folder. To download them, simply execute the following command in your terminal window while working in your current directory:
 
 ##### MacOs / Unix:
 ```
@@ -26,13 +26,13 @@ Once your system meets all the requirements to run the app, you can proceed to d
 
 ## Running
 
-#### Input parameters 
+### Input parameters 
 
 The program takes various input parameters:
 - Coordinates (latitude and longitude) of the region you want. They must be the bottom-left-most and the top-right-most points
 - File names for all the maps.
     - Segments data: file.txt where the geographical points will be stored.
-    - Detailed map: file.png for the detailed routes map.
+    - Detailed map: file.png for the detailed paths map.
     - Monuments data: file.txt where the monuments data will be stored.
     - Simplified graph: *.png and *.kml files for the graph.
     - Routes map: *.png and *.kml for the routes map.
@@ -84,7 +84,7 @@ Please note:
 -Be sure not to name the segment files for two different areas the same!
 -For maps containing the graph and monument routes, two files will be generated: a 2D .png file and a 3D .kml file, both with the same name
 
-file with segment data from OpenStreetMaps: seg_data_EBRE
+file with segment data from OpenStreetMaps: data_EBRE
 
 Simplified graph of all paths and routes in your area: graph_EBRE
 
@@ -94,12 +94,12 @@ Map with the shortest routes to monuments around you: routes_EBRE
 
 Detailed map of OpenStreetMaps routes: paths_EBRE
 ```
-Once it finnishes, you should see the three maps popping in your screen, as well as two KML files saved in your current directory.
+Once it finnishes, you should see the three maps popping in your screen, as well as two KML files saved in your current directory. The files graph_EBRE.png and graph_EBRE.kml contain both the views of the graph, just like routes_EBRE.png and routes_EBRE.kml.
 
-Now you can try the download functions specifying different filenames for the monument and segment data, which will appear in your directory. You can also try modifyinng the default quality for the maps and test diferent number of clusters. For doing this, you can try some other coordinates from the sample file. Downoading the data can take up to several minutes depending on how many geographical points are found in the zone you have selected (they can go up to a few millions).
+Now you can try the download functions specifying different filenames for the monument and segment data, which will appear in your directory. You can also try modifying the default quality for the maps and test diferent number of clusters. For doing this, you can try some other coordinates from the sample file. Downoading the data can take up to several minutes depending on how many geographical points are found in the zone you have selected (they can go up to a few millions).
 
 ### Visualizing the maps
-In order to view the maps in 3d, you have to visit [Google Earth](https://www.google.es/intl/es/earth/index.html?client=safari) and upload the files saved in your system. 
+In order to view the maps in 3d, you have to visit [Google Earth](https://www.google.es/intl/es/earth/index.html?client=safari) and upload the files saved in your system. Visit the url and click on 'execute Earth'. Then, select 'new' and search in you file system for graph_EBRE.kml and routes_EBRE.kml
 
 
 ## Technincal aspects
@@ -115,17 +115,22 @@ That's why we've set standards for which segments we accept as valid: a segment 
 ![](rdm_VO_segments.png)
 
 
-### Building the graph
 
-#### Clustering
-The graph is built using a clustering algorithm from the points obtained from the download, specifically, we are using K-means algorithm from the library scikit-learn. The number of clusters can be specified by the user, but takes the default value of 100.
+### Building the graph
+We have had to build a weighted, undirected graph from a set of geographical coordinates which formed routes. To do it, we have done it in two steps: clustering and syimplifying.
+
+#### Clustering and adding edges
+The graph is built using a clustering algorithm from the points obtained from the download, specifically, we are using K-means algorithm from the library scikit-learn. Clustering is a complex algorithm that, given a set of points, returns k subsets of points that are the closest to  each other, and it is vastly used in map making. The number of clusters can be specified by the user, altough it takes the default value of 100. 
+
+The problem is that, in this case, we had to do a clustering to a set of points which were in fact a collection of paths, and it was important to mantain the connections between them after clustering in order to re-build the graph with the clusters as nodes. For doing it, we have come to a solution that solves it in linear time, searching for segments that live in the border between two clusters. Nevertheless, for two clusters to have an edge, it is not enough to find a single path that crosses through them, as it might have been an error of a GPS or a person that crossed through a dangerous path. Instead, we have set a standard on a minimum number of routes that must connect two nodes in order to put an edge between  them to assure a safer an more accurate track of the terrain.
+
 
 #### Simplifying
-The objective of showing the graph in a map is to give the user a general view of of the region and to complement the routes map. For a detailed view of the routes you can check the segments map. That is the reason why, similarly to what we have done with the data, the graph is cleaned and simplified after being built. We have seen that some edges can be removed without losing too much information. Without going into details, an node can be removed if it has less than three edges connected to it and if the edges form an angle smaller than a constant. This constant is set by default at 30 degrees, but it can be modified by the user through the input. Also, we have set a standard of minimum GPS tracks that must connect two points from the graph to prevent them from being connected only by a single segment that crossed through a single not-accessible path. This is a comparison between the not-simplified graph, and the cleaned one:
+The objective of showing the graph in a map is to give the user a general view of of the region and to complement the routes map. For a detailed view of the routes you can check the segments map. That is the reason why, similarly to what we have done with the data, the graph is cleaned and simplified after being built. We have seen that some edges can be removed without losing too much information. Without going into details, an node can be removed if it has less than three edges connected to it and if the edges form an angle smaller than a constant. This constant is set by default at 30 degrees, but it can be modified by the user through the input. After simplifying, the distances have to be updated. This is a comparison between the not-simplified graph, and the cleaned one:
 
-![](not_simplified_ebre.png)
+![](not_simplified_EBRE.png)
 
-![](graph_ebre.png)
+![](graph_EBRE.png)
 
 
 ### Finding the routes
@@ -135,8 +140,8 @@ It is worth to say that the locations of the monuments do not necessarely coinci
 
 There might be some cases in which there are no routes that go from the starting point to specific mounments in your zone because there is no data of GPS routes that connect both. In these situations, instead of artificially connecting them, we have decided to show a warning message telling that there is no route that goes from your location to that specific monument. The reason for this is that we did not want to create routes through potentially dangerous or unaccessible paths
 
-### Error handling
-During th execution, the app uses various external sources, either for downloading data or managing files in the user's system. That's why we have built a robust error and exception handling system that constantly checks for potential errors being caused by poor internet connection, problems during access to web pages or while searching in the filesystem. That way, we prevent the program from suddenly sopping and the user always know what failed in case something does.
+### Exception handling
+We have built a robust error and exception handling system that constantly checks for potential errors being caused not only by the execution of the code itself (when reading the input parameters or when executing Djikstra, for example), but also by poor internet connection, problems during access to web pages or while searching in the filesystem. The code uses several external sources for downloading data and for searching files in your file system and it is important for the user to know why it has stopped executing in case it does.
 
 #### Type errors
 We have tried to minimize the number of type errors of our code, however, many of the python libraries used do not have types specified and they can give errors when being imported or used. The program works correctly although you may see errors reported when opening the code with a text editor. You can use mypy to chek the type errors of the whole code.
