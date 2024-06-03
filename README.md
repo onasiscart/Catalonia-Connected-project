@@ -21,7 +21,7 @@ py -m pip install -r requirements.txt
 ```
 
 ### Installing the app
-Once your system meets all the requirements to run the app, you can proceed to download the code. In this folder you will find several python files as well as some text documents. Download all the *.py files for the program to be executed correctly. Those are main.py, segments.py, monuments.py, graphmaker.py, routes.py, viewer.py and geographical.py. Additionally, you can also dowload segments.txt and monuments.txt, which contain data samples. You can open all the files using your default text editor.
+Once your system meets all the requirements to run the app, you can proceed to download the code. In this folder you will find several python files as well as some text documents. Download all the *.py files for the program to be executed correctly. Those are main.py, segments.py, monuments.py, graphmaker.py, routes.py, viewer.py and geographical.py. Additionally, you can also dowload segments.txt and monuments.txt, which contain data samples. You can reuse monuments.txt for any area you wish, but segments is a data samplen for a single area. You can open all the files using your default text editor.
 
 
 ## Running
