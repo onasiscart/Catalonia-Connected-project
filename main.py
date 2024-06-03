@@ -134,9 +134,9 @@ def read_start_point() -> Point:
     Reads and returns the starting point Point(latitude, longitude) of a route.
     """
     print("\nWhere do you want to start the route? Enter coordinates below", end="")
-    print("\n Latitude of your starting point:", end="")
+    print("\n Latitude of your starting point: ", end="")
     lat = read(float)
-    print("\nLongitude of your starting point:", end="")
+    print("\nLongitude of your starting point: ", end="")
     lon = read(float)
     return Point(lat, lon)
 
@@ -158,7 +158,7 @@ def read_filenames(requested_maps: str) -> dict[str, str]:
     )
 
     # we will always need segment data
-    print(f"\nfile with segment data from OpenStreetMaps: ", end="")
+    print(f"\nFile with segment data from OpenStreetMaps: ", end="")
     files["segment_data"] = read(str) + ".txt"
 
     # we will need different files for different map options
@@ -170,7 +170,7 @@ def read_filenames(requested_maps: str) -> dict[str, str]:
 
     if requested_maps in ("routes", "all"):
         # we will need to read from a file with monument data
-        print(f"\nfile containing monument data: ", end="")
+        print(f"\nFile containing monument data: ", end="")
         files["monument_data"] = read(str) + ".txt"
         # we will need to generate maps with shortest routes to the monuments
         print(f"\nMap with the shortest routes to monuments around you: ", end="")
