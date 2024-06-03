@@ -45,16 +45,25 @@ def find_monuments() -> Tag | None:
     """
     Finds and returns an html tag with a script containing all the monument information that we need from CatalunyaMedieval
     """
-    url = "https://www.catalunyamedieval.es/comarques/"
-    # search for url, it's usually slow so we indicate that with a timeout
-    response = requests.get(url, timeout=60)
-    soup = BeautifulSoup(response.text, "html.parser")
-    # we look for a javascript script with the information on all the monuments
-    scripts = soup.find_all("script", {"type": "text/javascript"})
-    for script in scripts:
-        # the script contains the following line towards the start
-        if "var aCasaForta" in str(script):
-            return script
+    retries = 5  # Number of retries
+    for attempt in range(retries):
+        try:
+            url = "https://www.catalunyamedieval.es/comarques/"
+            # search for url, it's usually slow so we indicate that with a timeout
+            response = requests.get(url, timeout=60)
+            soup = BeautifulSoup(response.text, "html.parser")
+            # we look for a javascript script with the information on all the monuments
+            scripts = soup.find_all("script", {"type": "text/javascript"})
+            for script in scripts:
+                # the script contains the following line towards the start
+                if "var aCasaForta" in str(script):
+                    return script
+        except:
+            if attempt < retries - 1:
+                print(f"An error occurred downloading the monuments. Retrying...")
+            else:
+                print(f"Failed after {retries} attempts. Exiting...")
+                raise
 
 
 def load_monuments(box: Zone, filename: str) -> Monuments:
