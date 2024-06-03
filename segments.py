@@ -18,7 +18,6 @@ class Segment:
 
 Segments: TypeAlias = list[Segment]
 
-
 MAX_TIME = 100  # maximum time difference acceptable between two points read like xx : xx (min, sec)
 MAX_DIST = 0.1  # maximum distance in Km acceptable between two points
 
@@ -56,7 +55,6 @@ def is_segment_valid(
     return False
 
 
-
 def download_segments(zone: Zone, filename: str) -> None:
     """
     Download all segments in the zone and save them to the file 'filename' in chronological
@@ -69,29 +67,34 @@ def download_segments(zone: Zone, filename: str) -> None:
     page = 0
     with open(filename, "w") as file:
         while True:
-            # get the OpenStreetMaps content for the zone
-            url = f"https://api.openstreetmap.org/api/0.6/trackpoints?bbox={zone_string}&page={page}"
-            response = requests.get(url)
-            gpx_content = response.content.decode("utf-8")
-            gpx = gpxpy.parse(gpx_content)
+            try:
+                # get the OpenStreetMaps content for the zone
+                url = f"https://api.openstreetmap.org/api/0.6/trackpoints?bbox={zone_string}&page={page}"
+                response = requests.get(url)
+                response.raise_for_status()  # Raise an exception for bad status codes
+                gpx_content = response.content.decode("utf-8")
+                gpx = gpxpy.parse(gpx_content)
 
-            if len(gpx.tracks) == 0:
-                break
+                if len(gpx.tracks) == 0:
+                    break
 
-            for track in gpx.tracks:
-                for segment in track.segments:
-                    if all(point.time is not None for point in segment.points):
-                        # save two-point segments in chronological order in the file if they are valid
-                        segment.points.sort(key=lambda p: p.time)
-                        for i in range(len(segment.points) - 1):
-                            p1, p2 = segment.points[i], segment.points[i + 1]
-                            point1 = Point(float(p1.latitude), float(p1.longitude))
-                            point2 = Point(float(p2.latitude), float(p2.longitude))
-                            if is_segment_valid(point1, point2, p1.time, p2.time):
-                                file.write(
-                                    f"{p1.latitude}, {p1.longitude} - {p2.latitude}, {p2.longitude}\n"
-                                )
-            page += 1
+                for track in gpx.tracks:
+                    for segment in track.segments:
+                        if all(point.time is not None for point in segment.points):
+                            # save two-point segments in chronological order in the file if they are valid
+                            segment.points.sort(key=lambda p: p.time)
+                            for i in range(len(segment.points) - 1):
+                                p1, p2 = segment.points[i], segment.points[i + 1]
+                                point1 = Point(float(p1.latitude), float(p1.longitude))
+                                point2 = Point(float(p2.latitude), float(p2.longitude))
+                                if is_segment_valid(point1, point2, p1.time, p2.time):
+                                    file.write(
+                                        f"{p1.latitude}, {p1.longitude} - {p2.latitude}, {p2.longitude}\n"
+                                    )
+                page += 1
+            except requests.RequestException as e:
+                print(f"An error occurred while fetching data: {e}")
+                break  # Exit the loop if there's an error
 
 
 def load_segments(filename: str) -> Segments:
@@ -106,6 +109,7 @@ def load_segments(filename: str) -> Segments:
             points_data = line.strip().split(" - ")
             point1_data = points_data[0].split(", ")
             point2_data = points_data[1].split(", ")
+
             point1 = Point(
                 float(point1_data[0]),
                 float(point1_data[1]),
