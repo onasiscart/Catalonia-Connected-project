@@ -29,7 +29,7 @@ def format_date_and_time(
     Converts date and time from "datetime" object into a tuple which contains the date and
     time as integers in the format (YYMMDD, HHMMSS)
     """
-    if time != None:
+    if time is not None:
         return (int(time.strftime("%Y%m%d")), int(time.strftime("%H%M%S")))
     return None
 
