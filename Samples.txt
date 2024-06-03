@@ -1,0 +1,18 @@
+
+Coordinate samples:
+
+Delta de l'Ebre: 40.5363713  0.5739316671  40.79886535  0.9021482 
+Starting point: 40.692481  0.651148 
+
+Vallès Oriental: 41.523897  2.074469 41.807045  2.513922
+Starting point: 41.548676  2.246927 
+
+Vallès Occidental: 41.597703  1.949020  41.681057  2.168082
+Starting point: 41.630280  2.007482
+
+Cap de Creus: 42.258556  3.144315  42.345739  3.310615 
+Starting point: 42.289634  3.210129
+
+You will see that there are two files named 'data_EBRE' and 'data_CDC' in this folder. They contain data from
+Delta de l'Ebre and Cap de Creus, respectively, so you don't have to download it yourself. Also, monument data contains
+all the data you will need for the monuments.
