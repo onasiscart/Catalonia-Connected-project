@@ -214,7 +214,7 @@ def print_welcome_message() -> None:
     Prints a message to welcome the user to the app
     """
     print(
-        f"\nWELCOME TO (NOM DE LA APLIACICÓ)! This app will let you generate route maps of any zone in our beautiful Catalonia.\n"
+        f"\nWELCOME TO CATALONIA CONNECTED! This app will let you generate route maps of any zone in our beautiful Catalonia.\n"
         "The maps will show lots detailed paths in your zone, as well as different medieval monuments you can visit and the\n"
         "shortest ways to reach them. Enjoy your walk!\n"
     )
