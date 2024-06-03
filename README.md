@@ -21,7 +21,7 @@ py -m pip install -r requirements.txt
 ```
 
 ### Installing the app
-Once your system meets all the requirements to run the app, you can proceed to download the code. In this folder you will find several python files as well as some text documents. Download all the *.py files for the program to be executed correctly. Those are main.py, segments.py, monuments.py, graphmaker.py, routes.py, viewer.py and geographical.py. Additionally, you can also dowload segments.txt and monuments.txt, which contain data samples. You can open all the files using your default text editor.
+Once your system meets all the requirements to run the app, you can proceed to download the code. In this folder you will find several python files as well as some text documents. Download all the *.py files for the program to be executed correctly. Those are main.py, segments.py, monuments.py, graphmaker.py, routes.py, viewer.py and geographical.py. Additionally, you can also dowload data_EBRE.txt and monument_data.txt, which contain data samples. You can open all the files using your default text editor.
 
 
 ## Running
@@ -38,7 +38,7 @@ The program takes various input parameters:
     - Routes map: *.png and *.kml for the routes map.
 - The level of quality of the map can be adjusted by selecting the number of clusters (nodes) and the mininmum angle between edges.
 
-Please note that the program can download all the data when executing, but if you already have a downloaded data file there is no need to download it again. Type its name without the extension when the program asks you to. Monuments.txt contains all the data you will ever need about the monuments, but you will have to download a new segments data file each time you want to visit a new region. All the data files you download, as well as the maps, will be saved in your current directory, that is, the one you are running the program in. Don't name a new file with the name of an already existing file, as it might be replaced. All this information is specified again during execution.
+Please note that the program can download all the data when executing, but if you already have a downloaded data file there is no need to download it again. Type its name without the extension when the program asks you to. monument_data.txt contains all the data you will ever need about the monuments, but you will have to download a new segments data file each time you want to visit a new region. All the data files you download, as well as the maps, will be saved in your current directory, that is, the one you are running the program in. Don't name a new file with the name of an already existing file, as it might be replaced. All this information is specified again during execution.
 
 
 ### Testing
@@ -46,7 +46,7 @@ After installing the required libraries, you can run the code by executing only 
 ```
 pytohn3 main.py
 ```
-You can use segments.txt and monuments.txt to run your first test. Use the coordinates "Delta de l'Ebre" from the sample file, then select 'all maps' option to get all the different maps. When asked for the segments and monuments data filenames, type 'segment_data' and 'monuments_data', respectively. Then, for the map files, select any name you want. The execution in your terminal should look like this:
+You can use data_EBRE.txt and monument_data.txt to run your first test. Use the coordinates "Delta de l'Ebre" from the sample file, then select 'all maps' option to get all the different maps. When asked for the segments and monuments data filenames, type 'data_EBRE' and 'monuments_data', respectively. Then, for the map files, select any name you want. The execution in your terminal should look like this:
 
 ```
 Latitude of the lower left corner of your area: 40.5363713
