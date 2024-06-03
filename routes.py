@@ -23,12 +23,12 @@ def search_for_closest_node(graph: nx.Graph, point: Point) -> int:
     Returns the closest node to the point.
     Pre: all nodes are integers and have a "coord" attribute
     """
-    min_dist, closest_node = -1, 0
+    min_dist, closest_node = -1.0, 0
     for node in graph.nodes():
         # check types
         point2 = graph.nodes[node]["coord"]
         distance = distance_between_points(point, point2)
-        if distance < min_dist or min_dist == -1:
+        if distance < min_dist or min_dist == -1.0:
             min_dist, closest_node = distance, node
     return closest_node
 
