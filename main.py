@@ -51,6 +51,7 @@ def generate_requested_maps(settings: Input) -> None:
             export_graph_KML(graph, settings.files["graphKML"])
         # do we need to generate and show routes?
         if settings.requested_maps in ("routes", "all"):
+            assert settings.start_point
             monuments: Monuments = get_monuments(
                 settings.map_zone, settings.files["monument_data"]
             )
