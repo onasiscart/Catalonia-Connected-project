@@ -112,7 +112,7 @@ The information dowloaded from OpenStreetMaps are pairs of geographical points w
 
 That's why we've set standards for which segments we accept as valid: a segment will not valid if the distance between its starting and end point is grater than 100m. It will also be classified as defective if the dates of both points do not coincide or if their times differ in more than 1 minute. This constants have been decided after several tests, and their purpose is to avoid routes crossing dangerous or unaccessible places. Also, the data is cleaned before save to avoid keeping unnecessary segments and to avoid having to clean them every time, so if you check the data_EBRE.txt you will see that only the geographical points are saved, not the time. Here's the same map after cleaning the data.
 
-![](rdm_VO_segments.png)
+![](https://github.com/onasiscart/Catalonia-Connected-project/raw/main/image/rdm_VO_segments.png)
 
 
 
