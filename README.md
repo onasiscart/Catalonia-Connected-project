@@ -124,14 +124,14 @@ The graph is built using a clustering algorithm from the points obtained from th
 
 The problem is that, in this case, we had to do a clustering to a set of points which were in fact a collection of paths, and it was important to mantain the connections between them after clustering in order to re-build the graph with the clusters as nodes. For doing it, we have come to a solution that solves it in linear time, searching for segments that live in the border between two clusters. Nevertheless, for two clusters to have an edge, it is not enough to find a single path that crosses through them, as it might have been an error of a GPS or a person that crossed through a dangerous path. Instead, we have set a standard on a minimum number of routes that must connect two nodes in order to put an edge between  them to assure a safer an more accurate track of the terrain. Nevertheless, this constant has been dificult to determine, because the number of segments between nodes can vary a lot in certain maps and can go from 18 or 20 to a single one. We have tried some versions using the mean value of all of them, but the mean is ususally high due to certain values  and we still lost a lot of information. In the end, we have come to a low constant that works for any map, although it should be modifyed in future updates. This is an example of the graph after filtering.
 
-![](rdm_min_seg_EBRE.png)
+![](https://github.com/onasiscart/Catalonia-Connected-project/raw/main/image/rdm_min_seg_EBRE.png)
 
 #### Simplifying
 The objective of showing the graph in a map is to give the user a general view of of the region and to complement the routes map. For a detailed view of the routes you can check the segments map. That is the reason why, similarly to what we have done with the data, the graph is cleaned and simplified after being built. We have seen that some edges can be removed without losing too much information. Without going into details, an node can be removed if it has less than three edges connected to it and if the edges form an angle smaller than a constant. This constant is set by default at 30 degrees, but it can be modified by the user through the input. After simplifying, the distances have to be updated. This is a comparison between the not-simplified graph, and the cleaned one:
 
-![](rdm_not_simplified_EBRE.png)
+![](https://github.com/onasiscart/Catalonia-Connected-project/raw/main/image/rdm_not_simplified_EBRE.png)
 
-![](rdm_graph_EBRE.png)
+![](https://github.com/onasiscart/Catalonia-Connected-project/raw/main/image/rdm_graph_EBRE.png)
 
 
 ### Finding the routes
@@ -141,7 +141,7 @@ It is worth to say that the locations of the monuments do not necessarely coinci
 
 There might be some cases in which there are no routes that go from the starting point to specific mounments in your zone because there is no data of GPS routes that connect both. In these situations, instead of artificially connecting them, we have decided to show a warning message telling that there is no route that goes from your location to that specific monument. The reason for this is that we did not want to create routes through potentially dangerous or unaccessible paths. This is an example of a  finneished map with the routes to medieval monuments in Cap de Creus.
 
-![](rdm_routes_CDC.png)
+![](https://github.com/onasiscart/Catalonia-Connected-project/raw/main/image/rdm_routes_CDC.png)
 
 ### Exception handling
 We have built a robust error and exception handling system that constantly checks for potential errors being caused not only by the execution of the code itself (when reading the input parameters or when executing Djikstra, for example), but also by poor internet connection, problems during access to web pages or while searching in the filesystem. The code uses several external sources for downloading data and for searching files in your file system and it is important for the user to know why it has stopped executing in case it does.
