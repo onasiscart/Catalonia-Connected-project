@@ -8,7 +8,7 @@ With Catalonia Connected, you will be able to discover the delightful Catalonia 
 ## Getting started
 
 ### Prerequisites
-The requiered libraries to run the code are specified in the docuement "requirements.txt" attached to this folder. To download them, simply execute the following command in your terminal window while working in your current directory:
+The requiered libraries to run the code are specified in the docuement "requirements.txt" , which you can find in the "TextFiles" folder. To download them, simply execute the following command in your terminal window while working in your current directory:
 
 ##### MacOs / Unix:
 ```
