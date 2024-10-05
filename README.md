@@ -1,6 +1,6 @@
 # Catalonia Connected 
 
-![](rdm_CDC.png)
+![](image/rdm_CDC.png)
 
 With Catalonia Connected, you will be able to discover the delightful Catalonia landscape and natural beauty as well as its historical heritage. This app generates different maps of any given region in Catalonia which will guide you to nearby medieval monuments wherever you are. For doing this, we have modeled Catalonia as a graph, which has allowed to search for optimum routes easily. In general traits, a graph is a set of points between some of which exist edges that connect them. We can model a territory as a graph in which nodes are relevant locations (monunments or intersections) and edges are paths connecting these locations. After executing, the program returns several maps, including a detailed map of the routes and paths, a view of the graph of your zone and a view of the locations of the monuments near you and the routes to reach them, as well as two .*kml files of that can be uploaded to Google Earth in order to see the maps in a 3d backround.
 
